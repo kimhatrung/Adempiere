@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/repos/3.7/!svn/ver/1/lib
+END
+customization.jar
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/3.7/!svn/ver/1/lib/customization.jar
+END
+zkpatches.jar
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/3.7/!svn/ver/1/lib/zkpatches.jar
+END
+posterita.xml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/3.7/!svn/ver/1/lib/posterita.xml
+END
+patches.jar
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/repos/3.7/!svn/ver/1/lib/patches.jar
+END
+adempiereAll.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/lib/adempiereAll.xml
+END
+tomcatServerTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/lib/tomcatServerTemplate.xml
+END
+CheckConflicts.sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/3.7/!svn/ver/1/lib/CheckConflicts.sh
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/repos/3.7/!svn/ver/1/lib/.project
+END
+earstructure.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/lib/earstructure.txt
+END
+zkcustomization.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/lib/zkcustomization.jar
+END

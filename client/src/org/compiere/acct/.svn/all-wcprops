@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/client/src/org/compiere/acct
+END
+AcctViewerData.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/client/src/org/compiere/acct/AcctViewerData.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/client/src/org/compiere/acct/package.html
+END
+AcctViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/client/src/org/compiere/acct/AcctViewer.java
+END

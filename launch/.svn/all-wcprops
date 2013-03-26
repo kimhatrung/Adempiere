@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/repos/3.7/!svn/ver/1/launch
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/3.7/!svn/ver/1/launch/readme.txt
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/repos/3.7/!svn/ver/1/launch/.project
+END
+Adempiere.ico
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/launch/Adempiere.ico
+END
+Adempiere.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/launch/Adempiere.xml
+END

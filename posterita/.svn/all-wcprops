@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/repos/3.7/!svn/ver/1/posterita
+END
+.tomcatplugin
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/posterita/.tomcatplugin
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/3.7/!svn/ver/1/posterita/.project
+END
+properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/posterita/properties.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/posterita/.classpath
+END

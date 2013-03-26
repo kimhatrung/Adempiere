@@ -1,0 +1,331 @@
+10
+
+dir
+1
+http://oceantech.com.vn/repos/3.7
+http://oceantech.com.vn/repos/3.7
+
+
+
+2012-08-22T17:13:04.634298Z
+1
+quan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2f63743c-9f47-4deb-9028-ead4105f5e73
+
+.classpath
+file
+
+
+
+
+2012-08-23T15:14:33.000000Z
+abff0cb65de46b07ed26488f483236ca
+2012-08-22T17:13:04.634298Z
+1
+quan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11941
+
+.project
+file
+
+
+
+
+2012-08-23T15:13:39.000000Z
+aa2d91027f6a6289b22ac186e3dcc4f2
+2012-08-22T17:13:04.634298Z
+1
+quan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+570
+
+.settings
+dir
+
+COMMITTERS
+file
+
+
+
+
+2012-08-23T15:15:14.000000Z
+929fed14696c71ab3ca14af89b64783c
+2012-08-22T17:13:04.634298Z
+1
+quan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7385
+
+JasperReports
+dir
+
+JasperReportsTools
+dir
+
+JasperReportsWebApp
+dir
+
+adempiere.psf
+file
+
+
+
+
+2012-08-23T15:13:39.000000Z
+cbe4da6f75df8fd4d8719403d3ed3cc2
+2012-08-22T17:13:04.634298Z
+1
+quan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2990
+
+base
+dir
+
+client
+dir
+
+data
+dir
+
+db
+dir
+
+doc
+dir
+
+extend
+dir
+
+extension
+dir
+
+glassfishfacet
+dir
+
+install
+dir
+
+interfaces
+dir
+
+jboss
+dir
+
+jbossfacet
+dir
+
+launch
+dir
+
+lib
+dir
+
+license.html
+file
+
+
+
+
+2012-08-23T15:15:14.000000Z
+e5c63f56ae2cb2fd58893a05dffbf0d7
+2012-08-22T17:13:04.634298Z
+1
+quan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16119
+
+looks
+dir
+
+migration
+dir
+
+nbproject
+dir
+
+packages
+dir
+
+posterita
+dir
+
+serverApps
+dir
+
+serverRoot
+dir
+
+sqlj
+dir
+
+testTemplate.properties
+file
+
+
+
+
+2012-08-23T15:14:44.000000Z
+bf3485c24997b9cd45e1ceead79e23bb
+2012-08-22T17:13:04.634298Z
+1
+quan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+531
+
+tools
+dir
+
+utils
+dir
+
+utils_dev
+dir
+
+webCM
+dir
+
+webStore
+dir
+
+zkpackages
+dir
+
+zkwebui
+dir
+

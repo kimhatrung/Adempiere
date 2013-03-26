@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/filter
+END
+NullFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/filter/NullFilter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/filter/package.html
+END
+StringFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/filter/StringFilter.java
+END
+WordFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/filter/WordFilter.java
+END
+CharacterFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/filter/CharacterFilter.java
+END

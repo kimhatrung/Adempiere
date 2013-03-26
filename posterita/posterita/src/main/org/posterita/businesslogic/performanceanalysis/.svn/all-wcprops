@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/performanceanalysis
+END
+ReportDateManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/performanceanalysis/ReportDateManager.java
+END
+ReportManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/performanceanalysis/ReportManager.java
+END
+CustomPOSReportManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/performanceanalysis/CustomPOSReportManager.java
+END
+POSReportManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/performanceanalysis/POSReportManager.java
+END
+CSVReportManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/performanceanalysis/CSVReportManager.java
+END
+POSSalesReportManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/performanceanalysis/POSSalesReportManager.java
+END
+SalesAnalysisReportManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/performanceanalysis/SalesAnalysisReportManager.java
+END

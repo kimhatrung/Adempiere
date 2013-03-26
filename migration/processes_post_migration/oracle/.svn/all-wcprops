@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/migration/processes_post_migration/oracle
+END
+02_SynchronizeTerminology.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/migration/processes_post_migration/oracle/02_SynchronizeTerminology.sql
+END
+04_role_access_update.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/migration/processes_post_migration/oracle/04_role_access_update.sql
+END
+01_add_missing_Translations.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/migration/processes_post_migration/oracle/01_add_missing_Translations.sql
+END
+03_update_sequences.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/migration/processes_post_migration/oracle/03_update_sequences.sql
+END

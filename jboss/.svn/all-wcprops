@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/repos/3.7/!svn/ver/1/jboss
+END
+lgpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/repos/3.7/!svn/ver/1/jboss/lgpl.html
+END
+jar-versions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/3.7/!svn/ver/1/jboss/jar-versions.xml
+END
+JBossORG-EULA.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/jboss/JBossORG-EULA.txt
+END
+copyright.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/3.7/!svn/ver/1/jboss/copyright.txt
+END
+readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/3.7/!svn/ver/1/jboss/readme.html
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/repos/3.7/!svn/ver/1/jboss/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/repos/3.7/!svn/ver/1/jboss/.classpath
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/base/src/org/compiere/interfaces
+END
+ServerRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/interfaces/ServerRemote.java
+END
+StatusLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/compiere/interfaces/StatusLocal.java
+END
+StatusRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/interfaces/StatusRemote.java
+END
+ServerLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/compiere/interfaces/ServerLocal.java
+END
+Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/base/src/org/compiere/interfaces/Server.java
+END
+Status.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/base/src/org/compiere/interfaces/Status.java
+END

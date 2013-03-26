@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed
+END
+VOvrCaret.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VOvrCaret.java
+END
+VColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VColor.java
+END
+ValuePreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/ValuePreference.java
+END
+VRowIDEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VRowIDEditor.java
+END
+VAssignmentDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VAssignmentDialog.java
+END
+VLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VLocation.java
+END
+AutoCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/AutoCompleter.java
+END
+VLocatorDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VLocatorDialog.java
+END
+VEditorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VEditorFactory.java
+END
+VStringBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VStringBeanInfo.java
+END
+VImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VImage.java
+END
+VCellEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VCellEditor.java
+END
+CityVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/CityVO.java
+END
+VEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VEditor.java
+END
+VText.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VText.java
+END
+VPAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VPAttribute.java
+END
+VAccountDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VAccountDialog.java
+END
+CityAutoCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/CityAutoCompleter.java
+END
+ADempiereAutoCompleteDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/ADempiereAutoCompleteDecorator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/package.html
+END
+VBPartner.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VBPartner.java
+END
+VCheckBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VCheckBox.java
+END
+HTMLEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/HTMLEditor.java
+END
+VManagedEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VManagedEditor.java
+END
+VLocationDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VLocationDialog.java
+END
+VComboBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VComboBox.java
+END
+VFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VFile.java
+END
+VPassword.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VPassword.java
+END
+VLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VLookup.java
+END
+VMemo.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VMemo.java
+END
+ComboSelectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/ComboSelectionManager.java
+END
+Editor.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/Editor.java
+END
+VImageDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VImageDialog.java
+END
+AutoCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/AutoCompletion.java
+END
+VLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VLine.java
+END
+VPAttributeDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VPAttributeDialog.java
+END
+VButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VButton.java
+END
+VString.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VString.java
+END
+VHeaderRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VHeaderRenderer.java
+END
+VDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VDate.java
+END
+VAssignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VAssignment.java
+END
+Calculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/Calculator.java
+END
+VRowIDRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VRowIDRenderer.java
+END
+VTextBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VTextBeanInfo.java
+END
+VLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VLocator.java
+END
+VNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VNumber.java
+END
+VTextLong.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VTextLong.java
+END
+Calendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/Calendar.java
+END
+MDocString.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/MDocString.java
+END
+VCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VCellRenderer.java
+END
+MDocDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/MDocDate.java
+END
+VURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VURL.java
+END
+MDocTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/MDocTime.java
+END
+VDocAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VDocAction.java
+END
+VAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VAccount.java
+END
+VBinary.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/VBinary.java
+END
+MDocNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ed/MDocNumber.java
+END

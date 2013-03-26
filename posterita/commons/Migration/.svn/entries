@@ -1,0 +1,114 @@
+10
+
+dir
+1
+http://oceantech.com.vn/repos/3.7/posterita/commons/Migration
+http://oceantech.com.vn/repos/3.7
+
+
+
+2012-08-22T17:13:04.634298Z
+1
+quan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2f63743c-9f47-4deb-9028-ead4105f5e73
+
+1.0-1.5 (AD331b)
+dir
+
+1.6(AD340)
+dir
+
+1.7.0
+dir
+
+1.7.1
+dir
+
+1.7.2
+dir
+
+oracle.properties
+file
+
+
+
+
+2012-08-23T15:15:37.000000Z
+d1dc9538f871a2a3e10c8a10098cc15d
+2012-08-22T17:13:04.634298Z
+1
+quan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+236
+
+oracle.properties.template
+file
+
+
+
+
+2012-08-23T15:15:38.000000Z
+7f2f9ebc8ff3ed5c33ca6fa15c56f485
+2012-08-22T17:13:04.634298Z
+1
+quan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+237
+
+trunk
+dir
+

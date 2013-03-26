@@ -1,0 +1,869 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views
+END
+DD_ORDER_HEADER_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/DD_ORDER_HEADER_VT.sql
+END
+RV_OPENITEMTODATE.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_OPENITEMTODATE.sql
+END
+M_TRANSACTION_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/M_TRANSACTION_V.sql
+END
+C_PROJECT_HEADER_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_PROJECT_HEADER_V.sql
+END
+RV_STORAGE_PER_PRODUCT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_STORAGE_PER_PRODUCT.sql
+END
+PP_PRODUCT_BOM_HEADER_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/PP_PRODUCT_BOM_HEADER_V.sql
+END
+RV_UNPOSTED.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_UNPOSTED.sql
+END
+PP_ORDER_HEADER_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/PP_ORDER_HEADER_V.sql
+END
+RV_INOUTDETAILS.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_INOUTDETAILS.sql
+END
+RV_FACT_ACCT_PERIOD.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_FACT_ACCT_PERIOD.sql
+END
+RV_C_INVOICE_MONTH.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_C_INVOICE_MONTH.sql
+END
+C_PROJECT_DETAILS_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_PROJECT_DETAILS_V.sql
+END
+RV_UNPROCESSED.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_UNPROCESSED.sql
+END
+RV_ALLOCATION.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_ALLOCATION.sql
+END
+RV_C_INVOICE_WEEK.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_C_INVOICE_WEEK.sql
+END
+M_INOUTLINEMA_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/M_INOUTLINEMA_VT.sql
+END
+RV_INOUTLINECONFIRM.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_INOUTLINECONFIRM.sql
+END
+C_DUNNING_LINE_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_DUNNING_LINE_VT.sql
+END
+PP_ORDER_WORKFLOW_HEADER_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/PP_ORDER_WORKFLOW_HEADER_VT.sql
+END
+RV_C_INVOICE_PRODMONTH.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_C_INVOICE_PRODMONTH.sql
+END
+RV_BPARTNER.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_BPARTNER.sql
+END
+RV_WAREHOUSEPRICE.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_WAREHOUSEPRICE.sql
+END
+PP_ORDER_BOM_HEADER_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/PP_ORDER_BOM_HEADER_VT.sql
+END
+RV_C_INVOICE_CUSTOMERVENDQTR.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_C_INVOICE_CUSTOMERVENDQTR.sql
+END
+C_RFQRESPONSELINE_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_RFQRESPONSELINE_VT.sql
+END
+RV_FACT_ACCT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_FACT_ACCT.sql
+END
+C_INVOICE_CANDIDATE_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_INVOICE_CANDIDATE_V.sql
+END
+RV_CLICK_MONTH.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_CLICK_MONTH.sql
+END
+RV_M_REQUISITION.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_M_REQUISITION.sql
+END
+RV_C_INVOICE_CUSTOMERPRODQTR.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_C_INVOICE_CUSTOMERPRODQTR.sql
+END
+C_RFQRESPONSELINEQTY_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_RFQRESPONSELINEQTY_V.sql
+END
+PP_PRODUCT_BOMLINE_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/PP_PRODUCT_BOMLINE_VT.sql
+END
+RV_M_FORECAST_PERIOD.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_M_FORECAST_PERIOD.sql
+END
+R_REQUEST_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/R_REQUEST_V.sql
+END
+AD_USER_ROLES_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/AD_USER_ROLES_V.sql
+END
+AD_FIELD_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/AD_FIELD_VT.sql
+END
+RV_STORAGE.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_STORAGE.sql
+END
+C_PAYSELECTION_REMITTANCE_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_PAYSELECTION_REMITTANCE_VT.sql
+END
+PP_PRODUCT_BOM_HEADER_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/PP_PRODUCT_BOM_HEADER_VT.sql
+END
+RV_CASH_DETAIL.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_CASH_DETAIL.sql
+END
+C_ORDER_HEADER_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_ORDER_HEADER_VT.sql
+END
+AD_TAB_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/AD_TAB_VT.sql
+END
+M_PRODUCT_SUBSTITUTERELATED_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/M_PRODUCT_SUBSTITUTERELATED_V.sql
+END
+RV_PP_MRP.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_PP_MRP.sql
+END
+RV_PRODUCT_COSTING.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_PRODUCT_COSTING.sql
+END
+RV_PP_OPERATION_ACTIVITY.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_PP_OPERATION_ACTIVITY.sql
+END
+M_PRODUCT_STOCK_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/M_PRODUCT_STOCK_V.sql
+END
+RV_PAYMENT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_PAYMENT.sql
+END
+PP_ORDER_BOM_HEADER_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/PP_ORDER_BOM_HEADER_V.sql
+END
+M_INOUTCONFIRM_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/M_INOUTCONFIRM_VT.sql
+END
+C_PAYSELECTION_CHECK_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_PAYSELECTION_CHECK_VT.sql
+END
+C_PAYSELECTION_REMITTANCE_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_PAYSELECTION_REMITTANCE_V.sql
+END
+RV_C_INVOICETAX.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_C_INVOICETAX.sql
+END
+T_INVOICEGL_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/T_INVOICEGL_VT.sql
+END
+RV_COMMISSIONRUNDETAIL.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_COMMISSIONRUNDETAIL.sql
+END
+PP_PRODUCT_BOMLINE_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/PP_PRODUCT_BOMLINE_V.sql
+END
+RV_M_TRANSACTION_SUM.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_M_TRANSACTION_SUM.sql
+END
+RV_ASSET_SUMMONTH.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_ASSET_SUMMONTH.sql
+END
+C_INVOICE_LINETAX_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_INVOICE_LINETAX_V.sql
+END
+RV_ORDERDETAIL.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_ORDERDETAIL.sql
+END
+RV_PROJECTLINEISSUE.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_PROJECTLINEISSUE.sql
+END
+RV_M_FORECAST.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_M_FORECAST.sql
+END
+RV_PROJECTCYCLE.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_PROJECTCYCLE.sql
+END
+PP_ORDER_NODE_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/PP_ORDER_NODE_VT.sql
+END
+RV_REQUESTUPDATES_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_REQUESTUPDATES_V.sql
+END
+RV_M_TRANSACTION.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_M_TRANSACTION.sql
+END
+C_INVOICE_HEADER_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_INVOICE_HEADER_V.sql
+END
+C_ORDER_LINETAX_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_ORDER_LINETAX_VT.sql
+END
+M_MOVEMENTLINEMA_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/M_MOVEMENTLINEMA_VT.sql
+END
+PP_ORDER_WORKFLOW_HEADER_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/PP_ORDER_WORKFLOW_HEADER_V.sql
+END
+RV_PP_ORDER_WORKFLOW.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_PP_ORDER_WORKFLOW.sql
+END
+AD_FIELD_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/AD_FIELD_V.sql
+END
+RV_DD_ORDERDETAIL.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_DD_ORDERDETAIL.sql
+END
+M_MOVEMENT_CANDIDATE_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/M_MOVEMENT_CANDIDATE_V.sql
+END
+RV_PP_ORDER_RECEIPT_ISSUE.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_PP_ORDER_RECEIPT_ISSUE.sql
+END
+T_INVOICEGL_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/T_INVOICEGL_V.sql
+END
+RV_COSTSUMMARY.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_COSTSUMMARY.sql
+END
+RV_PP_ORDER_BOMLINE.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_PP_ORDER_BOMLINE.sql
+END
+PP_ORDER_HEADER_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/PP_ORDER_HEADER_VT.sql
+END
+M_INOUT_LINE_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/M_INOUT_LINE_VT.sql
+END
+RV_CLICK_UNPROCESSED.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_CLICK_UNPROCESSED.sql
+END
+RV_C_RFQRESPONSE.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_C_RFQRESPONSE.sql
+END
+C_INVOICE_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_INVOICE_V.sql
+END
+RV_PP_ORDER_TRANSACTIONS.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_PP_ORDER_TRANSACTIONS.sql
+END
+C_RFQRESPONSELINE_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_RFQRESPONSELINE_V.sql
+END
+AD_CHANGELOG_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/AD_CHANGELOG_V.sql
+END
+RV_C_INVOICE_VENDORMONTH.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_C_INVOICE_VENDORMONTH.sql
+END
+M_INOUT_CANDIDATE_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/M_INOUT_CANDIDATE_V.sql
+END
+RV_INOUTCONFIRM.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_INOUTCONFIRM.sql
+END
+DD_ORDER_HEADER_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/DD_ORDER_HEADER_V.sql
+END
+C_DUNNING_LINE_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_DUNNING_LINE_V.sql
+END
+RV_REQUESTUPDATES.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_REQUESTUPDATES.sql
+END
+C_RFQRESPONSE_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_RFQRESPONSE_V.sql
+END
+RV_COSTDETAIL.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_COSTDETAIL.sql
+END
+RV_C_INVOICE_PRODUCTMONTH.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_C_INVOICE_PRODUCTMONTH.sql
+END
+C_RFQRESPONSE_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_RFQRESPONSE_VT.sql
+END
+M_INOUT_LINECONFIRM_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/M_INOUT_LINECONFIRM_V.sql
+END
+M_MOVEMENTLINEMA_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/M_MOVEMENTLINEMA_V.sql
+END
+RV_PP_PRODUCT_BOMLINE.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_PP_PRODUCT_BOMLINE.sql
+END
+C_PAYMENT_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_PAYMENT_V.sql
+END
+RV_TRANSACTION.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_TRANSACTION.sql
+END
+RV_ASSET_CUSTOMER.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_ASSET_CUSTOMER.sql
+END
+RV_PP_ORDER.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_PP_ORDER.sql
+END
+RV_C_INVOICELINE.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_C_INVOICELINE.sql
+END
+AD_WINDOW_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/AD_WINDOW_VT.sql
+END
+C_INVOICE_LINETAX_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_INVOICE_LINETAX_VT.sql
+END
+M_INOUTLINEMA_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/M_INOUTLINEMA_V.sql
+END
+RV_C_INVOICE.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_C_INVOICE.sql
+END
+PP_ORDER_BOMLINE_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/PP_ORDER_BOMLINE_VT.sql
+END
+RV_PRINTFORMATDETAIL.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_PRINTFORMATDETAIL.sql
+END
+PP_ORDER_BOMLINE_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/PP_ORDER_BOMLINE_V.sql
+END
+C_RFQRESPONSELINEQTY_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_RFQRESPONSELINEQTY_VT.sql
+END
+RV_ASSET_DELIVERY.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_ASSET_DELIVERY.sql
+END
+C_PAYSELECTION_CHECK_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_PAYSELECTION_CHECK_V.sql
+END
+M_INOUTCONFIRM_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/M_INOUTCONFIRM_V.sql
+END
+C_ORDER_LINETAX_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_ORDER_LINETAX_V.sql
+END
+RV_PP_ORDER_STORAGE.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_PP_ORDER_STORAGE.sql
+END
+M_INOUT_HEADER_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/M_INOUT_HEADER_VT.sql
+END
+RV_COST.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_COST.sql
+END
+RV_C_INVOICE_PRODUCTQTR.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_C_INVOICE_PRODUCTQTR.sql
+END
+PP_ORDER_NODE_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/PP_ORDER_NODE_V.sql
+END
+M_INOUT_HEADER_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/M_INOUT_HEADER_V.sql
+END
+C_PROJECT_HEADER_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_PROJECT_HEADER_VT.sql
+END
+RV_C_RFQ_UNANSWERED.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_C_RFQ_UNANSWERED.sql
+END
+AD_TAB_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/AD_TAB_V.sql
+END
+GL_JOURNALLINE_ACCT_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/GL_JOURNALLINE_ACCT_V.sql
+END
+RV_OPENITEM.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_OPENITEM.sql
+END
+M_INOUT_LINECONFIRM_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/M_INOUT_LINECONFIRM_VT.sql
+END
+C_PROJECT_DETAILS_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_PROJECT_DETAILS_VT.sql
+END
+AD_ORG_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/AD_ORG_V.sql
+END
+C_INVOICE_HEADER_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_INVOICE_HEADER_VT.sql
+END
+FACT_ACCT_BALANCE.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/FACT_ACCT_BALANCE.sql
+END
+C_DUNNING_HEADER_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_DUNNING_HEADER_VT.sql
+END
+RV_FACT_ACCT_DAY.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_FACT_ACCT_DAY.sql
+END
+C_INVOICE_V1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_INVOICE_V1.sql
+END
+RV_BPARTNEROPEN.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_BPARTNEROPEN.sql
+END
+C_DUNNING_HEADER_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_DUNNING_HEADER_V.sql
+END
+T_BOMLINE_COSTS.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/T_BOMLINE_COSTS.sql
+END
+C_ORDER_HEADER_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_ORDER_HEADER_V.sql
+END
+M_INOUT_LINE_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/M_INOUT_LINE_V.sql
+END
+RV_C_INVOICE_DAY.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_C_INVOICE_DAY.sql
+END
+RV_C_INVOICE_PRODWEEK.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_C_INVOICE_PRODWEEK.sql
+END
+RV_REQUESTUPDATES_ONLY.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/RV_REQUESTUPDATES_ONLY.sql
+END
+C_INVOICELINE_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/mysql/views/C_INVOICELINE_V.sql
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/posterita/posterita/src/utils
+END
+ImportMessages.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/posterita/posterita/src/utils/ImportMessages.sh
+END
+messages.csv
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/posterita/posterita/src/utils/messages.csv
+END
+trlImporter.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/posterita/posterita/src/utils/trlImporter.jar
+END

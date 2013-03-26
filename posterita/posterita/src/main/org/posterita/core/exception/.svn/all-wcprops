@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/exception
+END
+IOOperationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/exception/IOOperationException.java
+END
+FileOpException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/exception/FileOpException.java
+END

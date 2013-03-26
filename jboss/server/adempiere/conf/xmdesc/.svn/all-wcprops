@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/conf/xmdesc
+END
+Log4jService-xmbean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/conf/xmdesc/Log4jService-xmbean.xml
+END
+NamingBean-xmbean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/conf/xmdesc/NamingBean-xmbean.xml
+END
+ClientUserTransaction-xmbean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/conf/xmdesc/ClientUserTransaction-xmbean.xml
+END
+org.jboss.deployment.JARDeployer-xmbean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/conf/xmdesc/org.jboss.deployment.JARDeployer-xmbean.xml
+END
+TransactionManagerService-xmbean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/conf/xmdesc/TransactionManagerService-xmbean.xml
+END
+org.jboss.deployment.MainDeployer-xmbean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/conf/xmdesc/org.jboss.deployment.MainDeployer-xmbean.xml
+END
+AttributePersistenceService-xmbean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/conf/xmdesc/AttributePersistenceService-xmbean.xml
+END
+org.jboss.deployment.SARDeployer-xmbean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/conf/xmdesc/org.jboss.deployment.SARDeployer-xmbean.xml
+END
+JNDIView-xmbean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/conf/xmdesc/JNDIView-xmbean.xml
+END
+NamingService-xmbean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/conf/xmdesc/NamingService-xmbean.xml
+END

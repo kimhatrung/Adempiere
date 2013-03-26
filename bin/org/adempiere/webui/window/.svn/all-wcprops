@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window
+END
+WChat.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window/WChat.java
+END
+FDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window/FDialog.java
+END
+WEMailDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window/WEMailDialog.java
+END
+WAssignmentDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window/WAssignmentDialog.java
+END
+WImageDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window/WImageDialog.java
+END
+ZkJRViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window/ZkJRViewer.java
+END
+WPAttributeDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window/WPAttributeDialog.java
+END
+FindWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window/FindWindow.java
+END
+ZkReportViewerProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window/ZkReportViewerProvider.java
+END
+WLocatorDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window/WLocatorDialog.java
+END
+InfoSchedule.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window/InfoSchedule.java
+END
+WFieldRecordInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window/WFieldRecordInfo.java
+END
+WAccountDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window/WAccountDialog.java
+END
+WAutoCompleterCity.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window/WAutoCompleterCity.java
+END
+AboutWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window/AboutWindow.java
+END
+ZkJRViewerProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window/ZkJRViewerProvider.java
+END
+WTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window/WTask.java
+END
+LoginWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window/LoginWindow.java
+END
+WTextEditorDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window/WTextEditorDialog.java
+END
+WPAttributeInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window/WPAttributeInstance.java
+END
+ZkReportViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window/ZkReportViewer.java
+END
+WRecordInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window/WRecordInfo.java
+END
+WMediaDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window/WMediaDialog.java
+END
+WRecordAccessDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window/WRecordAccessDialog.java
+END
+WLocationDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window/WLocationDialog.java
+END
+ADWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window/ADWindow.java
+END
+WPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window/WPreference.java
+END
+SimplePDFViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/window/SimplePDFViewer.java
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/repos/3.7/!svn/ver/1/base
+END
+RUN_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/3.7/!svn/ver/1/base/RUN_build.bat
+END
+documentation.bat
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/3.7/!svn/ver/1/base/documentation.bat
+END
+swing.properties
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/3.7/!svn/ver/1/base/swing.properties
+END
+xdoclet-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/3.7/!svn/ver/1/base/xdoclet-build.xml
+END
+Base.html
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/repos/3.7/!svn/ver/1/base/Base.html
+END
+RUN_build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/3.7/!svn/ver/1/base/RUN_build.sh
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/repos/3.7/!svn/ver/1/base/.project
+END
+Swingset.bat
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/3.7/!svn/ver/1/base/Swingset.bat
+END
+packaging-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/base/packaging-build.xml
+END
+.xdoclet
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/repos/3.7/!svn/ver/1/base/.xdoclet
+END
+ADempiere.launch
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/3.7/!svn/ver/1/base/ADempiere.launch
+END
+packages.txt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/3.7/!svn/ver/1/base/packages.txt
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/repos/3.7/!svn/ver/1/base/.classpath
+END
+GenerateModel-general.launch
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/base/GenerateModel-general.launch
+END
+Remote Debug Adempiere.launch
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/Remote%20Debug%20Adempiere.launch
+END
+.packaging
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/repos/3.7/!svn/ver/1/base/.packaging
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/repos/3.7/!svn/ver/1/base/build.xml
+END
+ModelClassGenerator.launch
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/base/ModelClassGenerator.launch
+END
+ModelInterfaceGenerator.launch
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/base/ModelInterfaceGenerator.launch
+END

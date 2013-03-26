@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/db/maintain/Translation
+END
+DeleteLanguage.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/maintain/Translation/DeleteLanguage.sql
+END
+Translation_Copy.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/db/maintain/Translation/Translation_Copy.sql
+END
+Dummy_Translation.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/maintain/Translation/Dummy_Translation.sql
+END
+Translation_Check.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/maintain/Translation/Translation_Check.sql
+END
+Translation-Status.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/db/maintain/Translation/Translation-Status.sql
+END

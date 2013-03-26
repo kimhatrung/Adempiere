@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/1.6(AD340)/postgresql
+END
+002_ad_message.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/1.6(AD340)/postgresql/002_ad_message.sql
+END
+003_C_Currency.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/1.6(AD340)/postgresql/003_C_Currency.sql
+END
+001_ad_Changes for C_Currency.sql
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/1.6(AD340)/postgresql/001_ad_Changes%20for%20C_Currency.sql
+END

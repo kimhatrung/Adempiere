@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/repos/3.7/!svn/ver/1/migration
+END
+migrate_oracle.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/migration/migrate_oracle.sh
+END
+oracle.properties.template
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/migration/oracle.properties.template
+END
+ChangeLog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/migration/ChangeLog.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/3.7/!svn/ver/1/migration/build.xml
+END
+mysql.properties.template
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/migration/mysql.properties.template
+END
+migrate_postgresql.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/migration/migrate_postgresql.sh
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/3.7/!svn/ver/1/migration/.project
+END
+postgresql.properties.template
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/migration/postgresql.properties.template
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/migration/.classpath
+END

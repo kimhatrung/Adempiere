@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/repos/3.7/!svn/ver/1/utils
+END
+RUN_SignDatabaseBuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/utils/RUN_SignDatabaseBuild.sh
+END
+myEnvironmentTemplate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/utils/myEnvironmentTemplate.sh
+END
+RUN_Server2.bat
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/3.7/!svn/ver/1/utils/RUN_Server2.bat
+END
+RUN_DBRestore.bat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/utils/RUN_DBRestore.bat
+END
+WinEnv.js
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/repos/3.7/!svn/ver/1/utils/WinEnv.js
+END
+RUN_Adempiere.bat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/utils/RUN_Adempiere.bat
+END
+myEnvironmentTemplate.bat
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/utils/myEnvironmentTemplate.bat
+END
+RUN_Server2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/utils/RUN_Server2.sh
+END
+RUN_DBExport.bat
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/3.7/!svn/ver/1/utils/RUN_DBExport.bat
+END
+RUN_DBStop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/3.7/!svn/ver/1/utils/RUN_DBStop.sh
+END
+RUN_ImportReference.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/utils/RUN_ImportReference.sh
+END
+RUN_GetAdempiereTemplate.bat
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/utils/RUN_GetAdempiereTemplate.bat
+END
+RUN_DBStart.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/utils/RUN_DBStart.sh
+END
+RUN_Start.bat
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/3.7/!svn/ver/1/utils/RUN_Start.bat
+END
+RUN_GetAdempiereTemplate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/utils/RUN_GetAdempiereTemplate.sh
+END
+RUN_DBStart.bat
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/3.7/!svn/ver/1/utils/RUN_DBStart.bat
+END
+RUN_ImportReference.bat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/utils/RUN_ImportReference.bat
+END
+RUN_PutExportTemplate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/utils/RUN_PutExportTemplate.sh
+END
+RUN_DBStop.bat
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/utils/RUN_DBStop.bat
+END
+RUN_DBExport.sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/3.7/!svn/ver/1/utils/RUN_DBExport.sh
+END
+RUN_Stop.bat
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/3.7/!svn/ver/1/utils/RUN_Stop.bat
+END
+RUN_Migrate.bat
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/3.7/!svn/ver/1/utils/RUN_Migrate.bat
+END
+adempiereDirectTemplate.jnlp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/utils/adempiereDirectTemplate.jnlp
+END
+RUN_Env.bat
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/3.7/!svn/ver/1/utils/RUN_Env.bat
+END
+myDBcopyTemplate.bat
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/3.7/!svn/ver/1/utils/myDBcopyTemplate.bat
+END
+RUN_ExportReference.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/utils/RUN_ExportReference.sh
+END
+RUN_ImportAdempiere.bat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/utils/RUN_ImportAdempiere.bat
+END
+RUN_Adempiere.sh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/3.7/!svn/ver/1/utils/RUN_Adempiere.sh
+END
+RUN_Server2Stop.bat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/3.7/!svn/ver/1/utils/RUN_Server2Stop.bat
+END
+RUN_TrlImport.sh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/3.7/!svn/ver/1/utils/RUN_TrlImport.sh
+END
+RUN_Server2Stop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/utils/RUN_Server2Stop.sh
+END
+RUN_TrlImport.bat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/utils/RUN_TrlImport.bat
+END
+RUN_WinEnvTemplate.bat
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/utils/RUN_WinEnvTemplate.bat
+END
+RUN_DBRestore.sh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/3.7/!svn/ver/1/utils/RUN_DBRestore.sh
+END
+RUN_ImportAdempiere.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/utils/RUN_ImportAdempiere.sh
+END
+RUN_PostMigration.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/3.7/!svn/ver/1/utils/RUN_PostMigration.sh
+END
+RUN_SignDatabaseBuild.bat
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/utils/RUN_SignDatabaseBuild.bat
+END
+RUN_Env.sh
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/repos/3.7/!svn/ver/1/utils/RUN_Env.sh
+END
+myDBcopyTemplate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/3.7/!svn/ver/1/utils/myDBcopyTemplate.sh
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/repos/3.7/!svn/ver/1/utils/.project
+END
+RUN_Migrate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/utils/RUN_Migrate.sh
+END
+RUN_PutExportTemplate.bat
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/utils/RUN_PutExportTemplate.bat
+END
+RUN_TrlExport.sh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/3.7/!svn/ver/1/utils/RUN_TrlExport.sh
+END
+RUN_TrlExport.bat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/utils/RUN_TrlExport.bat
+END
+RUN_UnixEnvTemplate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/utils/RUN_UnixEnvTemplate.sh
+END
+ftpGetAdempiereTemplate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/utils/ftpGetAdempiereTemplate.txt
+END
+ftpPutExportTemplate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/utils/ftpPutExportTemplate.txt
+END

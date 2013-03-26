@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/repos/3.7/!svn/ver/1/install
+END
+RUN_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/3.7/!svn/ver/1/install/RUN_build.bat
+END
+Setup.launch
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/install/Setup.launch
+END
+.myumldata
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/3.7/!svn/ver/1/install/.myumldata
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/3.7/!svn/ver/1/install/build.xml
+END
+RUN_build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/install/RUN_build.sh
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/repos/3.7/!svn/ver/1/install/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/3.7/!svn/ver/1/install/.classpath
+END

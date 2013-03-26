@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/jboss-aop-jdk50.deployer
+END
+pluggable-instrumentor.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/jboss-aop-jdk50.deployer/pluggable-instrumentor.jar
+END
+jrockit-pluggable-instrumentor.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/jboss-aop-jdk50.deployer/jrockit-pluggable-instrumentor.jar
+END
+jboss-aop-jdk50.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/jboss-aop-jdk50.deployer/jboss-aop-jdk50.jar
+END
+jboss-aspect-library-jdk50.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/jboss-aop-jdk50.deployer/jboss-aspect-library-jdk50.jar
+END
+trove.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/jboss-aop-jdk50.deployer/trove.jar
+END
+base-aop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/jboss-aop-jdk50.deployer/base-aop.xml
+END

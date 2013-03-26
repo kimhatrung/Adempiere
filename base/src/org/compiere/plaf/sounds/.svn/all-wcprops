@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/sounds
+END
+OptionPaneQuestion.wav
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/sounds/OptionPaneQuestion.wav
+END
+FrameRestoreDown.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/sounds/FrameRestoreDown.wav
+END
+FrameMaximize.wav
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/sounds/FrameMaximize.wav
+END
+MenuItemCommand.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/sounds/MenuItemCommand.wav
+END
+OptionPaneError.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/sounds/OptionPaneError.wav
+END
+FrameMinimize.wav
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/sounds/FrameMinimize.wav
+END
+FrameClose.wav
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/sounds/FrameClose.wav
+END
+FrameRestoreUp.wav
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/sounds/FrameRestoreUp.wav
+END
+OptionPaneInformation.wav
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/sounds/OptionPaneInformation.wav
+END
+OptionPaneWarning.wav
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/sounds/OptionPaneWarning.wav
+END
+PopupMenuPopup.wav
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/sounds/PopupMenuPopup.wav
+END

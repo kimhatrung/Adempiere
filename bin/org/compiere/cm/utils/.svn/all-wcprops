@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/utils
+END
+LocaleHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/utils/LocaleHandler.java
+END
+Counter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/utils/Counter.java
+END
+TreeXML.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/utils/TreeXML.java
+END
+Attributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/utils/Attributes.java
+END
+RequestAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/utils/RequestAnalyzer.java
+END
+AccessLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/utils/AccessLogger.java
+END
+CMEnv.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/utils/CMEnv.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/repos/3.7/!svn/ver/1/utils_dev/trl
+END
+adempiereTrl.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/utils_dev/trl/adempiereTrl.dtd
+END
+encode.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/3.7/!svn/ver/1/utils_dev/trl/encode.html
+END
+trl_Mandatory.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/utils_dev/trl/trl_Mandatory.xsl
+END
+RUN_Trl_Mandatory.bat
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/utils_dev/trl/RUN_Trl_Mandatory.bat
+END
+trl_Print.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/utils_dev/trl/trl_Print.xsl
+END
+RUN_Trl_Print.bat
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/utils_dev/trl/RUN_Trl_Print.bat
+END

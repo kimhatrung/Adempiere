@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/repos/3.7/!svn/ver/1/utils/unix
+END
+adempiere_Debian.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/utils/unix/adempiere_Debian.sh
+END
+adempiere_as_service_in_linux.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/utils/unix/adempiere_as_service_in_linux.txt
+END
+adempiere_RedHat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/utils/unix/adempiere_RedHat.sh
+END

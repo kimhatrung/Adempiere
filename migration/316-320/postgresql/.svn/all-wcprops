@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/migration/316-320/postgresql
+END
+006_add_ProductCategoryParent.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/migration/316-320/postgresql/006_add_ProductCategoryParent.sql
+END
+007_country_changes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/316-320/postgresql/007_country_changes.sql
+END
+008_2pack_enhancements.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/migration/316-320/postgresql/008_2pack_enhancements.sql
+END
+010_add_feature_1708139.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/316-320/postgresql/010_add_feature_1708139.sql
+END
+004_fix_bug_1705164.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/316-320/postgresql/004_fix_bug_1705164.sql
+END
+011_cleaner_bug_1707995.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/316-320/postgresql/011_cleaner_bug_1707995.sql
+END
+003_fix_acct_constraints_pgsql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/migration/316-320/postgresql/003_fix_acct_constraints_pgsql.sql
+END
+001_add_c_acctschema_isallownegativeposting_pgsql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/3.7/!svn/ver/1/migration/316-320/postgresql/001_add_c_acctschema_isallownegativeposting_pgsql.sql
+END
+013_version32.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/migration/316-320/postgresql/013_version32.sql
+END
+012_alter_column.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/migration/316-320/postgresql/012_alter_column.sql
+END
+009_fix_bug_1707995.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/316-320/postgresql/009_fix_bug_1707995.sql
+END
+002_fix_I_Product_X12DE355_pgsql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/migration/316-320/postgresql/002_fix_I_Product_X12DE355_pgsql.sql
+END
+005_fix_bug_1705537.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/316-320/postgresql/005_fix_bug_1705537.sql
+END

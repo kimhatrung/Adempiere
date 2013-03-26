@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/oracle/procedures
+END
+NextIDByYear.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/db/ddlutils/oracle/procedures/NextIDByYear.sql
+END
+DBA_Recompile.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/db/ddlutils/oracle/procedures/DBA_Recompile.sql
+END
+Cleanup.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/oracle/procedures/Cleanup.sql
+END
+DBA_AfterImport.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/db/ddlutils/oracle/procedures/DBA_AfterImport.sql
+END
+Fact_Acct_Balance_Update.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/db/ddlutils/oracle/procedures/Fact_Acct_Balance_Update.sql
+END
+AD_Column_Sync.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/db/ddlutils/oracle/procedures/AD_Column_Sync.sql
+END
+DBA_Cleanup.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/oracle/procedures/DBA_Cleanup.sql
+END
+M_Product_Delete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/db/ddlutils/oracle/procedures/M_Product_Delete.sql
+END
+nextID.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/oracle/procedures/nextID.sql
+END
+AD_Sequence_DocType.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/db/ddlutils/oracle/procedures/AD_Sequence_DocType.sql
+END
+C_Order_DrillDown.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/db/ddlutils/oracle/procedures/C_Order_DrillDown.sql
+END
+AD_Sequence_Next.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/db/ddlutils/oracle/procedures/AD_Sequence_Next.sql
+END
+AD_Sequence_Doc.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/db/ddlutils/oracle/procedures/AD_Sequence_Doc.sql
+END
+AD_Syncronize.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/db/ddlutils/oracle/procedures/AD_Syncronize.sql
+END
+T_InventoryValue_Create.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/db/ddlutils/oracle/procedures/T_InventoryValue_Create.sql
+END

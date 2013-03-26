@@ -1,0 +1,725 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle
+END
+250_BF2034138.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/250_BF2034138.sql
+END
+335_BF1936311_migrate_bomtype.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/335_BF1936311_migrate_bomtype.sql
+END
+275_PP_Cost_Collector_default_window.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/275_PP_Cost_Collector_default_window.sql
+END
+350_RF2408898_CostCollectorType.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/350_RF2408898_CostCollectorType.sql
+END
+277_BF2081237_C_Payment_Available.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/277_BF2081237_C_Payment_Available.sql
+END
+276_UniqueIndexPPProductBOM.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/276_UniqueIndexPPProductBOM.sql
+END
+340_FR2391012_Invoke_AD_Form_from_button.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/340_FR2391012_Invoke_AD_Form_from_button.sql
+END
+292_BF2112805_Cost_Element.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/292_BF2112805_Cost_Element.sql
+END
+260_BF_FixParameterDistributionOrders.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/260_BF_FixParameterDistributionOrders.sql
+END
+298_BF2133188_FixCalloutDO.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/298_BF2133188_FixCalloutDO.sql
+END
+349_MarkBetaFunctionalities.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/349_MarkBetaFunctionalities.sql
+END
+344_BF1895317.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/344_BF1895317.sql
+END
+339_fixPaymentWindow.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/339_fixPaymentWindow.sql
+END
+287_BF2091231.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/287_BF2091231.sql
+END
+313_FR2101466_Native_Sequence.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/313_FR2101466_Native_Sequence.sql
+END
+258_BF_2038848_OrderPolicy.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/258_BF_2038848_OrderPolicy.sql
+END
+346_placeholder.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/346_placeholder.sql
+END
+311_PosteritaWebPOS_173.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/311_PosteritaWebPOS_173.sql
+END
+329_BF2320411.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/329_BF2320411.sql
+END
+273_BF2073605.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/273_BF2073605.sql
+END
+318_FRLiberoWorkShop_Reverted.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/318_FRLiberoWorkShop_Reverted.sql
+END
+341_FR2350428_LocatorInReplenishTab.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/341_FR2350428_LocatorInReplenishTab.sql
+END
+323_MFreightCategory_Unique.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/323_MFreightCategory_Unique.sql
+END
+283_BF_2088779.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/283_BF_2088779.sql
+END
+359_BF2420918.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/359_BF2420918.sql
+END
+333_BF2344776_PrintMO.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/333_BF2344776_PrintMO.sql
+END
+316_replace_pljava_for352.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/316_replace_pljava_for352.sql
+END
+351_FR2391399_dunning_run_org_filter.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/351_FR2391399_dunning_run_org_filter.sql
+END
+280_FB_1926882_Fix_C_Invoice_v.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/280_FB_1926882_Fix_C_Invoice_v.sql
+END
+345_FR2406777.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/345_FR2406777.sql
+END
+342_FR2337778.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/342_FR2337778.sql
+END
+358_FR2419954.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/358_FR2419954.sql
+END
+282_BF2081237_C_Payment_Allocated.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/282_BF2081237_C_Payment_Allocated.sql
+END
+278_FR_2083255_MRP.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/278_FR_2083255_MRP.sql
+END
+368_version353a.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/368_version353a.sql
+END
+291_FR_2074600_HouseKeeping.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/291_FR_2074600_HouseKeeping.sql
+END
+360_BF2431049.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/360_BF2431049.sql
+END
+299_BF1745154Cost_Reversal_Doc.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/299_BF1745154Cost_Reversal_Doc.sql
+END
+301_BF2141475_messages.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/301_BF2141475_messages.sql
+END
+322_PosteritaSampleData_2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/322_PosteritaSampleData_2.sql
+END
+348_FR2408411_AD_Workflow_IsBetaFunctionality.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/348_FR2408411_AD_Workflow_IsBetaFunctionality.sql
+END
+279_FR2086964.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/279_FR2086964.sql
+END
+290_FR_2094162_Bank_Transfer.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/290_FR_2094162_Bank_Transfer.sql
+END
+308_BF2158682.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/308_BF2158682.sql
+END
+302_BF2142344.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/302_BF2142344.sql
+END
+347_recoverDICTIONARY_ID_COMMENTS.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/347_recoverDICTIONARY_ID_COMMENTS.sql
+END
+337_FR2380080_Implement_drop_shipment.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/337_FR2380080_Implement_drop_shipment.sql
+END
+331_BF2339528_AccessLevelU_Web_Properties.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/331_BF2339528_AccessLevelU_Web_Properties.sql
+END
+285_BF2091203.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/285_BF2091203.sql
+END
+330_PosteritaExampleTerminal.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/330_PosteritaExampleTerminal.sql
+END
+293_PP_SetWindows.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/293_PP_SetWindows.sql
+END
+261_FR_2039663_NewParameterDistributionRun.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/261_FR_2039663_NewParameterDistributionRun.sql
+END
+251_BF2031818.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/251_BF2031818.sql
+END
+369_SequenceCheck353a.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/369_SequenceCheck353a.sql
+END
+320_FR2257170.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/320_FR2257170.sql
+END
+266_FR2048081.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/266_FR2048081.sql
+END
+321_PosteritaSampleData.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/321_PosteritaSampleData.sql
+END
+284_BF2090815.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/284_BF2090815.sql
+END
+310_FR2171947_ad_changelog_speed.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/310_FR2171947_ad_changelog_speed.sql
+END
+254_FR1795398.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/254_FR1795398.sql
+END
+352_BF2412212_PP_Cost_Collector.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/352_BF2412212_PP_Cost_Collector.sql
+END
+324_BF2308332.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/324_BF2308332.sql
+END
+364_FR2431672SubContract.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/364_FR2431672SubContract.sql
+END
+315_replace_pljava_for34.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/315_replace_pljava_for34.sql
+END
+281_FR2026347_Fin_Report_Line_Operand_display_order.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/281_FR2026347_Fin_Report_Line_Operand_display_order.sql
+END
+269_BF2059012_ViewPI.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/269_BF2059012_ViewPI.sql
+END
+357_BF2412212_PP_Cost_Collector.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/357_BF2412212_PP_Cost_Collector.sql
+END
+268_BF2056097_MultipleChangeComponent.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/268_BF2056097_MultipleChangeComponent.sql
+END
+326_FR2164648Implement_PA_DASHBOARDCONTENT_support.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/326_FR2164648Implement_PA_DASHBOARDCONTENT_support.sql
+END
+252_BF2033473_RV_PP_Product_BOMLine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/252_BF2033473_RV_PP_Product_BOMLine.sql
+END
+265_BF2046200.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/265_BF2046200.sql
+END
+363_FR2015331_OrgTrx.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/363_FR2015331_OrgTrx.sql
+END
+304_FR2143573_Enhancements_to_reporting.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/304_FR2143573_Enhancements_to_reporting.sql
+END
+328_BF2319302.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/328_BF2319302.sql
+END
+262_BF2041299.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/262_BF2041299.sql
+END
+271_FR2065395_Implement_New_Document.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/271_FR2065395_Implement_New_Document.sql
+END
+294_FR2117145_rv_unposted.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/294_FR2117145_rv_unposted.sql
+END
+327_BF2319604.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/327_BF2319604.sql
+END
+353_PA_DashboardContent_IsCollapsible.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/353_PA_DashboardContent_IsCollapsible.sql
+END
+306_FR2151667.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/306_FR2151667.sql
+END
+307_BF2153188.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/307_BF2153188.sql
+END
+362_BF2432714_Reset_accounting_date_control.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/362_BF2432714_Reset_accounting_date_control.sql
+END
+286_BF2052847.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/286_BF2052847.sql
+END
+253_FR2035176_ImmediateBankTransfer.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/253_FR2035176_ImmediateBankTransfer.sql
+END
+305_FR2148808_SuppressRepeats.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/305_FR2148808_SuppressRepeats.sql
+END
+257_FR_2030865_Distribution_Run_DO.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/257_FR_2030865_Distribution_Run_DO.sql
+END
+296_FR2002744_ForecastReport.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/296_FR2002744_ForecastReport.sql
+END
+319_BF2273943.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/319_BF2273943.sql
+END
+297_FR2002744_ForecastFix.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/297_FR2002744_ForecastFix.sql
+END
+355_BF2417012.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/355_BF2417012.sql
+END
+361_BF2431285.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/361_BF2431285.sql
+END
+343_nextBusinessDay.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/343_nextBusinessDay.sql
+END
+366_FRLiberoWorkShop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/366_FRLiberoWorkShop.sql
+END
+263_BF1991574.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/263_BF1991574.sql
+END
+300_BF2135012_Asset_Window.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/300_BF2135012_Asset_Window.sql
+END
+317_FR2233277.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/317_FR2233277.sql
+END
+314_PosteritaCashTenderType.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/314_PosteritaCashTenderType.sql
+END
+365_FR2445409.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/365_FR2445409.sql
+END
+338_BF2374272.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/338_BF2374272.sql
+END
+289_FR2092751.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/289_FR2092751.sql
+END
+256_BF_2037027.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/256_BF_2037027.sql
+END
+325_BG2311021_Region_dynamic_validation.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/325_BG2311021_Region_dynamic_validation.sql
+END
+332_placeholder.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/332_placeholder.sql
+END
+356_FR2419089_Hide_Fields_WFM.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/356_FR2419089_Hide_Fields_WFM.sql
+END
+255_FR_2038014_Material_Receipt_To_DRP.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/255_FR_2038014_Material_Receipt_To_DRP.sql
+END
+309_FR2170521_AddChargeToImportOrder.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/309_FR2170521_AddChargeToImportOrder.sql
+END
+274_BF2073737.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/274_BF2073737.sql
+END
+288_FR2092739.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/288_FR2092739.sql
+END
+259_BF2039050_Terminology.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/259_BF2039050_Terminology.sql
+END
+272_FR_2039663_FixParameters.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/272_FR_2039663_FixParameters.sql
+END
+367_checkSequence342.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/367_checkSequence342.sql
+END
+303_FR2143266_multiline_headers.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/303_FR2143266_multiline_headers.sql
+END
+336_BF2227971_planning_window.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/336_BF2227971_planning_window.sql
+END
+264_FR_2011567_Background_Image.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/264_FR_2011567_Background_Image.sql
+END
+354_OrderDistributionDetail.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/354_OrderDistributionDetail.sql
+END
+370_ASIFunctions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/370_ASIFunctions.sql
+END
+270_BF2064671.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/270_BF2064671.sql
+END
+334_FR2353794.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/334_FR2353794.sql
+END
+295_BF2117416.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/295_BF2117416.sql
+END
+267_BF2049497.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/352a-353a/oracle/267_BF2049497.sql
+END

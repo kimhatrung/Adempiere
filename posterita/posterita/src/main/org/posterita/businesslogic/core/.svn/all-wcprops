@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/core
+END
+ApplicationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/core/ApplicationManager.java
+END
+AttachmentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/core/AttachmentManager.java
+END
+ChargeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/core/ChargeManager.java
+END
+AccountingManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/core/AccountingManager.java
+END
+AttributeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/core/AttributeManager.java
+END

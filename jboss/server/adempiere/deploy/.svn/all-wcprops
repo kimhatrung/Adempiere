@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy
+END
+hsqldb-ds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/hsqldb-ds.xml
+END
+jbossjca-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/jbossjca-service.xml
+END
+ejb3-interceptors-aop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/ejb3-interceptors-aop.xml
+END
+properties-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/properties-service.xml
+END
+client-deployer-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/client-deployer-service.xml
+END
+jboss-local-jdbc.rar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/jboss-local-jdbc.rar
+END
+schedule-manager-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/schedule-manager-service.xml
+END
+scheduler-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/scheduler-service.xml
+END
+ejb-deployer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/ejb-deployer.xml
+END
+jboss-ha-local-jdbc.rar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/jboss-ha-local-jdbc.rar
+END
+sqlexception-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/sqlexception-service.xml
+END
+jmx-invoker-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/jmx-invoker-service.xml
+END
+ear-deployer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/ear-deployer.xml
+END
+jboss-ha-xa-jdbc.rar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/jboss-ha-xa-jdbc.rar
+END
+monitoring-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/monitoring-service.xml
+END
+cache-invalidation-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/cache-invalidation-service.xml
+END
+mail-ra.rar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/mail-ra.rar
+END
+jsr88-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/jsr88-service.xml
+END
+jboss-xa-jdbc.rar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/jboss-xa-jdbc.rar
+END

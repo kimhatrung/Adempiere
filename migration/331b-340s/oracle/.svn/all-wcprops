@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle
+END
+060_FR_1866483JasperFinancialReports.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/060_FR_1866483JasperFinancialReports.sql
+END
+072_FR1875981_EAN13.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/072_FR1875981_EAN13.sql
+END
+088_BF1621517.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/088_BF1621517.sql
+END
+092_FR1883270_seqNrPattern.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/092_FR1883270_seqNrPattern.sql
+END
+077_BF_1871567.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/077_BF_1871567.sql
+END
+096_FRs1783027_1755177.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/096_FRs1783027_1755177.sql
+END
+086_FR1879470_ModelValidatorScript.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/086_FR1879470_ModelValidatorScript.sql
+END
+050_Create_2008_Calendar_For_GardenWorld.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/050_Create_2008_Calendar_For_GardenWorld.sql
+END
+065_FR_1871741.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/065_FR_1871741.sql
+END
+081_BF1846279.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/081_BF1846279.sql
+END
+130_FR1924635.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/130_FR1924635.sql
+END
+074_FR1876984.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/074_FR1876984.sql
+END
+099_FR1887651.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/099_FR1887651.sql
+END
+117-FR1834749.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/117-FR1834749.sql
+END
+102_FR1639204.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/102_FR1639204.sql
+END
+062_FR1853645.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/062_FR1853645.sql
+END
+056_FR1782412_beautifywindow.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/056_FR1782412_beautifywindow.sql
+END
+097_1851190.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/097_1851190.sql
+END
+061_BF1851188.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/061_BF1851188.sql
+END
+126_BF1912484.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/126_BF1912484.sql
+END
+104_FR1894573.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/104_FR1894573.sql
+END
+057_BF1866222.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/057_BF1866222.sql
+END
+087_BF1869844.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/087_BF1869844.sql
+END
+048_FieldGroupType_in_AD_Field_V.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/048_FieldGroupType_in_AD_Field_V.sql
+END
+100_FR1892335.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/100_FR1892335.sql
+END
+110_FR_1866483JasperFinancialReports.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/110_FR_1866483JasperFinancialReports.sql
+END
+106_BF1759431.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/106_BF1759431.sql
+END
+046_FR1800371_SystemConfiguratorEnhancements.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/046_FR1800371_SystemConfiguratorEnhancements.sql
+END
+103_BF1713137.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/103_BF1713137.sql
+END
+084_FR1876642_views.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/084_FR1876642_views.sql
+END
+101_FR1892819.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/101_FR1892819.sql
+END
+055_Bug1863640.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/055_Bug1863640.sql
+END
+066_FR1871740_MenuReorg.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/066_FR1871740_MenuReorg.sql
+END
+080_BF_1879568.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/080_BF_1879568.sql
+END
+090_FR1885485_ClearWindowSizes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/090_FR1885485_ClearWindowSizes.sql
+END
+118_FR1909210.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/118_FR1909210.sql
+END
+083_FR1876642.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/083_FR1876642.sql
+END
+089_FR1883270.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/089_FR1883270.sql
+END
+063_FR1851188_ASP.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/063_FR1851188_ASP.sql
+END
+135_version340s.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/135_version340s.sql
+END
+120_BF1909248.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/120_BF1909248.sql
+END
+131_FR1924645.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/131_FR1924645.sql
+END
+078_FR1877902_EngineScript.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/078_FR1877902_EngineScript.sql
+END
+076_FR1877902_EngineScript.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/076_FR1877902_EngineScript.sql
+END
+049_FR1860642_C_DocType.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/049_FR1860642_C_DocType.sql
+END
+085_FR1884105.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/085_FR1884105.sql
+END
+112_BF1907259.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/112_BF1907259.sql
+END
+107_BR1902656.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/107_BR1902656.sql
+END
+075_FR1877902_BeanshellCallout.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/075_FR1877902_BeanshellCallout.sql
+END
+125_FR1920314.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/125_FR1920314.sql
+END
+105_FR1894640.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/105_FR1894640.sql
+END
+127_BF1913443.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/127_BF1913443.sql
+END
+069_BF_1873440.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/069_BF_1873440.sql
+END
+082_BF1881876.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/082_BF1881876.sql
+END
+098_BF1892475.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/331b-340s/oracle/098_BF1892475.sql
+END

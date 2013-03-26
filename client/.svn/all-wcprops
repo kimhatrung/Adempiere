@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/repos/3.7/!svn/ver/1/client
+END
+RUN_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/client/RUN_build.bat
+END
+documentation.bat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/client/documentation.bat
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/repos/3.7/!svn/ver/1/client/build.xml
+END
+RUN_build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/3.7/!svn/ver/1/client/RUN_build.sh
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/repos/3.7/!svn/ver/1/client/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/3.7/!svn/ver/1/client/.classpath
+END
+packages.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/3.7/!svn/ver/1/client/packages.txt
+END

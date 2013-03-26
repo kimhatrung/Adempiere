@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui
+END
+ZkContextProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/ZkContextProvider.java
+END
+ValuePreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/ValuePreference.java
+END
+WArchive.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/WArchive.java
+END
+WZoomAcross.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/WZoomAcross.java
+END
+ClientInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/ClientInfo.java
+END
+WRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/WRequest.java
+END
+TimelineEventFeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/TimelineEventFeed.java
+END
+LayoutUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/LayoutUtils.java
+END
+IWebClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/IWebClient.java
+END
+AdempiereIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/AdempiereIdGenerator.java
+END
+AdempiereWebUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/AdempiereWebUI.java
+END
+WLogin.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/WLogin.java
+END
+ServerContextCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/ServerContextCallback.java
+END

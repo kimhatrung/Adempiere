@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/repos/3.7/!svn/ver/1/data/fr_FR
+END
+CM_Container_Element_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/data/fr_FR/CM_Container_Element_Trl_fr_FR.xml
+END
+AD_Window_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/data/fr_FR/AD_Window_Trl_fr_FR.xml
+END
+C_Currency_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/data/fr_FR/C_Currency_Trl_fr_FR.xml
+END
+C_TaxCategory_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/data/fr_FR/C_TaxCategory_Trl_fr_FR.xml
+END
+C_DunningLevel_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/data/fr_FR/C_DunningLevel_Trl_fr_FR.xml
+END
+CM_CStage_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/data/fr_FR/CM_CStage_Trl_fr_FR.xml
+END
+C_ElementValue_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/data/fr_FR/C_ElementValue_Trl_fr_FR.xml
+END
+R_MailText_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/data/fr_FR/R_MailText_Trl_fr_FR.xml
+END
+AD_Process_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/data/fr_FR/AD_Process_Trl_fr_FR.xml
+END
+AD_WF_Node_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/data/fr_FR/AD_WF_Node_Trl_fr_FR.xml
+END
+C_PaymentTerm_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/data/fr_FR/C_PaymentTerm_Trl_fr_FR.xml
+END
+C_DocType_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/data/fr_FR/C_DocType_Trl_fr_FR.xml
+END
+C_UOM_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/data/fr_FR/C_UOM_Trl_fr_FR.xml
+END
+AD_InfoWindow_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/data/fr_FR/AD_InfoWindow_Trl_fr_FR.xml
+END
+C_Country_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/data/fr_FR/C_Country_Trl_fr_FR.xml
+END
+AD_Workflow_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/data/fr_FR/AD_Workflow_Trl_fr_FR.xml
+END
+AD_PrintFormatItem_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/data/fr_FR/AD_PrintFormatItem_Trl_fr_FR.xml
+END
+AD_Field_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/data/fr_FR/AD_Field_Trl_fr_FR.xml
+END
+AD_Form_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/data/fr_FR/AD_Form_Trl_fr_FR.xml
+END
+AD_Element_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/data/fr_FR/AD_Element_Trl_fr_FR.xml
+END
+AD_Task_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/data/fr_FR/AD_Task_Trl_fr_FR.xml
+END
+W_MailMsg_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/data/fr_FR/W_MailMsg_Trl_fr_FR.xml
+END
+AD_Workbench_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/data/fr_FR/AD_Workbench_Trl_fr_FR.xml
+END
+AD_Message_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/data/fr_FR/AD_Message_Trl_fr_FR.xml
+END
+CM_Container_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/data/fr_FR/CM_Container_Trl_fr_FR.xml
+END
+AD_Process_Para_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/data/fr_FR/AD_Process_Para_Trl_fr_FR.xml
+END
+CM_CStage_Element_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/data/fr_FR/CM_CStage_Element_Trl_fr_FR.xml
+END
+AD_Reference_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/data/fr_FR/AD_Reference_Trl_fr_FR.xml
+END
+C_Tax_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/data/fr_FR/C_Tax_Trl_fr_FR.xml
+END
+AD_Table_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/data/fr_FR/AD_Table_Trl_fr_FR.xml
+END
+C_Greeting_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/data/fr_FR/C_Greeting_Trl_fr_FR.xml
+END
+AD_PrintLabelLine_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/data/fr_FR/AD_PrintLabelLine_Trl_fr_FR.xml
+END
+W_Store_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/data/fr_FR/W_Store_Trl_fr_FR.xml
+END
+AD_Tab_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/data/fr_FR/AD_Tab_Trl_fr_FR.xml
+END
+AD_Menu_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/data/fr_FR/AD_Menu_Trl_fr_FR.xml
+END
+M_Product_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/data/fr_FR/M_Product_Trl_fr_FR.xml
+END
+AD_InfoColumn_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/data/fr_FR/AD_InfoColumn_Trl_fr_FR.xml
+END
+AD_Desktop_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/data/fr_FR/AD_Desktop_Trl_fr_FR.xml
+END
+AD_FieldGroup_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/data/fr_FR/AD_FieldGroup_Trl_fr_FR.xml
+END
+AD_Ref_List_Trl_fr_FR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/data/fr_FR/AD_Ref_List_Trl_fr_FR.xml
+END

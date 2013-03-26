@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/utils
+END
+MonthConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/utils/MonthConverter.java
+END
+DisplayReportServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/utils/DisplayReportServlet.java
+END
+NumberUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/utils/NumberUtil.java
+END
+IOUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/utils/IOUtil.java
+END
+FormatBigDecimal.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/utils/FormatBigDecimal.java
+END
+SimpleEmailLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/utils/SimpleEmailLayout.java
+END
+Encrypter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/utils/Encrypter.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/jboss-web.deployer/META-INF
+END
+webserver-xmbean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/jboss-web.deployer/META-INF/webserver-xmbean.xml
+END
+jboss-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/jboss-web.deployer/META-INF/jboss-service.xml
+END

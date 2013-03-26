@@ -1,0 +1,407 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/repos/3.7/!svn/ver/1/jboss/client
+END
+jacorb.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/jboss/client/jacorb.jar
+END
+commons-httpclient.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/jboss/client/commons-httpclient.jar
+END
+FastInfoset.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/jboss/client/FastInfoset.jar
+END
+jboss-xml-binding.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/jboss/client/jboss-xml-binding.jar
+END
+xmlsec.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/jboss/client/xmlsec.jar
+END
+jboss-jaxrpc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/jboss/client/jboss-jaxrpc.jar
+END
+jboss-srp-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/jboss/client/jboss-srp-client.jar
+END
+jboss-j2ee.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/jboss/client/jboss-j2ee.jar
+END
+wstx.jar
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/3.7/!svn/ver/1/jboss/client/wstx.jar
+END
+jbossws-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/jboss/client/jbossws-client.jar
+END
+jboss-jsr77-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/jboss/client/jboss-jsr77-client.jar
+END
+jboss-common-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/jboss/client/jboss-common-client.jar
+END
+jbossjmx-ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/jboss/client/jbossjmx-ant.jar
+END
+log4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/3.7/!svn/ver/1/jboss/client/log4j.jar
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/jboss/client/commons-logging.jar
+END
+jboss-serialization.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/jboss/client/jboss-serialization.jar
+END
+jboss-deployment.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/jboss/client/jboss-deployment.jar
+END
+auth.conf
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/3.7/!svn/ver/1/jboss/client/auth.conf
+END
+jmx-invoker-adaptor-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/jboss/client/jmx-invoker-adaptor-client.jar
+END
+scout.jar
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/3.7/!svn/ver/1/jboss/client/scout.jar
+END
+jboss-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/jboss/client/jboss-client.jar
+END
+jmx-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/jboss/client/jmx-client.jar
+END
+jettison.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/3.7/!svn/ver/1/jboss/client/jettison.jar
+END
+jbossws-common.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/jboss/client/jbossws-common.jar
+END
+jboss-ejb3-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/jboss/client/jboss-ejb3-client.jar
+END
+jaxb-impl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/3.7/!svn/ver/1/jboss/client/jaxb-impl.jar
+END
+jnp-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/jboss/client/jnp-client.jar
+END
+jboss-aop-jdk50-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/jboss/client/jboss-aop-jdk50-client.jar
+END
+jbossall-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/jboss/client/jbossall-client.jar
+END
+servlet-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/jboss/client/servlet-api.jar
+END
+logkit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/jboss/client/logkit.jar
+END
+wsdl4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/jboss/client/wsdl4j.jar
+END
+jboss-jaxws-ext.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/jboss/client/jboss-jaxws-ext.jar
+END
+jbossmq-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/jboss/client/jbossmq-client.jar
+END
+getopt.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/jboss/client/getopt.jar
+END
+trove.jar
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/3.7/!svn/ver/1/jboss/client/trove.jar
+END
+jboss-iiop-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/jboss/client/jboss-iiop-client.jar
+END
+jbossws-framework.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/jboss/client/jbossws-framework.jar
+END
+stax-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/3.7/!svn/ver/1/jboss/client/stax-api.jar
+END
+hibernate-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/jboss/client/hibernate-client.jar
+END
+jbossha-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/jboss/client/jbossha-client.jar
+END
+hibernate-annotations.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/jboss/client/hibernate-annotations.jar
+END
+jbosscx-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/jboss/client/jbosscx-client.jar
+END
+antlr.jar
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/3.7/!svn/ver/1/jboss/client/antlr.jar
+END
+jboss-saaj.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/jboss/client/jboss-saaj.jar
+END
+jaxb-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/3.7/!svn/ver/1/jboss/client/jaxb-api.jar
+END
+avalon-framework.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/jboss/client/avalon-framework.jar
+END
+policy.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/jboss/client/policy.jar
+END
+jboss-system-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/jboss/client/jboss-system-client.jar
+END
+jboss-annotations-ejb3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/jboss/client/jboss-annotations-ejb3.jar
+END
+mail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/3.7/!svn/ver/1/jboss/client/mail.jar
+END
+concurrent.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/jboss/client/concurrent.jar
+END
+jboss-remoting.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/jboss/client/jboss-remoting.jar
+END
+jbossws-jboss42.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/jboss/client/jbossws-jboss42.jar
+END
+jbosssx-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/jboss/client/jbosssx-client.jar
+END
+streambuffer.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/jboss/client/streambuffer.jar
+END
+jaxb-xjc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/3.7/!svn/ver/1/jboss/client/jaxb-xjc.jar
+END
+jboss-jaxws.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/jboss/client/jboss-jaxws.jar
+END
+ejb3-persistence.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/jboss/client/ejb3-persistence.jar
+END
+stax-ex.jar
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/jboss/client/stax-ex.jar
+END
+javassist.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/3.7/!svn/ver/1/jboss/client/javassist.jar
+END
+jboss-aspect-jdk50-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/jboss/client/jboss-aspect-jdk50-client.jar
+END
+jaxws-tools.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/jboss/client/jaxws-tools.jar
+END
+jboss-ejb3x.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/jboss/client/jboss-ejb3x.jar
+END
+jboss-transaction-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/jboss/client/jboss-transaction-client.jar
+END
+jaxws-rt.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/3.7/!svn/ver/1/jboss/client/jaxws-rt.jar
+END
+jbossws-spi.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/jboss/client/jbossws-spi.jar
+END

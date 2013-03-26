@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/serverRoot/src/main/server/org/compiere/server
+END
+AcctProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/serverRoot/src/main/server/org/compiere/server/AcctProcessor.java
+END
+Scheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/serverRoot/src/main/server/org/compiere/server/Scheduler.java
+END
+AdempiereServerGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/serverRoot/src/main/server/org/compiere/server/AdempiereServerGroup.java
+END
+AdempiereServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/serverRoot/src/main/server/org/compiere/server/AdempiereServer.java
+END
+AlertProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/serverRoot/src/main/server/org/compiere/server/AlertProcessor.java
+END
+EMailProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/serverRoot/src/main/server/org/compiere/server/EMailProcessor.java
+END
+ReplicationProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/serverRoot/src/main/server/org/compiere/server/ReplicationProcessor.java
+END
+RequestProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/serverRoot/src/main/server/org/compiere/server/RequestProcessor.java
+END
+WorkflowProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/serverRoot/src/main/server/org/compiere/server/WorkflowProcessor.java
+END
+AdempiereServerMgr.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/serverRoot/src/main/server/org/compiere/server/AdempiereServerMgr.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/stock
+END
+StockManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/stock/StockManager.java
+END
+StockList.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/stock/StockList.java
+END
+InventoryCartManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/stock/InventoryCartManager.java
+END
+MMovementManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/stock/MMovementManager.java
+END
+InventoryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/stock/InventoryManager.java
+END

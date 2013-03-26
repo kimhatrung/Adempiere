@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install
+END
+SetupRes_vi.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/SetupRes_vi.java
+END
+ConfigurationPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/ConfigurationPanel.java
+END
+SetupRes_ar.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/SetupRes_ar.java
+END
+KeyStoreDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/KeyStoreDialog.java
+END
+SilentSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/SilentSetup.java
+END
+SetupRes_fr.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/SetupRes_fr.java
+END
+SetupRes_it.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/SetupRes_it.java
+END
+SetupRes_hr.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/SetupRes_hr.java
+END
+SetupRes_el.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/SetupRes_el.java
+END
+SetupRes_in.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/SetupRes_in.java
+END
+ConfigMySQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/ConfigMySQL.java
+END
+ConfigOracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/ConfigOracle.java
+END
+SetupRes_sv.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/SetupRes_sv.java
+END
+Setup.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/Setup.java
+END
+SetupRes_sr.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/SetupRes_sr.java
+END
+SetupRes_pl.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/SetupRes_pl.java
+END
+ConfigVMMac.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/ConfigVMMac.java
+END
+ConfigPostgreSQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/ConfigPostgreSQL.java
+END
+SetupRes_sl.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/SetupRes_sl.java
+END
+ConfigVMOpenJDK.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/ConfigVMOpenJDK.java
+END
+SetupRes_es.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/SetupRes_es.java
+END
+SetupRes_zh.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/SetupRes_zh.java
+END
+SetupRes_hu.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/SetupRes_hu.java
+END
+SetupRes_my.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/SetupRes_my.java
+END
+Setup_Help.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/Setup_Help.java
+END
+SetupRes.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/SetupRes.java
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/Config.java
+END
+ConfigurationData.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/ConfigurationData.java
+END
+SetupRes_zh_CN.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/SetupRes_zh_CN.java
+END
+SetupRes_ru.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/SetupRes_ru.java
+END
+SetupRes_no.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/SetupRes_no.java
+END
+SetupRes_de.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/SetupRes_de.java
+END
+SetupRes_ca.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/SetupRes_ca.java
+END
+SetupRes_ro.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/SetupRes_ro.java
+END
+SetupRes_da.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/SetupRes_da.java
+END
+KeyStoreMgt.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/KeyStoreMgt.java
+END
+SetupRes_fa.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/SetupRes_fa.java
+END
+ConfigJBoss.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/ConfigJBoss.java
+END
+openFile.gif
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/openFile.gif
+END
+ConfigVMSun.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/ConfigVMSun.java
+END
+SetupRes_ja.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/SetupRes_ja.java
+END
+ConfigGlassfish.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/install/src/org/compiere/install/ConfigGlassfish.java
+END

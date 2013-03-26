@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/process
+END
+InitialClientSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/process/InitialClientSetup.java
+END
+RMACreateOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/process/RMACreateOrder.java
+END
+ASPGenerateFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/process/ASPGenerateFields.java
+END
+UpdateSequenceNo.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/process/UpdateSequenceNo.java
+END
+ImportProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/process/ImportProcess.java
+END
+ApplyMigrationScripts.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/process/ApplyMigrationScripts.java
+END
+InOutGenerateRMA.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/process/InOutGenerateRMA.java
+END
+InvoiceGenerateRMA.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/process/InvoiceGenerateRMA.java
+END
+ImportPriceList.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/process/ImportPriceList.java
+END
+PrepareMigrationScripts.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/process/PrepareMigrationScripts.java
+END
+UpdateRoleMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/process/UpdateRoleMenu.java
+END
+HouseKeeping.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/process/HouseKeeping.java
+END
+ImmediateBankTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/process/ImmediateBankTransfer.java
+END
+SignDatabaseBuild.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/process/SignDatabaseBuild.java
+END
+ClientAcctProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/process/ClientAcctProcessor.java
+END
+Export.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/process/Export.java
+END
+ExpenseTypesFromAccounts.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/process/ExpenseTypesFromAccounts.java
+END
+ASPGenerateLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/process/ASPGenerateLevel.java
+END

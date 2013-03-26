@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/base/src/org/compiere/impexp
+END
+BankStatementMatchInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/base/src/org/compiere/impexp/BankStatementMatchInfo.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/base/src/org/compiere/impexp/package.html
+END
+OFX1ToXML.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/base/src/org/compiere/impexp/OFX1ToXML.java
+END
+BankStatementMatcherInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/base/src/org/compiere/impexp/BankStatementMatcherInterface.java
+END
+OFXFileBankStatementLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/base/src/org/compiere/impexp/OFXFileBankStatementLoader.java
+END
+OFXBankStatementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/base/src/org/compiere/impexp/OFXBankStatementHandler.java
+END
+ImpFormatRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/base/src/org/compiere/impexp/ImpFormatRow.java
+END
+MImpFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/base/src/org/compiere/impexp/MImpFormat.java
+END
+MImpFormatRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/compiere/impexp/MImpFormatRow.java
+END
+BankStatementLoaderInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/base/src/org/compiere/impexp/BankStatementLoaderInterface.java
+END
+ImpFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/base/src/org/compiere/impexp/ImpFormat.java
+END
+CopyImportFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/impexp/CopyImportFormat.java
+END

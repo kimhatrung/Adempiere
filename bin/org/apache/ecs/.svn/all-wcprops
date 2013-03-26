@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs
+END
+MultiPartElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/MultiPartElement.java
+END
+ClearElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/ClearElement.java
+END
+StringElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/StringElement.java
+END
+PageEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/PageEvents.java
+END
+ECSDefaults.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/ECSDefaults.java
+END
+Printable.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/Printable.java
+END
+GenericElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/GenericElement.java
+END
+ElementContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/ElementContainer.java
+END
+ecs.properties
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/ecs.properties
+END
+SinglePartElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/SinglePartElement.java
+END
+Entities.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/Entities.java
+END
+AlignType.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/AlignType.java
+END
+MouseEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/MouseEvents.java
+END
+XhtmlDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/XhtmlDocument.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/package.html
+END
+FormEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/FormEvents.java
+END
+Element.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/Element.java
+END
+ElementRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/ElementRegistry.java
+END
+HtmlColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/HtmlColor.java
+END
+KeyEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/KeyEvents.java
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/Filter.java
+END
+ConcreteElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/ConcreteElement.java
+END
+Attributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/Attributes.java
+END
+ElementAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/ElementAttributes.java
+END
+XhtmlFrameSetDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/XhtmlFrameSetDocument.java
+END
+Doctype.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/Doctype.java
+END
+FocusEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/FocusEvents.java
+END

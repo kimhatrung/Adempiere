@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/migration/tools_migrate_with_insert
+END
+02_FromCompiere252dToSource.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/migration/tools_migrate_with_insert/02_FromCompiere252dToSource.sql
+END
+01_pre_migrate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/migration/tools_migrate_with_insert/01_pre_migrate.sql
+END
+03_disconstraints.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/tools_migrate_with_insert/03_disconstraints.sql
+END
+06_post_migrate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/migration/tools_migrate_with_insert/06_post_migrate.sql
+END
+05_enaconstraints.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/tools_migrate_with_insert/05_enaconstraints.sql
+END
+04_InsertMigr.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/migration/tools_migrate_with_insert/04_InsertMigr.sql
+END
+00_GENERATE_INSERT_AS.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/tools_migrate_with_insert/00_GENERATE_INSERT_AS.sql
+END

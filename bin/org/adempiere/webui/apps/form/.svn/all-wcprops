@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/form
+END
+WPayment.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/form/WPayment.java
+END
+WMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/form/WMatch.java
+END
+WCreateFromFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/form/WCreateFromFactory.java
+END
+WCreateFromWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/form/WCreateFromWindow.java
+END
+WPaySelect.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/form/WPaySelect.java
+END
+WAttributeGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/form/WAttributeGrid.java
+END
+WCharge.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/form/WCharge.java
+END
+WCreateFromShipmentUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/form/WCreateFromShipmentUI.java
+END
+WTrxMaterial.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/form/WTrxMaterial.java
+END
+WCreateFromStatementUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/form/WCreateFromStatementUI.java
+END
+WCreateFromInvoiceUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/form/WCreateFromInvoiceUI.java
+END
+WMerge.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/form/WMerge.java
+END
+WInOutGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/form/WInOutGen.java
+END
+WTreeMaintenance.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/form/WTreeMaintenance.java
+END
+WCreateFromRMAUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/form/WCreateFromRMAUI.java
+END
+WGenForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/form/WGenForm.java
+END
+WArchiveViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/form/WArchiveViewer.java
+END
+WPayPrint.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/form/WPayPrint.java
+END
+WInvoiceGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/form/WInvoiceGen.java
+END
+WFileImport.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/form/WFileImport.java
+END
+WSQLProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/form/WSQLProcess.java
+END
+WBOMDrop.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/form/WBOMDrop.java
+END
+WAllocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/form/WAllocation.java
+END
+WMergeUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/form/WMergeUI.java
+END

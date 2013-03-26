@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/exceptions
+END
+DocTypeNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/exceptions/DocTypeNotFoundException.java
+END
+ProductNotOnPriceListException.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/exceptions/ProductNotOnPriceListException.java
+END
+WarehouseLocatorConflictException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/exceptions/WarehouseLocatorConflictException.java
+END
+BPartnerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/exceptions/BPartnerException.java
+END
+InvoiceFullyMatchedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/exceptions/InvoiceFullyMatchedException.java
+END
+NoUOMConversionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/exceptions/NoUOMConversionException.java
+END
+BPartnerNoBillToAddressException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/exceptions/BPartnerNoBillToAddressException.java
+END
+BPartnerNoAddressException.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/exceptions/BPartnerNoAddressException.java
+END
+PeriodClosedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/exceptions/PeriodClosedException.java
+END
+WarehouseInvalidForOrgException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/exceptions/WarehouseInvalidForOrgException.java
+END
+NoVendorForProductException.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/exceptions/NoVendorForProductException.java
+END
+AdempiereException.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/exceptions/AdempiereException.java
+END
+FillMandatoryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/exceptions/FillMandatoryException.java
+END
+BPartnerNoShipToAddressException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/exceptions/BPartnerNoShipToAddressException.java
+END
+TaxNoExemptFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/exceptions/TaxNoExemptFoundException.java
+END
+TaxCriteriaNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/exceptions/TaxCriteriaNotFoundException.java
+END
+TaxNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/exceptions/TaxNotFoundException.java
+END
+PORelationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/exceptions/PORelationException.java
+END
+TaxForChangeNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/exceptions/TaxForChangeNotFoundException.java
+END
+DBException.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/exceptions/DBException.java
+END

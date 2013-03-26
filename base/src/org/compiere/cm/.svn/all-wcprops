@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/base/src/org/compiere/cm
+END
+TemplateValidate.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/base/src/org/compiere/cm/TemplateValidate.java
+END
+WebProjectDeploy.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/base/src/org/compiere/cm/WebProjectDeploy.java
+END
+CalloutTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/base/src/org/compiere/cm/CalloutTemplate.java
+END
+CacheHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/cm/CacheHandler.java
+END
+MediaDirectDeploy.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/compiere/cm/MediaDirectDeploy.java
+END
+StringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/base/src/org/compiere/cm/StringUtil.java
+END
+CStageValidate.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/base/src/org/compiere/cm/CStageValidate.java
+END

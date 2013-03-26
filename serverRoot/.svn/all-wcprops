@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/repos/3.7/!svn/ver/1/serverRoot
+END
+RUN_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/serverRoot/RUN_build.bat
+END
+documentation.bat
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/serverRoot/documentation.bat
+END
+.packaging
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/3.7/!svn/ver/1/serverRoot/.packaging
+END
+Remote Debug Adempiere - serverRoot.launch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/serverRoot/Remote%20Debug%20Adempiere%20-%20serverRoot.launch
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/serverRoot/build.xml
+END
+RUN_build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/serverRoot/RUN_build.sh
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/3.7/!svn/ver/1/serverRoot/.project
+END
+.xdoclet
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/3.7/!svn/ver/1/serverRoot/.xdoclet
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/3.7/!svn/ver/1/serverRoot/.classpath
+END
+packages.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/serverRoot/packages.txt
+END

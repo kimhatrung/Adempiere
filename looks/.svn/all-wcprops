@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/repos/3.7/!svn/ver/1/looks
+END
+overview.html
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/3.7/!svn/ver/1/looks/overview.html
+END
+RUN_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/3.7/!svn/ver/1/looks/RUN_build.bat
+END
+documentation.bat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/looks/documentation.bat
+END
+swing.properties
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/3.7/!svn/ver/1/looks/swing.properties
+END
+RUN_build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/3.7/!svn/ver/1/looks/RUN_build.sh
+END
+adempiereLooks_local.jnlp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/looks/adempiereLooks_local.jnlp
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/repos/3.7/!svn/ver/1/looks/.project
+END
+Swingset.bat
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/3.7/!svn/ver/1/looks/Swingset.bat
+END
+packages.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/3.7/!svn/ver/1/looks/packages.txt
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/repos/3.7/!svn/ver/1/looks/.classpath
+END
+RUN.bat
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/repos/3.7/!svn/ver/1/looks/RUN.bat
+END
+adempiereLooks.jnlp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/3.7/!svn/ver/1/looks/adempiereLooks.jnlp
+END
+PLAF_Test.bat
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/3.7/!svn/ver/1/looks/PLAF_Test.bat
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/repos/3.7/!svn/ver/1/looks/build.xml
+END
+javadoc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/3.7/!svn/ver/1/looks/javadoc.xml
+END

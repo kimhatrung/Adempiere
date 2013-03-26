@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/repos/3.7/!svn/ver/1/db/database
+END
+DatabaseBuild.sql
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/database/DatabaseBuild.sql
+END
+Database.epj
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/db/database/Database.epj
+END

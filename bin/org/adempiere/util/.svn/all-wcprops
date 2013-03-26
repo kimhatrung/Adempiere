@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/util
+END
+MeasureInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/util/MeasureInterface.java
+END
+GenerateModelJPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/util/GenerateModelJPA.java
+END
+AbstractDocumentSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/util/AbstractDocumentSearch.java
+END
+GenerateModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/util/GenerateModel.java
+END
+ModelClassGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/util/ModelClassGenerator.java
+END
+ModelInterfaceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/util/ModelInterfaceGenerator.java
+END
+EmbeddedServerProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/util/EmbeddedServerProxy.java
+END
+ProcessUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/util/ProcessUtil.java
+END

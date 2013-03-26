@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/conf/props
+END
+jmx-console-roles.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/conf/props/jmx-console-roles.properties
+END
+jbossws-users.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/conf/props/jbossws-users.properties
+END
+jmx-console-users.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/conf/props/jmx-console-users.properties
+END
+jbossws-roles.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/conf/props/jbossws-roles.properties
+END

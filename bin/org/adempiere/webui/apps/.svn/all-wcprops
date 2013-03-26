@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps
+END
+AEnv.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/AEnv.java
+END
+WReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/WReport.java
+END
+ProcessParameterPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/ProcessParameterPanel.java
+END
+ProcessDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/ProcessDialog.java
+END
+ProcessModalDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/ProcessModalDialog.java
+END
+WProcessCtl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/WProcessCtl.java
+END
+BusyDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/BusyDialog.java
+END

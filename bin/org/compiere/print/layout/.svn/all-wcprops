@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/base/src/org/compiere/print/layout
+END
+PrintElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/compiere/print/layout/PrintElement.java
+END
+Page.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/base/src/org/compiere/print/layout/Page.java
+END
+TableElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/compiere/print/layout/TableElement.java
+END
+GraphElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/compiere/print/layout/GraphElement.java
+END
+HTMLRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/compiere/print/layout/HTMLRenderer.java
+END
+true10.gif
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/base/src/org/compiere/print/layout/true10.gif
+END
+LayoutEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/compiere/print/layout/LayoutEngine.java
+END
+StringElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/base/src/org/compiere/print/layout/StringElement.java
+END
+HeaderFooter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/compiere/print/layout/HeaderFooter.java
+END
+LocationElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/base/src/org/compiere/print/layout/LocationElement.java
+END
+ImageElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/compiere/print/layout/ImageElement.java
+END
+PInstanceLogElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/base/src/org/compiere/print/layout/PInstanceLogElement.java
+END
+BarcodeElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/base/src/org/compiere/print/layout/BarcodeElement.java
+END
+false10.gif
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/base/src/org/compiere/print/layout/false10.gif
+END
+Dimension2DImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/base/src/org/compiere/print/layout/Dimension2DImpl.java
+END
+GridElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/base/src/org/compiere/print/layout/GridElement.java
+END
+ParameterElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/base/src/org/compiere/print/layout/ParameterElement.java
+END
+BoxElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/print/layout/BoxElement.java
+END
+HTMLElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/base/src/org/compiere/print/layout/HTMLElement.java
+END

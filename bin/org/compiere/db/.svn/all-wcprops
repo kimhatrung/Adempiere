@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db
+END
+DBRes_vi.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes_vi.java
+END
+CConnectionEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/CConnectionEditor.java
+END
+DBRes_ar.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes_ar.java
+END
+CConnectionDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/CConnectionDialog.java
+END
+DBRes_fr.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes_fr.java
+END
+DBRes_it.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes_it.java
+END
+LDAP.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/LDAP.java
+END
+DBRes_hr.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes_hr.java
+END
+DBRes_el.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes_el.java
+END
+DBRes.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes.java
+END
+DBRes_in.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes_in.java
+END
+DBRes_pt.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes_pt.java
+END
+DB_MySQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DB_MySQL.java
+END
+DBRes_sv.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes_sv.java
+END
+StatementProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/StatementProxy.java
+END
+DBRes_zh_CN.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes_zh_CN.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/package.html
+END
+DBRes_sr.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes_sr.java
+END
+PreparedStatementProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/PreparedStatementProxy.java
+END
+Database.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/Database.java
+END
+DBRes_nl.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes_nl.java
+END
+Database16.gif
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/Database16.gif
+END
+DBRes_pl.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes_pl.java
+END
+DBRes_sl.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes_sl.java
+END
+Server16.gif
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/Server16.gif
+END
+DBRes_th.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes_th.java
+END
+TestConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/TestConnection.java
+END
+AdempiereDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/AdempiereDatabase.java
+END
+SecurityPrincipal.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/SecurityPrincipal.java
+END
+DBRes_zh.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes_zh.java
+END
+TestEJB.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/TestEJB.java
+END
+DBRes_es.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes_es.java
+END
+DBRes_hu.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes_hu.java
+END
+JDBCInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/JDBCInfo.java
+END
+DBRes_ms.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes_ms.java
+END
+DBRes_bg.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes_bg.java
+END
+CConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/CConnection.java
+END
+DBRes_ru.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes_ru.java
+END
+DB_Oracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DB_Oracle.java
+END
+DBRes_de.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes_de.java
+END
+DBRes_no.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes_no.java
+END
+ProxyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/ProxyFactory.java
+END
+DBRes_ca.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes_ca.java
+END
+DBRes_da.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes_da.java
+END
+DBRes_ro.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes_ro.java
+END
+DBRes_fa.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes_fa.java
+END
+CreateAdempiere.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/CreateAdempiere.java
+END
+CallableStatementProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/CallableStatementProxy.java
+END
+DB_PostgreSQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DB_PostgreSQL.java
+END
+DBRes_ja.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/db/DBRes_ja.java
+END

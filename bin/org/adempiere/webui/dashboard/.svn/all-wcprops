@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/dashboard
+END
+DashboardPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/dashboard/DashboardPanel.java
+END
+DPCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/dashboard/DPCalendar.java
+END
+IDashboardPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/dashboard/IDashboardPanel.java
+END
+DPActivities.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/dashboard/DPActivities.java
+END
+DPFavourites.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/dashboard/DPFavourites.java
+END
+DPPerformance.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/dashboard/DPPerformance.java
+END
+DPViews.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/dashboard/DPViews.java
+END
+DashboardRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/dashboard/DashboardRunnable.java
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/search
+END
+Info.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/search/Info.java
+END
+VSchedule.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/search/VSchedule.java
+END
+VScheduleTimePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/search/VScheduleTimePanel.java
+END
+FindCellEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/search/FindCellEditor.java
+END
+Info_Column.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/search/Info_Column.java
+END
+InvoiceHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/search/InvoiceHistory.java
+END
+InfoSchedule.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/search/InfoSchedule.java
+END
+FindValueEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/search/FindValueEditor.java
+END
+InfoAsset.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/search/InfoAsset.java
+END
+PAttributeInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/search/PAttributeInstance.java
+END
+InfoProduct.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/search/InfoProduct.java
+END
+InfoOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/search/InfoOrder.java
+END
+InfoInvoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/search/InfoInvoice.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/search/package.html
+END
+InfoFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/search/InfoFactory.java
+END
+FindValueRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/search/FindValueRenderer.java
+END
+InfoInOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/search/InfoInOut.java
+END
+InfoAssignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/search/InfoAssignment.java
+END
+InfoPAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/search/InfoPAttribute.java
+END
+InfoGeneral.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/search/InfoGeneral.java
+END
+Find.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/search/Find.java
+END
+InfoPayment.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/search/InfoPayment.java
+END
+VSchedulePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/search/VSchedulePanel.java
+END
+InfoCashLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/search/InfoCashLine.java
+END
+InfoBPartner.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/search/InfoBPartner.java
+END

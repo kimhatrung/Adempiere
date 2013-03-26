@@ -1,0 +1,407 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf
+END
+CompiereTabbedPaneUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereTabbedPaneUI.java
+END
+PlafRes_bg.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes_bg.java
+END
+CompiereMenuItemUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereMenuItemUI.java
+END
+Adempiere200x100.gif
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/Adempiere200x100.gif
+END
+PlafRes_no.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes_no.java
+END
+PlafRes.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes.java
+END
+PlafRes_ca.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes_ca.java
+END
+PlafRes_ro.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes_ro.java
+END
+CharcoalTheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CharcoalTheme.java
+END
+CompiereToolTipUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereToolTipUI.java
+END
+CompiereThemeEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereThemeEditor.java
+END
+PlafRes_ar.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes_ar.java
+END
+CompiereToolBarUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereToolBarUI.java
+END
+CompiereMenuUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereMenuUI.java
+END
+AquaTheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/AquaTheme.java
+END
+CompiereMenuBarUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereMenuBarUI.java
+END
+PlafRes_in.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes_in.java
+END
+PlafRes_pt.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes_pt.java
+END
+CompiereButtonListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereButtonListener.java
+END
+PlafRes_sv.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes_sv.java
+END
+CompiereRadioButtonUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereRadioButtonUI.java
+END
+CompiereThemeIce.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereThemeIce.java
+END
+CompiereLookAndFeel.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereLookAndFeel.java
+END
+PlafRes_sr.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes_sr.java
+END
+PlafRes_nl.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes_nl.java
+END
+CompiereRootPaneUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereRootPaneUI.java
+END
+PlafRes_pl.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes_pl.java
+END
+vincent.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/vincent.jpg
+END
+CompiereSplitPaneDivider.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereSplitPaneDivider.java
+END
+PlafRes_th.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes_th.java
+END
+RubyTheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/RubyTheme.java
+END
+PlafRes_es.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes_es.java
+END
+PlafRes_zh.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes_zh.java
+END
+PlafRes_hu.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes_hu.java
+END
+CompiereTextAreaUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereTextAreaUI.java
+END
+CompiereTheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereTheme.java
+END
+PlafRes_ms.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes_ms.java
+END
+EmeraldTheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/EmeraldTheme.java
+END
+PlafRes_ru.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes_ru.java
+END
+PlafRes_de.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes_de.java
+END
+PlafRes_da.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes_da.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/package.html
+END
+PlafRes_zh_CN.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes_zh_CN.java
+END
+PlafRes_fa.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes_fa.java
+END
+CompierePanelUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompierePanelUI.java
+END
+PlafRes_ja.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes_ja.java
+END
+CompiereCheckBoxUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereCheckBoxUI.java
+END
+CompiereUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereUtils.java
+END
+PlafRes_vi.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes_vi.java
+END
+CompiereComboBoxUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereComboBoxUI.java
+END
+PlafRes_fr.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes_fr.java
+END
+PlafRes_it.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes_it.java
+END
+CompiereLabelUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereLabelUI.java
+END
+PlafRes_hr.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes_hr.java
+END
+CompiereCheckBoxMenuItemUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereCheckBoxMenuItemUI.java
+END
+ContrastTheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/ContrastTheme.java
+END
+CompiereScrollPaneUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereScrollPaneUI.java
+END
+PlafRes_el.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes_el.java
+END
+CompiereColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereColor.java
+END
+CompiereButtonUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereButtonUI.java
+END
+CompiereThemeBlueMetal.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereThemeBlueMetal.java
+END
+CompiereComboPopup.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereComboPopup.java
+END
+PlafRes_sl.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/PlafRes_sl.java
+END
+CompiereViewportUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereViewportUI.java
+END
+CompiereToggleButtonUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereToggleButtonUI.java
+END
+CompiereSplitPaneUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereSplitPaneUI.java
+END
+CompiereTableHeaderUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/base/src/org/compiere/plaf/CompiereTableHeaderUI.java
+END

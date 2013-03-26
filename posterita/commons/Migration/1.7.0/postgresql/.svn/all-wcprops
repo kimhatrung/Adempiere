@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/1.7.0/postgresql
+END
+002_Terminals_newTableStructure.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/1.7.0/postgresql/002_Terminals_newTableStructure.sql
+END
+005_Messages.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/1.7.0/postgresql/005_Messages.sql
+END
+003_Terminals_TransferConfiguration.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/1.7.0/postgresql/003_Terminals_TransferConfiguration.sql
+END
+001_MixedPayment.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/1.7.0/postgresql/001_MixedPayment.sql
+END
+004_Terminals_newTableDDL.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/1.7.0/postgresql/004_Terminals_newTableDDL.sql
+END

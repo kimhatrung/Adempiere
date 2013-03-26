@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/3.7/!svn/ver/1/extend/src/test/functional
+END
+MRequestTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MRequestTypeTest.java
+END
+TrifonTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/extend/src/test/functional/TrifonTest.java
+END
+TrxTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/extend/src/test/functional/TrxTest.java
+END
+MPaymentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MPaymentTest.java
+END
+MPInstanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MPInstanceTest.java
+END
+MColorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MColorTest.java
+END
+MBPartnerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MBPartnerTest.java
+END
+MPaySelectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MPaySelectionTest.java
+END
+FunctionalTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/extend/src/test/functional/FunctionalTestSuite.java
+END
+MCurrencyAcctTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MCurrencyAcctTest.java
+END
+MDistributionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MDistributionTest.java
+END
+MMenuTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MMenuTest.java
+END
+MProjectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MProjectTest.java
+END
+MCostDetailTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MCostDetailTest.java
+END
+MRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MRuleTest.java
+END
+MCashBookTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MCashBookTest.java
+END
+MBPartnerLocationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MBPartnerLocationTest.java
+END
+MUOMTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MUOMTest.java
+END
+MLotTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MLotTest.java
+END
+rbtreetest.yap
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/extend/src/test/functional/rbtreetest.yap
+END
+MRefListTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MRefListTest.java
+END
+MAssetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MAssetTest.java
+END
+WorkflowTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/extend/src/test/functional/WorkflowTest.java
+END
+MPriceListVersionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MPriceListVersionTest.java
+END
+DBTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/extend/src/test/functional/DBTest.java
+END
+MProductBOMTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MProductBOMTest.java
+END
+MContactInterestTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MContactInterestTest.java
+END
+AlertTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/extend/src/test/functional/AlertTest.java
+END
+MMediaServerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MMediaServerTest.java
+END
+MMatchInvTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MMatchInvTest.java
+END
+MClientTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MClientTest.java
+END
+MUserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MUserTest.java
+END
+PackOutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/extend/src/test/functional/PackOutTest.java
+END
+MAttributeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MAttributeTest.java
+END
+MStorageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MStorageTest.java
+END
+wcandtaskdata.yap
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/extend/src/test/functional/wcandtaskdata.yap
+END
+MSessionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MSessionTest.java
+END
+QueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/extend/src/test/functional/QueryTest.java
+END
+MBPGroupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MBPGroupTest.java
+END
+MLocationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MLocationTest.java
+END
+MCostElementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MCostElementTest.java
+END
+MSysConfigTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MSysConfigTest.java
+END
+MProductTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MProductTest.java
+END
+MTableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MTableTest.java
+END
+MInvoiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/extend/src/test/functional/MInvoiceTest.java
+END
+POTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/extend/src/test/functional/POTest.java
+END

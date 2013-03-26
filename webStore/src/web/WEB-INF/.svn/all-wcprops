@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/webStore/src/web/WEB-INF
+END
+c.tld
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/webStore/src/web/WEB-INF/c.tld
+END
+fn.tld
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/webStore/src/web/WEB-INF/fn.tld
+END
+x.tld
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/webStore/src/web/WEB-INF/x.tld
+END
+fmt.tld
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/webStore/src/web/WEB-INF/fmt.tld
+END
+webStore.tld
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/webStore/src/web/WEB-INF/webStore.tld
+END
+sql.tld
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/webStore/src/web/WEB-INF/sql.tld
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/webStore/src/web/WEB-INF/web.xml
+END

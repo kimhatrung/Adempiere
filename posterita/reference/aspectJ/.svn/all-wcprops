@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/posterita/reference/aspectJ
+END
+aspectjlib.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/posterita/reference/aspectJ/aspectjlib.jar
+END
+aspectjtools.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/posterita/reference/aspectJ/aspectjtools.jar
+END
+aspectjweaver.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/posterita/reference/aspectJ/aspectjweaver.jar
+END

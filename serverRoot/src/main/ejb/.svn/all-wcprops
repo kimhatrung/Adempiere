@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/serverRoot/src/main/ejb
+END
+jboss.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/serverRoot/src/main/ejb/jboss.xml
+END
+sun-ejb-jar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/serverRoot/src/main/ejb/sun-ejb-jar.xml
+END

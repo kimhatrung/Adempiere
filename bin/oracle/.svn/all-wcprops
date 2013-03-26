@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/migration/src/oracle
+END
+ADDataElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/migration/src/oracle/ADDataElement.java
+END
+Table.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/migration/src/oracle/Table.java
+END
+Constraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/migration/src/oracle/Constraint.java
+END
+DBDifference.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/migration/src/oracle/DBDifference.java
+END
+RefListElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/migration/src/oracle/RefListElement.java
+END
+Column.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/migration/src/oracle/Column.java
+END
+View.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/migration/src/oracle/View.java
+END

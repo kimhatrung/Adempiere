@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/base/src/org/compiere/FA
+END
+CreateGLAsset.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/base/src/org/compiere/FA/CreateGLAsset.java
+END
+BuildDepWorkFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/base/src/org/compiere/FA/BuildDepWorkFile.java
+END
+Depreciation.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/FA/Depreciation.java
+END
+CalloutFA.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/base/src/org/compiere/FA/CalloutFA.java
+END
+ImportAsset.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/base/src/org/compiere/FA/ImportAsset.java
+END
+AssetSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/base/src/org/compiere/FA/AssetSplit.java
+END
+Conventions.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/base/src/org/compiere/FA/Conventions.java
+END
+I_CustomColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/base/src/org/compiere/FA/I_CustomColumn.java
+END
+CreateInvoicedAsset.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/compiere/FA/CreateInvoicedAsset.java
+END
+AssetTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/base/src/org/compiere/FA/AssetTransfer.java
+END
+ImportFAJournal2.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/base/src/org/compiere/FA/ImportFAJournal2.java
+END
+DepreciationAdj.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/base/src/org/compiere/FA/DepreciationAdj.java
+END
+BuildDepForecastFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/FA/BuildDepForecastFile.java
+END
+AssetDisposed.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/base/src/org/compiere/FA/AssetDisposed.java
+END
+AssetRevalEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/base/src/org/compiere/FA/AssetRevalEntry.java
+END

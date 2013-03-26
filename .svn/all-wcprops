@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/repos/3.7/!svn/ver/1/
+END
+testTemplate.properties
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/testTemplate.properties
+END
+license.html
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/repos/3.7/!svn/ver/1/license.html
+END
+adempiere.psf
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/repos/3.7/!svn/ver/1/adempiere.psf
+END
+COMMITTERS
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/repos/3.7/!svn/ver/1/COMMITTERS
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/repos/3.7/!svn/ver/1/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/repos/3.7/!svn/ver/1/.classpath
+END

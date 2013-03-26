@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/migration/311-312/based_on_scripts
+END
+20_insert_new_messages.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/311-312/based_on_scripts/20_insert_new_messages.sql
+END
+50_insert_AD_Pack_dict.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/311-312/based_on_scripts/50_insert_AD_Pack_dict.sql
+END
+30_create_AD_Pack.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/311-312/based_on_scripts/30_create_AD_Pack.sql
+END
+40_update_ad_system.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/migration/311-312/based_on_scripts/40_update_ad_system.sql
+END
+10_update_sys_sequences.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/migration/311-312/based_on_scripts/10_update_sys_sequences.sql
+END

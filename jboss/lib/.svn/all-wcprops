@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/repos/3.7/!svn/ver/1/jboss/lib
+END
+concurrent.jar
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/jboss/lib/concurrent.jar
+END
+dom4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/3.7/!svn/ver/1/jboss/lib/dom4j.jar
+END
+commons-httpclient.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/jboss/lib/commons-httpclient.jar
+END
+jboss-xml-binding.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/jboss/lib/jboss-xml-binding.jar
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/jboss/lib/commons-logging.jar
+END
+namespace.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/jboss/lib/namespace.jar
+END
+getopt.jar
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/jboss/lib/getopt.jar
+END
+jboss-jmx.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/jboss/lib/jboss-jmx.jar
+END
+webdavlib.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/jboss/lib/webdavlib.jar
+END
+jboss-common.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/3.7/!svn/ver/1/jboss/lib/jboss-common.jar
+END
+log4j-boot.jar
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/jboss/lib/log4j-boot.jar
+END
+jboss-system.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/3.7/!svn/ver/1/jboss/lib/jboss-system.jar
+END
+gnu-regexp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/jboss/lib/gnu-regexp.jar
+END
+jaxen.jar
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/3.7/!svn/ver/1/jboss/lib/jaxen.jar
+END
+jaxb-impl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/jboss/lib/jaxb-impl.jar
+END
+jaxb-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/3.7/!svn/ver/1/jboss/lib/jaxb-api.jar
+END
+commons-codec.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/jboss/lib/commons-codec.jar
+END

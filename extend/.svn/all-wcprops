@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/repos/3.7/!svn/ver/1/extend
+END
+Profile-SingleMProductTest.launch
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/extend/Profile-SingleMProductTest.launch
+END
+RUN_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/extend/RUN_build.bat
+END
+documentation.bat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/extend/documentation.bat
+END
+InventoryTest.launch
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/extend/InventoryTest.launch
+END
+testTemplate.properties
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/extend/testTemplate.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/repos/3.7/!svn/ver/1/extend/build.xml
+END
+RUN_build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/3.7/!svn/ver/1/extend/RUN_build.sh
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/repos/3.7/!svn/ver/1/extend/.project
+END
+FunctionalTestSuite.launch
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/extend/FunctionalTestSuite.launch
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/3.7/!svn/ver/1/extend/.classpath
+END
+Extend.html
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/3.7/!svn/ver/1/extend/Extend.html
+END

@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos
+END
+POSOrderAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/POSOrderAction.java
+END
+EditBulkProductFromFileAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/EditBulkProductFromFileAction.java
+END
+StockMovementReportAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/StockMovementReportAction.java
+END
+CustomPOSReportAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/CustomPOSReportAction.java
+END
+POSAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/POSAction.java
+END
+CashAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/CashAction.java
+END
+PaymentTermAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/PaymentTermAction.java
+END
+DunningAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/DunningAction.java
+END
+SearchVendorAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/SearchVendorAction.java
+END
+CommissionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/CommissionAction.java
+END
+TaxAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/TaxAction.java
+END
+VendorAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/VendorAction.java
+END
+SearchProductAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/SearchProductAction.java
+END
+PaymentAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/PaymentAction.java
+END
+SearchProductsInStockAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/SearchProductsInStockAction.java
+END
+ImportCustomerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/ImportCustomerAction.java
+END
+PostingAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/PostingAction.java
+END
+CustomerReturnOrderAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/CustomerReturnOrderAction.java
+END
+ImportPOSProductAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/ImportPOSProductAction.java
+END
+BarcodeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/BarcodeAction.java
+END
+CashBookAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/CashBookAction.java
+END
+TerminalAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/TerminalAction.java
+END
+DocumentAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/DocumentAction.java
+END
+GoodsReturnNoteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/GoodsReturnNoteAction.java
+END
+SlowMovingItemReportAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/SlowMovingItemReportAction.java
+END
+CreditOrderAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/CreditOrderAction.java
+END
+BpartnerInfoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/BpartnerInfoAction.java
+END
+UOMAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/UOMAction.java
+END
+POSPriceListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/POSPriceListAction.java
+END
+FastMovingItemReportAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/FastMovingItemReportAction.java
+END
+CurrencyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/CurrencyAction.java
+END
+POSDispatchAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/POSDispatchAction.java
+END
+POSSalesReportAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/POSSalesReportAction.java
+END
+POSAttributesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/POSAttributesAction.java
+END
+POSRoleAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/POSRoleAction.java
+END
+GetReportAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/GetReportAction.java
+END
+POSReportAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/POSReportAction.java
+END
+PriceListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/PriceListAction.java
+END
+SearchCustomerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/SearchCustomerAction.java
+END
+SearchPOSProductAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/SearchPOSProductAction.java
+END
+POSGoodsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/POSGoodsAction.java
+END
+POSStockAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/POSStockAction.java
+END
+POSInfoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/POSInfoAction.java
+END
+GoodsReceiveNoteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/GoodsReceiveNoteAction.java
+END
+POSUserAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/POSUserAction.java
+END
+InventoryCartAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/InventoryCartAction.java
+END
+BlackListedAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/BlackListedAction.java
+END
+InventoryAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/InventoryAction.java
+END
+SalesAnalysisReportAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/SalesAnalysisReportAction.java
+END
+PartialPOSOrderAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/PartialPOSOrderAction.java
+END
+POSProductAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/pos/POSProductAction.java
+END

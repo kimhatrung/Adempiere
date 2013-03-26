@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core
+END
+TrxPrefix.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/TrxPrefix.java
+END
+BarChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/BarChart.java
+END
+ContextId.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/ContextId.java
+END
+TabularReportMerge.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/TabularReportMerge.java
+END
+ThumbnailGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/ThumbnailGenerator.java
+END
+KeyNamePairUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/KeyNamePairUtil.java
+END
+SessionStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/SessionStorage.java
+END
+TestStockInquiry.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/TestStockInquiry.java
+END
+JulianDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/JulianDate.java
+END
+TimestampConvertor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/TimestampConvertor.java
+END
+NameValuePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/NameValuePair.java
+END
+UDIPropertiesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/UDIPropertiesManager.java
+END
+UpdateUsers.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/UpdateUsers.java
+END
+RandomStringGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/RandomStringGenerator.java
+END
+SimpleCalendarDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/SimpleCalendarDate.java
+END
+FilePropertiesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/FilePropertiesManager.java
+END
+Range.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/Range.java
+END
+AbstractChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/AbstractChart.java
+END
+ReadKiaDemoData.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/ReadKiaDemoData.java
+END
+TimeSeriesChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/TimeSeriesChart.java
+END
+TmkJSPEnv.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/TmkJSPEnv.java
+END
+EmailValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/EmailValidator.java
+END
+PDFReportPageEventHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/PDFReportPageEventHelper.java
+END
+MenuItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/MenuItem.java
+END
+TabularReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/TabularReport.java
+END
+FactoryPropertiesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/FactoryPropertiesManager.java
+END
+WebFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/WebFacade.java
+END
+PDFReportGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/PDFReportGenerator.java
+END
+SimpleReportGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/SimpleReportGenerator.java
+END
+PieLabelGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/PieLabelGenerator.java
+END
+CrossTabReportGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/CrossTabReportGenerator.java
+END
+InitWebEnv.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/InitWebEnv.java
+END
+SystemObjects.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/SystemObjects.java
+END
+CheckDuplicateEntities.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/CheckDuplicateEntities.java
+END
+UDIFilePropertiesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/UDIFilePropertiesManager.java
+END
+UDIMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/UDIMap.java
+END
+AbstractParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/AbstractParser.java
+END
+TabularReport2.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/TabularReport2.java
+END
+ImageServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/ImageServer.java
+END
+PrintOrderApplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/PrintOrderApplet.java
+END
+Interpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/Interpreter.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/Configuration.java
+END
+UDIPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/UDIPair.java
+END
+PieChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/PieChart.java
+END
+BarLabelGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/BarLabelGenerator.java
+END
+DocStatusMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/DocStatusMap.java
+END
+FileManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/FileManager.java
+END
+I18nAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/core/I18nAdapter.java
+END

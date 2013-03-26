@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/login
+END
+chooseApplication.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/login/chooseApplication.jsp
+END
+logout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/login/logout.jsp
+END
+password.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/login/password.jsp
+END
+posLogin.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/login/posLogin.html
+END
+loginForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/login/loginForm.jsp
+END
+chooseRole.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/login/chooseRole.jsp
+END
+forgot1.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/login/forgot1.jsp
+END
+home.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/login/home.jsp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/login/index.jsp
+END
+chooseUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/login/chooseUser.jsp
+END
+success.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/login/success.jsp
+END
+forgot.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/login/forgot.jsp
+END
+maintenance.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/login/maintenance.jsp
+END

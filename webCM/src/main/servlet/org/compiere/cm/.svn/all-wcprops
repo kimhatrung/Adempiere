@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm
+END
+MediaBroadcast.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/MediaBroadcast.java
+END
+XMLBroadcast.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/XMLBroadcast.java
+END
+Extend.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/Extend.java
+END
+Community.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/Community.java
+END
+HttpServletCM.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/HttpServletCM.java
+END
+RequestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/RequestServlet.java
+END
+StageBroadcast.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/StageBroadcast.java
+END
+AdRedirector.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/AdRedirector.java
+END
+Broadcast.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/Broadcast.java
+END

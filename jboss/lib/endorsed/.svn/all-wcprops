@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/3.7/!svn/ver/1/jboss/lib/endorsed
+END
+xercesImpl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/jboss/lib/endorsed/xercesImpl.jar
+END
+serializer.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/jboss/lib/endorsed/serializer.jar
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/model
+END
+PromotionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/model/PromotionValidator.java
+END
+MPromotionPreCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/model/MPromotionPreCondition.java
+END
+IZoomProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/model/IZoomProvider.java
+END
+ImportValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/model/ImportValidator.java
+END
+CalloutBPartnerLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/model/CalloutBPartnerLocation.java
+END
+MPromotionLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/model/MPromotionLine.java
+END
+MPromotionGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/model/MPromotionGroup.java
+END
+ZoomInfoFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/model/ZoomInfoFactory.java
+END
+MPromotionReward.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/model/MPromotionReward.java
+END
+GridTabWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/model/GridTabWrapper.java
+END
+MRelationType.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/model/MRelationType.java
+END
+PromotionRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/model/PromotionRule.java
+END
+ExportModelValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/model/ExportModelValidator.java
+END
+MPromotionGroupLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/model/MPromotionGroupLine.java
+END
+GenericZoomProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/model/GenericZoomProvider.java
+END
+MPromotionDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/model/MPromotionDistribution.java
+END
+CalloutRMA.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/model/CalloutRMA.java
+END
+MPromotion.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/model/MPromotion.java
+END
+GenericPO.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/model/GenericPO.java
+END
+POWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/model/POWrapper.java
+END

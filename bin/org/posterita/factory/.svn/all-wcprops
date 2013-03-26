@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/factory
+END
+UserFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/factory/UserFactory.java
+END
+GenericSystemObjectsFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/factory/GenericSystemObjectsFactory.java
+END
+DBPropertiesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/factory/DBPropertiesManager.java
+END
+ProcessFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/factory/ProcessFactory.java
+END
+DunningFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/factory/DunningFactory.java
+END
+AbstractFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/factory/AbstractFactory.java
+END
+WebProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/factory/WebProperties.java
+END
+POSMenuFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/factory/POSMenuFactory.java
+END
+SystemObjectsFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/factory/SystemObjectsFactory.java
+END
+MenuGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/factory/MenuGenerator.java
+END
+WebComponentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/factory/WebComponentFactory.java
+END

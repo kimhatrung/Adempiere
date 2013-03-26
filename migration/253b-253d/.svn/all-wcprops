@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/3.7/!svn/ver/1/migration/253b-253d
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/migration/253b-253d/readme.txt
+END
+migration-bd-generated.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/migration/253b-253d/migration-bd-generated.sql
+END

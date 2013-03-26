@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo
+END
+AbstractElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/AbstractElementHandler.java
+END
+PoFiller.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/PoFiller.java
+END
+PackIn.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/PackIn.java
+END
+ElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/ElementHandler.java
+END
+AttributeFiller.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/AttributeFiller.java
+END
+PackInHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/PackInHandler.java
+END
+Element.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/Element.java
+END
+PackRoll.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/PackRoll.java
+END
+PackOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/PackOut.java
+END
+IDFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/IDFinder.java
+END
+CreateZipFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/CreateZipFile.java
+END

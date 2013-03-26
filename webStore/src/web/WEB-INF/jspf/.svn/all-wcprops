@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/webStore/src/web/WEB-INF/jspf
+END
+header.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/webStore/src/web/WEB-INF/jspf/header.jspf
+END
+footer.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/webStore/src/web/WEB-INF/jspf/footer.jspf
+END
+vendor.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/webStore/src/web/WEB-INF/jspf/vendor.jspf
+END
+head.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/webStore/src/web/WEB-INF/jspf/head.jspf
+END
+menu.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/webStore/src/web/WEB-INF/jspf/menu.jspf
+END
+page.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/webStore/src/web/WEB-INF/jspf/page.jspf
+END

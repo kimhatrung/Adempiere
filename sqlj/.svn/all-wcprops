@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/repos/3.7/!svn/ver/1/sqlj
+END
+RUN_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/3.7/!svn/ver/1/sqlj/RUN_build.bat
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/repos/3.7/!svn/ver/1/sqlj/build.xml
+END
+SQL J.epj
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/repos/3.7/!svn/ver/1/sqlj/SQL%20J.epj
+END
+RUN_build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/3.7/!svn/ver/1/sqlj/RUN_build.sh
+END
+compile.bat
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/repos/3.7/!svn/ver/1/sqlj/compile.bat
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/repos/3.7/!svn/ver/1/sqlj/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/repos/3.7/!svn/ver/1/sqlj/.classpath
+END

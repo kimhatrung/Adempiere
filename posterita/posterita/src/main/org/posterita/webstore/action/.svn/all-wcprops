@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/webstore/action
+END
+DocumentHistoryAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/webstore/action/DocumentHistoryAction.java
+END
+ViewPaymentAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/webstore/action/ViewPaymentAction.java
+END
+ViewCashPaymentAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/webstore/action/ViewCashPaymentAction.java
+END

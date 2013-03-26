@@ -1,0 +1,551 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml
+END
+br.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/br.java
+END
+frame.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/frame.java
+END
+kbd.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/kbd.java
+END
+bdo.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/bdo.java
+END
+code.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/code.java
+END
+noscript.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/noscript.java
+END
+h4.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/h4.java
+END
+html.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/html.java
+END
+hr.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/hr.java
+END
+i.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/i.java
+END
+var.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/var.java
+END
+noframes.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/noframes.java
+END
+form.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/form.java
+END
+pre.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/pre.java
+END
+a.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/a.java
+END
+sub.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/sub.java
+END
+tr.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/tr.java
+END
+ol.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/ol.java
+END
+link.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/link.java
+END
+ul.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/ul.java
+END
+strong.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/strong.java
+END
+frameset.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/frameset.java
+END
+center.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/center.java
+END
+nobr.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/nobr.java
+END
+base.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/base.java
+END
+blockquote.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/blockquote.java
+END
+ins.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/ins.java
+END
+h5.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/h5.java
+END
+dfn.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/dfn.java
+END
+optgroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/optgroup.java
+END
+del.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/del.java
+END
+h1.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/h1.java
+END
+em.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/em.java
+END
+fieldset.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/fieldset.java
+END
+small.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/small.java
+END
+caption.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/caption.java
+END
+iframe.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/iframe.java
+END
+tfoot.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/tfoot.java
+END
+b.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/b.java
+END
+basefont.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/basefont.java
+END
+colgroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/colgroup.java
+END
+applet.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/applet.java
+END
+s.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/s.java
+END
+style.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/style.java
+END
+abbr.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/abbr.java
+END
+dt.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/dt.java
+END
+sup.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/sup.java
+END
+h6.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/h6.java
+END
+table.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/table.java
+END
+input.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/input.java
+END
+span.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/span.java
+END
+h2.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/h2.java
+END
+dl.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/dl.java
+END
+big.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/big.java
+END
+col.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/col.java
+END
+dd.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/dd.java
+END
+tt.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/tt.java
+END
+comment.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/comment.java
+END
+select.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/select.java
+END
+textarea.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/textarea.java
+END
+cite.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/cite.java
+END
+label.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/label.java
+END
+address.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/address.java
+END
+th.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/th.java
+END
+strike.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/strike.java
+END
+button.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/button.java
+END
+div.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/div.java
+END
+p.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/p.java
+END
+td.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/td.java
+END
+font.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/font.java
+END
+param.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/param.java
+END
+area.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/area.java
+END
+legend.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/legend.java
+END
+h3.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/h3.java
+END
+script.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/script.java
+END
+meta.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/meta.java
+END
+acronym.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/acronym.java
+END
+img.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/img.java
+END
+body.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/body.java
+END
+head.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/head.java
+END
+object.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/object.java
+END
+li.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/li.java
+END
+blink.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/blink.java
+END
+map.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/map.java
+END
+title.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/title.java
+END
+tbody.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/tbody.java
+END
+u.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/u.java
+END
+option.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/option.java
+END
+thead.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/thead.java
+END
+q.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/q.java
+END
+samp.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xhtml/samp.java
+END

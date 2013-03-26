@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/3.7/!svn/ver/1/db/ddlutils/postgresql
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/postgresql/readme.txt
+END
+create-schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/postgresql/create-schema.sql
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/postgresql/build.properties
+END
+install_procedures.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/postgresql/install_procedures.sql
+END
+build-ddl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/postgresql/build-ddl.properties
+END
+build-ddl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/postgresql/build-ddl.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/postgresql/build.xml
+END
+RUN_build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/postgresql/RUN_build.sh
+END
+jdbc.properties.postgresql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/db/ddlutils/postgresql/jdbc.properties.postgresql
+END
+build-view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/postgresql/build-view.xml
+END
+operators.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/postgresql/operators.sql
+END

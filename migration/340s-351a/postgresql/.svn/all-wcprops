@@ -1,0 +1,521 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql
+END
+141_BF1938348FixMenuToBOM.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/141_BF1938348FixMenuToBOM.sql
+END
+158_BF1939034_ADPInstancePara_P_String.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/158_BF1939034_ADPInstancePara_P_String.sql
+END
+153_BF1949804_BrokenReportMultiLevelBOM.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/153_BF1949804_BrokenReportMultiLevelBOM.sql
+END
+171_1977523_FixColumnLost.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/171_1977523_FixColumnLost.sql
+END
+179_Bomqtyordered.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/179_Bomqtyordered.sql
+END
+113_ReplicationFunctionality.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/113_ReplicationFunctionality.sql
+END
+178_BomqtyreservedASI.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/178_BomqtyreservedASI.sql
+END
+045_2packreference.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/045_2packreference.sql
+END
+173_InvoiceOpenToDate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/173_InvoiceOpenToDate.sql
+END
+165_libero_foreign_keys.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/165_libero_foreign_keys.sql
+END
+151_BF1962000_fixed_workflow.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/151_BF1962000_fixed_workflow.sql
+END
+181_Bomqtyreserved.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/181_Bomqtyreserved.sql
+END
+133_ExportFormatFromWindow.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/133_ExportFormatFromWindow.sql
+END
+157_FR1963487_ExportImportXML.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/157_FR1963487_ExportImportXML.sql
+END
+143_FR1948157Reverde_ID.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/143_FR1948157Reverde_ID.sql
+END
+144_BF1939115.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/144_BF1939115.sql
+END
+138_FR1932692VendorProductNo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/138_FR1932692VendorProductNo.sql
+END
+147_BF1939895.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/147_BF1939895.sql
+END
+129_HR_Payroll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/129_HR_Payroll.sql
+END
+067_FR1871641.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/067_FR1871641.sql
+END
+182_Bomqtyonhand.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/182_Bomqtyonhand.sql
+END
+091_NetworkDistribution.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/091_NetworkDistribution.sql
+END
+145_BF1959933.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/145_BF1959933.sql
+END
+156_BF1939035_ADRule_Script.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/156_BF1939035_ADRule_Script.sql
+END
+124_FixReturnMaterial.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/124_FixReturnMaterial.sql
+END
+052_liberovalidator.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/052_liberovalidator.sql
+END
+064_BF_1866214.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/064_BF_1866214.sql
+END
+073_FR_1876160.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/073_FR_1876160.sql
+END
+079_fixedworkflow.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/079_fixedworkflow.sql
+END
+071_BF_1875696.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/071_BF_1875696.sql
+END
+147a_create_missing_foreign_keys.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/147a_create_missing_foreign_keys.sql
+END
+114_NewEventModelValidator.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/114_NewEventModelValidator.sql
+END
+147_create_missing_foreign_keys.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/147_create_missing_foreign_keys.sql
+END
+174_InvoicepaidToDate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/174_InvoicepaidToDate.sql
+END
+150_BF1959534.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/150_BF1959534.sql
+END
+162_FR1972559_Addition_to_OrderBatch.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/162_FR1972559_Addition_to_OrderBatch.sql
+END
+184_Bompricelist.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/184_Bompricelist.sql
+END
+166_BF_1866214_cont064.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/166_BF_1866214_cont064.sql
+END
+172_moreforeignkeys.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/172_moreforeignkeys.sql
+END
+163_BF1974314_FixEntityTypes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/163_BF1974314_FixEntityTypes.sql
+END
+161_FR1966760_DRP_Implementation.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/161_FR1966760_DRP_Implementation.sql
+END
+053_liberofixentitytype.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/053_liberofixentitytype.sql
+END
+116_WorkflowRepliction.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/116_WorkflowRepliction.sql
+END
+051_libero_fix.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/051_libero_fix.sql
+END
+140_FB1935325HRProcess.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/140_FB1935325HRProcess.sql
+END
+115_FixEntityType.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/115_FixEntityType.sql
+END
+167_create_nextidfunc.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/167_create_nextidfunc.sql
+END
+123_ReSizeScriptRule.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/123_ReSizeScriptRule.sql
+END
+160_FR1966328_Info_MRP_CRP.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/160_FR1966328_Info_MRP_CRP.sql
+END
+108_FR1905568SafetyStock.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/108_FR1905568SafetyStock.sql
+END
+148-BF_1953753.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/148-BF_1953753.sql
+END
+109_FixedMRPParameter.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/109_FixedMRPParameter.sql
+END
+122_FixTaxGridMode.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/122_FixTaxGridMode.sql
+END
+152_BF1962074_Improve_BOM.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/152_BF1962074_Improve_BOM.sql
+END
+175_BomqtyavailableASI.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/175_BomqtyavailableASI.sql
+END
+139_FR1933937AginToDate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/139_FR1933937AginToDate.sql
+END
+155_BF1949804_PrintBom.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/155_BF1949804_PrintBom.sql
+END
+168_bom_migrate_pg.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/168_bom_migrate_pg.sql
+END
+054_bommigrationtolibero.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/054_bommigrationtolibero.sql
+END
+068_FR1871403.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/068_FR1871403.sql
+END
+058_BF_1854531.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/058_BF_1854531.sql
+END
+146_BF_1951222.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/146_BF_1951222.sql
+END
+154_BF1962125_entitytype.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/154_BF1962125_entitytype.sql
+END
+187_fixedAssetsForeignKeys.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/187_fixedAssetsForeignKeys.sql
+END
+136_version350.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/136_version350.sql
+END
+176_BomqtyonhandASI.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/176_BomqtyonhandASI.sql
+END
+180_Bompricestd.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/180_Bompricestd.sql
+END
+059_BF_1864306.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/059_BF_1864306.sql
+END
+093_AddFieldND.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/093_AddFieldND.sql
+END
+169_fix_wrong_reference.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/169_fix_wrong_reference.sql
+END
+094_AddPP_Order_BOMLineMA.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/094_AddPP_Order_BOMLineMA.sql
+END
+134_ExportFormatAsProcess.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/134_ExportFormatAsProcess.sql
+END
+142_FR1933872ASI.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/142_FR1933872ASI.sql
+END
+186_fixedAssetsIntegration.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/186_fixedAssetsIntegration.sql
+END
+177_BomqtyorderedASI.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/177_BomqtyorderedASI.sql
+END
+070_FR1875623.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/070_FR1875623.sql
+END
+095_AddRV_PP_Product_BOMLine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/095_AddRV_PP_Product_BOMLine.sql
+END
+047_libero_migration_script.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/047_libero_migration_script.sql
+END
+170_version351a.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/170_version351a.sql
+END
+137_BF1928296FieldDefaultValue.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/137_BF1928296FieldDefaultValue.sql
+END
+132_FixPermissionReplication.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/132_FixPermissionReplication.sql
+END
+149_FR1913029.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/149_FR1913029.sql
+END
+164_BF1974314_UnifyDicts_pg.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/164_BF1974314_UnifyDicts_pg.sql
+END
+111_GlobalTaxManagement.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/111_GlobalTaxManagement.sql
+END
+159_FR1965571_GeneralDataPlannig.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/159_FR1965571_GeneralDataPlannig.sql
+END
+183_Bompricelimit.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/340s-351a/postgresql/183_Bompricelimit.sql
+END

@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/client/src/org/compiere/pos
+END
+PosKeyboardFocusManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/client/src/org/compiere/pos/PosKeyboardFocusManager.java
+END
+PosPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/client/src/org/compiere/pos/PosPanel.java
+END
+PosOrderModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/pos/PosOrderModel.java
+END
+AdempierePOSException.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/client/src/org/compiere/pos/AdempierePOSException.java
+END
+QueryBPartner.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/pos/QueryBPartner.java
+END
+CashSubFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/client/src/org/compiere/pos/CashSubFunctions.java
+END
+SubOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/client/src/org/compiere/pos/SubOrder.java
+END
+SubCurrentLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/client/src/org/compiere/pos/SubCurrentLine.java
+END
+SubFunctionKeys.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/client/src/org/compiere/pos/SubFunctionKeys.java
+END
+QueryProduct.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/client/src/org/compiere/pos/QueryProduct.java
+END
+SubCheckout.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/client/src/org/compiere/pos/SubCheckout.java
+END
+PosBasePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/client/src/org/compiere/pos/PosBasePanel.java
+END
+PosKeyListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/client/src/org/compiere/pos/PosKeyListener.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/client/src/org/compiere/pos/package.html
+END
+PosApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/client/src/org/compiere/pos/PosApplication.java
+END
+POSKeyboard.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/client/src/org/compiere/pos/POSKeyboard.java
+END
+PosTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/client/src/org/compiere/pos/PosTable.java
+END
+PosTextField.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/client/src/org/compiere/pos/PosTextField.java
+END
+PosKeyPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/client/src/org/compiere/pos/PosKeyPanel.java
+END
+PosSubPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/client/src/org/compiere/pos/PosSubPanel.java
+END
+PosLogin.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/client/src/org/compiere/pos/PosLogin.java
+END
+QueryTicket.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/client/src/org/compiere/pos/QueryTicket.java
+END
+PosQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/client/src/org/compiere/pos/PosQuery.java
+END
+PosPayment.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/client/src/org/compiere/pos/PosPayment.java
+END

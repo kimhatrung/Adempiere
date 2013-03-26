@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/3.7/!svn/ver/1/db/ddlutils/oracle
+END
+init.sql
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/db/ddlutils/oracle/init.sql
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/oracle/readme.txt
+END
+AfterImport.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/oracle/AfterImport.sql
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/oracle/build.properties
+END
+BeforeImport.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/oracle/BeforeImport.sql
+END
+build-ddl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/oracle/build-ddl.properties
+END
+jdbc.properties.oracle10
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/oracle/jdbc.properties.oracle10
+END
+build-ddl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/oracle/build-ddl.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/db/ddlutils/oracle/build.xml
+END
+ant.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/3.7/!svn/ver/1/db/ddlutils/oracle/ant.sh
+END
+functions-decl.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/oracle/functions-decl.sql
+END

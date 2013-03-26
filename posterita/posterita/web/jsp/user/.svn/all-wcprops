@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/user
+END
+createUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/user/createUser.jsp
+END
+listUsers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/user/listUsers.jsp
+END
+userCreated.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/user/userCreated.jsp
+END
+registerUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/user/registerUser.jsp
+END
+viewUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/user/viewUser.jsp
+END
+editUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/user/editUser.jsp
+END

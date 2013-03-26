@@ -1,0 +1,593 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form
+END
+VendorForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/VendorForm.java
+END
+InvoiceHistoryForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/InvoiceHistoryForm.java
+END
+ViewTaxForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/ViewTaxForm.java
+END
+BPartnerForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/BPartnerForm.java
+END
+ProductAttributeValueForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/ProductAttributeValueForm.java
+END
+AttachmentForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/AttachmentForm.java
+END
+GeneralPaymentForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/GeneralPaymentForm.java
+END
+EditPriceListForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/EditPriceListForm.java
+END
+ProductRestrictionForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/ProductRestrictionForm.java
+END
+BankForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/BankForm.java
+END
+CashBookForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/CashBookForm.java
+END
+DocumentForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/DocumentForm.java
+END
+InvokeOrderForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/InvokeOrderForm.java
+END
+GarmentForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/GarmentForm.java
+END
+RoleForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/RoleForm.java
+END
+ReportForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/ReportForm.java
+END
+ItemForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/ItemForm.java
+END
+EditAttributeForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/EditAttributeForm.java
+END
+InventoryLineForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/InventoryLineForm.java
+END
+StockEnquiryForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/StockEnquiryForm.java
+END
+ProductImageForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/ProductImageForm.java
+END
+CreateProductAttributeValueForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/CreateProductAttributeValueForm.java
+END
+OrderHistoryForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/OrderHistoryForm.java
+END
+EditProductForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/EditProductForm.java
+END
+OrgForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/OrgForm.java
+END
+UserRegistrationForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/UserRegistrationForm.java
+END
+CustomerAndCreditCardForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/CustomerAndCreditCardForm.java
+END
+ReportSummaryHistoryForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/ReportSummaryHistoryForm.java
+END
+POSInfoForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/POSInfoForm.java
+END
+POSHistoryForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/POSHistoryForm.java
+END
+SalesReportForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/SalesReportForm.java
+END
+CurrenrPOSBalanceForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/CurrenrPOSBalanceForm.java
+END
+CustomerForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/CustomerForm.java
+END
+ChangeDocumentStatusForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/ChangeDocumentStatusForm.java
+END
+SalesAnalysisReportForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/SalesAnalysisReportForm.java
+END
+InventoryForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/InventoryForm.java
+END
+POSProductForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/POSProductForm.java
+END
+DocumentHistoryForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/DocumentHistoryForm.java
+END
+SetApplicationParametersForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/SetApplicationParametersForm.java
+END
+PaymentTermForm2.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/PaymentTermForm2.java
+END
+GenericProductForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/GenericProductForm.java
+END
+StockForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/StockForm.java
+END
+POSForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/POSForm.java
+END
+PaymentTermForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/PaymentTermForm.java
+END
+CashBookDetailForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/CashBookDetailForm.java
+END
+CommissionForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/CommissionForm.java
+END
+InOutHistoryForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/InOutHistoryForm.java
+END
+TaxForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/TaxForm.java
+END
+ChangePasswordForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/ChangePasswordForm.java
+END
+ViewProductForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/ViewProductForm.java
+END
+CreditCardForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/CreditCardForm.java
+END
+LoginForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/LoginForm.java
+END
+POSDescriptionForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/POSDescriptionForm.java
+END
+SearchProductForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/SearchProductForm.java
+END
+CreateUserForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/CreateUserForm.java
+END
+PaymentForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/PaymentForm.java
+END
+CheckoutForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/CheckoutForm.java
+END
+PaymentAllocationForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/PaymentAllocationForm.java
+END
+DateFilterForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/DateFilterForm.java
+END
+StockMovementForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/StockMovementForm.java
+END
+SynchronizeCollectionsForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/SynchronizeCollectionsForm.java
+END
+POSSupplierForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/POSSupplierForm.java
+END
+TerminalForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/TerminalForm.java
+END
+POSOrderLineForm2.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/POSOrderLineForm2.java
+END
+CreateLocatorForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/CreateLocatorForm.java
+END
+RemoveSessionForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/RemoveSessionForm.java
+END
+CurrencyForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/CurrencyForm.java
+END
+PaymentHistoryForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/PaymentHistoryForm.java
+END
+ProductDetailInfoForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/ProductDetailInfoForm.java
+END
+SingleDateFilterForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/SingleDateFilterForm.java
+END
+UserForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/UserForm.java
+END
+ViewBPartnerForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/ViewBPartnerForm.java
+END
+CreateProductAttributeForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/CreateProductAttributeForm.java
+END
+POSReportForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/POSReportForm.java
+END
+PriceListForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/PriceListForm.java
+END
+ReportImageForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/ReportImageForm.java
+END
+SellingItemForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/SellingItemForm.java
+END
+CreateBPartnerForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/CreateBPartnerForm.java
+END
+OrderLineForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/OrderLineForm.java
+END
+POSStockForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/POSStockForm.java
+END
+ProductStatusForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/ProductStatusForm.java
+END
+PriceCheckForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/PriceCheckForm.java
+END
+AttributeValuesForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/AttributeValuesForm.java
+END
+BlackListForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/BlackListForm.java
+END
+OpenItemForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/OpenItemForm.java
+END
+AttributeForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/AttributeForm.java
+END
+ProductKeywordsForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/ProductKeywordsForm.java
+END
+ProductSearchForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/ProductSearchForm.java
+END
+SalesDetailsForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/SalesDetailsForm.java
+END
+CreateBankAccountForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/CreateBankAccountForm.java
+END
+POSHelpForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/POSHelpForm.java
+END
+BPartnerInfoForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/BPartnerInfoForm.java
+END
+CashForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/CashForm.java
+END
+MenuItemForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/MenuItemForm.java
+END
+DunningForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/DunningForm.java
+END
+OrderForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/OrderForm.java
+END
+InitCustomerForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/InitCustomerForm.java
+END
+ProductAttributeForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/form/ProductAttributeForm.java
+END

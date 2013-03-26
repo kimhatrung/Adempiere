@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib
+END
+jboss-jsr88.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jboss-jsr88.jar
+END
+jsp-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jsp-api.jar
+END
+jboss.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jboss.jar
+END
+commons-httpclient.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/commons-httpclient.jar
+END
+jboss-jaxrpc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jboss-jaxrpc.jar
+END
+jboss-jaxws-ext.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jboss-jaxws-ext.jar
+END
+jboss-remoting-int.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jboss-remoting-int.jar
+END
+jboss-hibernate.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jboss-hibernate.jar
+END
+xmlentitymgr.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/xmlentitymgr.jar
+END
+jboss-j2ee.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jboss-j2ee.jar
+END
+jbossjta.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jbossjta.jar
+END
+cglib.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/cglib.jar
+END
+hibernate3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/hibernate3.jar
+END
+scheduler-plugin-example.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/scheduler-plugin-example.jar
+END
+log4j-snmp-appender.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/log4j-snmp-appender.jar
+END
+hsqldb.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/hsqldb.jar
+END
+jbossws-framework.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jbossws-framework.jar
+END
+jbossjta-integration.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jbossjta-integration.jar
+END
+bcel.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/bcel.jar
+END
+autonumber-plugin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/autonumber-plugin.jar
+END
+jboss-transaction.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jboss-transaction.jar
+END
+hibernate-annotations.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/hibernate-annotations.jar
+END
+jboss-common-jdbc-wrapper.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jboss-common-jdbc-wrapper.jar
+END
+antlr.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/antlr.jar
+END
+hibernate-entitymanager.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/hibernate-entitymanager.jar
+END
+jnpserver.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jnpserver.jar
+END
+commons-collections.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/commons-collections.jar
+END
+commons-codec.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/commons-codec.jar
+END
+jboss-jsr77.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jboss-jsr77.jar
+END
+jmx-adaptor-plugin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jmx-adaptor-plugin.jar
+END
+el-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/el-api.jar
+END
+bsf.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/bsf.jar
+END
+jboss-iiop.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jboss-iiop.jar
+END
+mail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/mail.jar
+END
+dom4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/dom4j.jar
+END
+jboss-management.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jboss-management.jar
+END
+jboss-remoting.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jboss-remoting.jar
+END
+log4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/log4j.jar
+END
+jboss-serialization.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jboss-serialization.jar
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/commons-logging.jar
+END
+jbossws-jboss42.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jbossws-jboss42.jar
+END
+jboss-srp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jboss-srp.jar
+END
+jbosssx.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jbosssx.jar
+END
+hsqldb-plugin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/hsqldb-plugin.jar
+END
+joesnmp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/joesnmp.jar
+END
+jboss-monitoring.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jboss-monitoring.jar
+END
+jbossts-common.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jbossts-common.jar
+END
+jbossws-common.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jbossws-common.jar
+END
+scheduler-plugin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/scheduler-plugin.jar
+END
+jboss-jaxws.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jboss-jaxws.jar
+END
+ejb3-persistence.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/ejb3-persistence.jar
+END
+javassist.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/javassist.jar
+END
+jaxen.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jaxen.jar
+END
+jboss-ejb3x.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jboss-ejb3x.jar
+END
+properties-plugin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/properties-plugin.jar
+END
+jboss-vfs.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jboss-vfs.jar
+END
+bindingservice-plugin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/bindingservice-plugin.jar
+END
+logkit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/logkit.jar
+END
+servlet-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/servlet-api.jar
+END
+jboss-jca.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jboss-jca.jar
+END
+jbossws-spi.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/lib/jbossws-spi.jar
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/3.7/!svn/ver/1/migration/252d-253a
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/migration/252d-253a/readme.txt
+END
+01_FromCompiere252dTo253a.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/migration/252d-253a/01_FromCompiere252dTo253a.sql
+END
+02_migrationDictionary252dTo253a.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/252d-253a/02_migrationDictionary252dTo253a.sql
+END

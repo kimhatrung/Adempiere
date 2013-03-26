@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/wf
+END
+WFNodeContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/wf/WFNodeContainer.java
+END
+WFEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/wf/WFEditor.java
+END
+WWFActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/wf/WWFActivity.java
+END
+WFPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/wf/WFPanel.java
+END
+WFNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/wf/WFNode.java
+END

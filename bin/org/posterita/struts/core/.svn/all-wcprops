@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/core
+END
+BaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/core/BaseAction.java
+END
+AjaxAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/core/AjaxAction.java
+END
+DefaultForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/core/DefaultForm.java
+END
+BaseForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/core/BaseForm.java
+END
+BaseDispatchAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/struts/core/BaseDispatchAction.java
+END

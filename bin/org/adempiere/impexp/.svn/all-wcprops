@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/impexp
+END
+ArrayExcelExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/impexp/ArrayExcelExporter.java
+END
+GridTabExcelExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/impexp/GridTabExcelExporter.java
+END
+AbstractExcelExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/impexp/AbstractExcelExporter.java
+END

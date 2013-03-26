@@ -1,0 +1,4361 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/3.7/!svn/ver/1/db/ddlutils/model
+END
+IMP_PROCESSOR_TYPE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/IMP_PROCESSOR_TYPE.xml
+END
+AD_WORKFLOW.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_WORKFLOW.xml
+END
+C_PHASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_PHASE.xml
+END
+M_PRODUCTIONLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_PRODUCTIONLINE.xml
+END
+PP_ORDER_BOM_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PP_ORDER_BOM_TRL.xml
+END
+A_ASSET_ACCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_ASSET_ACCT.xml
+END
+C_ELEMENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_ELEMENT.xml
+END
+AD_FIELDGROUP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_FIELDGROUP.xml
+END
+AD_ORGTYPE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_ORGTYPE.xml
+END
+AD_WF_ACTIVITY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_WF_ACTIVITY.xml
+END
+PP_ORDER_NODE_ASSET.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PP_ORDER_NODE_ASSET.xml
+END
+C_SALESREGION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_SALESREGION.xml
+END
+C_COMMISSION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_COMMISSION.xml
+END
+AD_USER.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_USER.xml
+END
+HR_JOB.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/db/ddlutils/model/HR_JOB.xml
+END
+R_REQUESTUPDATES.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/R_REQUESTUPDATES.xml
+END
+M_PROMOTIONPRECONDITION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_PROMOTIONPRECONDITION.xml
+END
+C_TAXDECLARATION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_TAXDECLARATION.xml
+END
+C_SERVICELEVEL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_SERVICELEVEL.xml
+END
+PA_GOALRESTRICTION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PA_GOALRESTRICTION.xml
+END
+M_PROMOTIONGROUP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_PROMOTIONGROUP.xml
+END
+M_DISTRIBUTIONRUN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_DISTRIBUTIONRUN.xml
+END
+AD_RECORD_ACCESS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_RECORD_ACCESS.xml
+END
+AD_PREFERENCE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PREFERENCE.xml
+END
+PA_REPORTCUBE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PA_REPORTCUBE.xml
+END
+AD_WORKFLOWPROCESSOR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_WORKFLOWPROCESSOR.xml
+END
+M_ATTRIBUTESET.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_ATTRIBUTESET.xml
+END
+AD_TREEBAR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_TREEBAR.xml
+END
+CM_ACCESSLISTBPGROUP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_ACCESSLISTBPGROUP.xml
+END
+M_COSTELEMENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_COSTELEMENT.xml
+END
+A_ASSET_GROUP_ACCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_ASSET_GROUP_ACCT.xml
+END
+AD_WORKBENCH.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_WORKBENCH.xml
+END
+FACT_ACCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/FACT_ACCT.xml
+END
+T_INVOICEGL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/T_INVOICEGL.xml
+END
+M_ATTRIBUTEVALUE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_ATTRIBUTEVALUE.xml
+END
+AD_INFOWINDOW_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_INFOWINDOW_TRL.xml
+END
+CM_ACCESSMEDIA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_ACCESSMEDIA.xml
+END
+B_TOPICTYPE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/B_TOPICTYPE.xml
+END
+K_SOURCE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/db/ddlutils/model/K_SOURCE.xml
+END
+PP_ORDER_NODE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PP_ORDER_NODE.xml
+END
+AD_PRINTTABLEFORMAT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PRINTTABLEFORMAT.xml
+END
+C_ORGASSIGNMENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_ORGASSIGNMENT.xml
+END
+AD_VAL_RULE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_VAL_RULE.xml
+END
+GL_CATEGORY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/GL_CATEGORY.xml
+END
+C_SUBSCRIPTION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_SUBSCRIPTION.xml
+END
+AD_WF_BLOCK.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_WF_BLOCK.xml
+END
+AD_PACKAGE_IMP_DETAIL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PACKAGE_IMP_DETAIL.xml
+END
+HR_PROCESS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/HR_PROCESS.xml
+END
+AD_PRINTPAPER.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PRINTPAPER.xml
+END
+CM_NEWSITEM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_NEWSITEM.xml
+END
+AD_ALERTRULE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_ALERTRULE.xml
+END
+AD_ISSUE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_ISSUE.xml
+END
+AD_INFOCOLUMN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_INFOCOLUMN.xml
+END
+C_TAXDEFINITION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_TAXDEFINITION.xml
+END
+W_STORE_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/W_STORE_TRL.xml
+END
+PA_REPORTCOLUMNSET.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PA_REPORTCOLUMNSET.xml
+END
+M_PRODUCTPRICEVENDORBREAK.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_PRODUCTPRICEVENDORBREAK.xml
+END
+M_PRODUCT_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_PRODUCT_TRL.xml
+END
+PP_PRODUCT_PLANNING.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PP_PRODUCT_PLANNING.xml
+END
+M_FORECAST.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_FORECAST.xml
+END
+DD_ORDER.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/db/ddlutils/model/DD_ORDER.xml
+END
+R_REQUESTPROCESSOR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/R_REQUESTPROCESSOR.xml
+END
+C_ORDER.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_ORDER.xml
+END
+R_GROUP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/R_GROUP.xml
+END
+C_BPARTNER_PRODUCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_BPARTNER_PRODUCT.xml
+END
+C_BP_VENDOR_ACCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_BP_VENDOR_ACCT.xml
+END
+C_DUNNINGRUN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_DUNNINGRUN.xml
+END
+PA_REPORTLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PA_REPORTLINE.xml
+END
+PA_SLA_MEASURE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PA_SLA_MEASURE.xml
+END
+ASP_FIELD.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/ASP_FIELD.xml
+END
+CM_WEBPROJECT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_WEBPROJECT.xml
+END
+GL_JOURNAL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/GL_JOURNAL.xml
+END
+AD_TREENODEPR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_TREENODEPR.xml
+END
+CM_CSTAGE_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_CSTAGE_TRL.xml
+END
+AD_ATTACHMENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_ATTACHMENT.xml
+END
+AD_PRINTFONT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PRINTFONT.xml
+END
+C_TAX_ACCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_TAX_ACCT.xml
+END
+CM_CHATTYPE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_CHATTYPE.xml
+END
+AD_PINSTANCE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PINSTANCE.xml
+END
+A_DEPRECIATION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_DEPRECIATION.xml
+END
+A_ASSET_SPLIT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_ASSET_SPLIT.xml
+END
+M_PRICELIST_VERSION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_PRICELIST_VERSION.xml
+END
+A_ASSET_REVAL_ENTRY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_ASSET_REVAL_ENTRY.xml
+END
+AD_WF_EVENTAUDIT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_WF_EVENTAUDIT.xml
+END
+AD_ALERTRECIPIENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_ALERTRECIPIENT.xml
+END
+R_REQUESTPROCESSOR_ROUTE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/db/ddlutils/model/R_REQUESTPROCESSOR_ROUTE.xml
+END
+M_LOTCTL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_LOTCTL.xml
+END
+I_BPARTNER.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/I_BPARTNER.xml
+END
+C_BP_BANKACCOUNT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_BP_BANKACCOUNT.xml
+END
+CM_CONTAINER_URL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_CONTAINER_URL.xml
+END
+PA_REPORTSOURCE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PA_REPORTSOURCE.xml
+END
+PP_ORDER_COST.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PP_ORDER_COST.xml
+END
+AD_MIGRATIONSCRIPT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_MIGRATIONSCRIPT.xml
+END
+C_SERVICELEVELLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_SERVICELEVELLINE.xml
+END
+C_TAXDECLARATIONLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_TAXDECLARATIONLINE.xml
+END
+S_TIMEEXPENSE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/S_TIMEEXPENSE.xml
+END
+B_BIDCOMMENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/B_BIDCOMMENT.xml
+END
+B_BID.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/db/ddlutils/model/B_BID.xml
+END
+AD_FORM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_FORM.xml
+END
+PP_ORDER_NODE_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PP_ORDER_NODE_TRL.xml
+END
+ASP_CLIENTEXCEPTION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/model/ASP_CLIENTEXCEPTION.xml
+END
+AD_SEQUENCE_NO.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_SEQUENCE_NO.xml
+END
+AD_MODELVALIDATOR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_MODELVALIDATOR.xml
+END
+PP_PRODUCT_BOMLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PP_PRODUCT_BOMLINE.xml
+END
+C_INTERORG_ACCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_INTERORG_ACCT.xml
+END
+A_DEPRECIATION_FORECAST.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_DEPRECIATION_FORECAST.xml
+END
+C_PAYMENTBATCH.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_PAYMENTBATCH.xml
+END
+M_DEMANDLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_DEMANDLINE.xml
+END
+M_MATCHPO.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_MATCHPO.xml
+END
+U_BLACKLISTCHEQUE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/U_BLACKLISTCHEQUE.xml
+END
+C_JOBREMUNERATION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_JOBREMUNERATION.xml
+END
+C_UOM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_UOM.xml
+END
+M_REQUISITIONLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_REQUISITIONLINE.xml
+END
+C_CHARGE_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_CHARGE_TRL.xml
+END
+W_CLICK.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/W_CLICK.xml
+END
+C_TASK.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_TASK.xml
+END
+AD_REPLICATIONSTRATEGY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_REPLICATIONSTRATEGY.xml
+END
+PP_ORDER_BOMLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PP_ORDER_BOMLINE.xml
+END
+R_INTERESTAREA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/R_INTERESTAREA.xml
+END
+ASP_FORM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/db/ddlutils/model/ASP_FORM.xml
+END
+PP_ORDER_NODENEXT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PP_ORDER_NODENEXT.xml
+END
+C_POSKEY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_POSKEY.xml
+END
+C_BP_GROUP_ACCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_BP_GROUP_ACCT.xml
+END
+AD_TREENODEBP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_TREENODEBP.xml
+END
+M_DISCOUNTSCHEMABREAK.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_DISCOUNTSCHEMABREAK.xml
+END
+C_CAMPAIGN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_CAMPAIGN.xml
+END
+CM_CHAT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_CHAT.xml
+END
+AD_NOTE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_NOTE.xml
+END
+CM_AD_CAT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_AD_CAT.xml
+END
+ASP_PROCESS_PARA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/ASP_PROCESS_PARA.xml
+END
+GL_DISTRIBUTIONLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/model/GL_DISTRIBUTIONLINE.xml
+END
+AD_TABLE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_TABLE.xml
+END
+TEST.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/3.7/!svn/ver/1/db/ddlutils/model/TEST.xml
+END
+M_PRODUCTIONPLAN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_PRODUCTIONPLAN.xml
+END
+C_RFQLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_RFQLINE.xml
+END
+AD_PINSTANCE_PARA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PINSTANCE_PARA.xml
+END
+HR_PERIOD.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/HR_PERIOD.xml
+END
+C_INVOICEBATCHLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_INVOICEBATCHLINE.xml
+END
+S_TRAINING_CLASS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/S_TRAINING_CLASS.xml
+END
+M_MOVEMENTCONFIRM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_MOVEMENTCONFIRM.xml
+END
+AD_TASK.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_TASK.xml
+END
+C_PAYSCHEDULE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_PAYSCHEDULE.xml
+END
+C_DOCTYPE_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_DOCTYPE_TRL.xml
+END
+K_INDEXLOG.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/K_INDEXLOG.xml
+END
+C_PAYMENTALLOCATE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_PAYMENTALLOCATE.xml
+END
+M_MOVEMENTLINEMA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_MOVEMENTLINEMA.xml
+END
+M_MOVEMENTLINECONFIRM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_MOVEMENTLINECONFIRM.xml
+END
+K_TYPE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/db/ddlutils/model/K_TYPE.xml
+END
+W_BASKET.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/db/ddlutils/model/W_BASKET.xml
+END
+M_BOM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_BOM.xml
+END
+AD_FIELDGROUP_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_FIELDGROUP_TRL.xml
+END
+C_LOCATION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_LOCATION.xml
+END
+C_BPARTNER_LOCATION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_BPARTNER_LOCATION.xml
+END
+C_LANDEDCOSTALLOCATION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_LANDEDCOSTALLOCATION.xml
+END
+A_ASSET_REVAL_INDEX.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_ASSET_REVAL_INDEX.xml
+END
+I_ORDER.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/I_ORDER.xml
+END
+M_COSTTYPE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_COSTTYPE.xml
+END
+PA_BENCHMARKDATA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PA_BENCHMARKDATA.xml
+END
+AD_PROCESS_PARA_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PROCESS_PARA_TRL.xml
+END
+R_REQUESTTYPE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/R_REQUESTTYPE.xml
+END
+M_INVENTORYLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_INVENTORYLINE.xml
+END
+CM_WEBACCESSLOG.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_WEBACCESSLOG.xml
+END
+A_ASSET_DELIVERY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_ASSET_DELIVERY.xml
+END
+C_CHARGE_ACCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_CHARGE_ACCT.xml
+END
+PP_WF_NODE_ASSET.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PP_WF_NODE_ASSET.xml
+END
+ASP_TASK.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/db/ddlutils/model/ASP_TASK.xml
+END
+M_TRANSACTION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_TRANSACTION.xml
+END
+FACT_ACCT_SUMMARY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/FACT_ACCT_SUMMARY.xml
+END
+M_SHIPPER.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_SHIPPER.xml
+END
+M_PRODUCT_CATEGORY_ACCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_PRODUCT_CATEGORY_ACCT.xml
+END
+M_INVENTORYLINEMA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_INVENTORYLINEMA.xml
+END
+DD_NETWORKDISTRIBUTION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/db/ddlutils/model/DD_NETWORKDISTRIBUTION.xml
+END
+C_BANKACCOUNT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_BANKACCOUNT.xml
+END
+M_INOUTLINECONFIRM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_INOUTLINECONFIRM.xml
+END
+C_TAXCATEGORY_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_TAXCATEGORY_TRL.xml
+END
+AD_TREENODEMM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_TREENODEMM.xml
+END
+CM_CSTAGE_ELEMENT_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_CSTAGE_ELEMENT_TRL.xml
+END
+C_TAX_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_TAX_TRL.xml
+END
+AD_DESKTOP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_DESKTOP.xml
+END
+C_RFQLINEQTY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_RFQLINEQTY.xml
+END
+AD_TABLE_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_TABLE_TRL.xml
+END
+M_MOVEMENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_MOVEMENT.xml
+END
+CM_CHATENTRY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_CHATENTRY.xml
+END
+M_PRODUCTDOWNLOAD.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_PRODUCTDOWNLOAD.xml
+END
+AD_CLIENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_CLIENT.xml
+END
+CM_WEBPROJECT_DOMAIN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_WEBPROJECT_DOMAIN.xml
+END
+CM_CONTAINER_ELEMENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_CONTAINER_ELEMENT.xml
+END
+M_STORAGE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_STORAGE.xml
+END
+C_CONVERSION_RATE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_CONVERSION_RATE.xml
+END
+I_PAYMENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/I_PAYMENT.xml
+END
+C_WITHHOLDING_ACCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_WITHHOLDING_ACCT.xml
+END
+C_PROJECTLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_PROJECTLINE.xml
+END
+M_PRODUCT_COSTING.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_PRODUCT_COSTING.xml
+END
+R_REQUESTPROCESSORLOG.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/model/R_REQUESTPROCESSORLOG.xml
+END
+W_COUNTER.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/W_COUNTER.xml
+END
+EXP_FORMAT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/EXP_FORMAT.xml
+END
+A_ASSET_USE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_ASSET_USE.xml
+END
+C_CHARGETYPE_DOCTYPE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_CHARGETYPE_DOCTYPE.xml
+END
+R_STATUSCATEGORY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/R_STATUSCATEGORY.xml
+END
+M_DEMAND.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_DEMAND.xml
+END
+C_TAXDECLARATIONACCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_TAXDECLARATIONACCT.xml
+END
+AD_SCHEDULER.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_SCHEDULER.xml
+END
+U_ROLEMENU.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/U_ROLEMENU.xml
+END
+T_REPORT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/db/ddlutils/model/T_REPORT.xml
+END
+QM_SPECIFICATION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/QM_SPECIFICATION.xml
+END
+AD_WF_RESPONSIBLE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_WF_RESPONSIBLE.xml
+END
+C_INVOICELINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_INVOICELINE.xml
+END
+M_PROMOTIONLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_PROMOTIONLINE.xml
+END
+A_DEPRECIATION_EXP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_DEPRECIATION_EXP.xml
+END
+AD_PACKAGE_IMP_BACKUP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PACKAGE_IMP_BACKUP.xml
+END
+M_ATTRIBUTE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_ATTRIBUTE.xml
+END
+A_ASSET_INFO_INS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_ASSET_INFO_INS.xml
+END
+AD_PRINTFORMATITEM_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PRINTFORMATITEM_TRL.xml
+END
+C_ACCTSCHEMA_ELEMENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_ACCTSCHEMA_ELEMENT.xml
+END
+AD_ELEMENT_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_ELEMENT_TRL.xml
+END
+ASP_TAB.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/ASP_TAB.xml
+END
+C_REVENUERECOGNITION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_REVENUERECOGNITION.xml
+END
+C_BANKSTATEMENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_BANKSTATEMENT.xml
+END
+CM_AD.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_AD.xml
+END
+AD_TABLE_SCRIPTVALIDATOR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_TABLE_SCRIPTVALIDATOR.xml
+END
+CM_CONTAINER_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_CONTAINER_TRL.xml
+END
+C_BANKSTATEMENTMATCHER.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_BANKSTATEMENTMATCHER.xml
+END
+B_SELLER.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/db/ddlutils/model/B_SELLER.xml
+END
+I_GLJOURNAL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/I_GLJOURNAL.xml
+END
+C_USERREMUNERATION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_USERREMUNERATION.xml
+END
+PP_ORDER_WORKFLOW_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PP_ORDER_WORKFLOW_TRL.xml
+END
+IMP_PROCESSOR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/IMP_PROCESSOR.xml
+END
+M_ATTRIBUTEINSTANCE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_ATTRIBUTEINSTANCE.xml
+END
+M_PRODUCT_CATEGORY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_PRODUCT_CATEGORY.xml
+END
+PA_GOAL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PA_GOAL.xml
+END
+AD_ACCESSLOG.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_ACCESSLOG.xml
+END
+HR_LISTVERSION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/HR_LISTVERSION.xml
+END
+C_ORDERLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_ORDERLINE.xml
+END
+AD_PACKAGE_EXP_DETAIL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PACKAGE_EXP_DETAIL.xml
+END
+M_PACKAGELINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_PACKAGELINE.xml
+END
+C_BP_WITHHOLDING.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_BP_WITHHOLDING.xml
+END
+U_WEBMENU.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/U_WEBMENU.xml
+END
+T_BOMLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/T_BOMLINE.xml
+END
+C_JOBASSIGNMENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_JOBASSIGNMENT.xml
+END
+CM_MEDIA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_MEDIA.xml
+END
+R_MAILTEXT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/R_MAILTEXT.xml
+END
+A_ASSET_GROUP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_ASSET_GROUP.xml
+END
+M_PACKAGE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_PACKAGE.xml
+END
+C_PROJECTTYPE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_PROJECTTYPE.xml
+END
+C_POS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_POS.xml
+END
+A_ASSET_TRANSFER.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_ASSET_TRANSFER.xml
+END
+R_REQUESTACTION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/R_REQUESTACTION.xml
+END
+R_GROUPUPDATES.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/R_GROUPUPDATES.xml
+END
+AD_MODIFICATION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_MODIFICATION.xml
+END
+M_CHANGENOTICE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_CHANGENOTICE.xml
+END
+AD_PRINTFORMATITEM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PRINTFORMATITEM.xml
+END
+AD_LABELPRINTER.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_LABELPRINTER.xml
+END
+C_REVENUERECOGNITION_RUN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_REVENUERECOGNITION_RUN.xml
+END
+AD_USER_ROLES.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_USER_ROLES.xml
+END
+S_TRAINING.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/S_TRAINING.xml
+END
+DD_NETWORKDISTRIBUTIONLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/db/ddlutils/model/DD_NETWORKDISTRIBUTIONLINE.xml
+END
+U_WEB_PROPERTIES.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/U_WEB_PROPERTIES.xml
+END
+AD_PACKAGE_EXP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PACKAGE_EXP.xml
+END
+AD_SYSTEM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_SYSTEM.xml
+END
+PA_REPORTLINESET.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PA_REPORTLINESET.xml
+END
+C_ORDERSOURCE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_ORDERSOURCE.xml
+END
+T_DISTRIBUTIONRUNDETAIL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/model/T_DISTRIBUTIONRUNDETAIL.xml
+END
+C_ALLOCATIONLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_ALLOCATIONLINE.xml
+END
+C_BP_RELATION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_BP_RELATION.xml
+END
+C_REMUNERATION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_REMUNERATION.xml
+END
+I_PRICELIST.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/I_PRICELIST.xml
+END
+A_ASSET.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_ASSET.xml
+END
+CM_MEDIA_SERVER.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_MEDIA_SERVER.xml
+END
+A_DEPRECIATION_METHOD.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_DEPRECIATION_METHOD.xml
+END
+B_BUYER.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/B_BUYER.xml
+END
+AD_CHANGELOG.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_CHANGELOG.xml
+END
+EXP_PROCESSORPARAMETER.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/db/ddlutils/model/EXP_PROCESSORPARAMETER.xml
+END
+AD_SCHEDULERRECIPIENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_SCHEDULERRECIPIENT.xml
+END
+K_ENTRYCATEGORY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/K_ENTRYCATEGORY.xml
+END
+M_PRODUCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_PRODUCT.xml
+END
+K_ENTRY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/K_ENTRY.xml
+END
+C_UOM_CONVERSION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_UOM_CONVERSION.xml
+END
+AD_REFERENCE_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_REFERENCE_TRL.xml
+END
+GL_BUDGET.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/GL_BUDGET.xml
+END
+C_PAYSELECTION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_PAYSELECTION.xml
+END
+K_SYNONYM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/K_SYNONYM.xml
+END
+C_CITY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_CITY.xml
+END
+M_RMALINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_RMALINE.xml
+END
+C_CHARGETYPE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_CHARGETYPE.xml
+END
+M_INOUTLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_INOUTLINE.xml
+END
+AD_PROCESS_PARA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PROCESS_PARA.xml
+END
+K_ENTRYRELATED.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/K_ENTRYRELATED.xml
+END
+R_ISSUEPROJECT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/R_ISSUEPROJECT.xml
+END
+C_RECURRING_RUN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_RECURRING_RUN.xml
+END
+C_INVOICEPAYSCHEDULE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_INVOICEPAYSCHEDULE.xml
+END
+R_REQUESTTYPEUPDATES.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/model/R_REQUESTTYPEUPDATES.xml
+END
+AD_INFOCOLUMN_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_INFOCOLUMN_TRL.xml
+END
+AD_TASK_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_TASK_TRL.xml
+END
+ASP_WINDOW.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/ASP_WINDOW.xml
+END
+C_POSKEYLAYOUT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_POSKEYLAYOUT.xml
+END
+AD_USER_SUBSTITUTE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_USER_SUBSTITUTE.xml
+END
+S_TIMETYPE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/S_TIMETYPE.xml
+END
+M_RMA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_RMA.xml
+END
+A_REGISTRATION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_REGISTRATION.xml
+END
+C_PROJECT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_PROJECT.xml
+END
+B_OFFER.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/B_OFFER.xml
+END
+R_CATEGORYUPDATES.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/R_CATEGORYUPDATES.xml
+END
+ASP_WORKFLOW.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/ASP_WORKFLOW.xml
+END
+A_DEPRECIATION_WORKFILE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_DEPRECIATION_WORKFILE.xml
+END
+AD_PROCESS_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PROCESS_TRL.xml
+END
+AD_PRINTLABEL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PRINTLABEL.xml
+END
+M_LOCATOR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_LOCATOR.xml
+END
+AD_DOCUMENT_ACTION_ACCESS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_DOCUMENT_ACTION_ACCESS.xml
+END
+C_PAYSELECTIONCHECK.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_PAYSELECTIONCHECK.xml
+END
+AD_PACKAGE_IMP_INST.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PACKAGE_IMP_INST.xml
+END
+PA_BENCHMARK.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PA_BENCHMARK.xml
+END
+CM_ACCESSPROFILE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_ACCESSPROFILE.xml
+END
+T_SELECTION2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/T_SELECTION2.xml
+END
+T_TRIALBALANCE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/T_TRIALBALANCE.xml
+END
+B_SELLERFUNDS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/B_SELLERFUNDS.xml
+END
+C_ACCTSCHEMA_GL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_ACCTSCHEMA_GL.xml
+END
+AD_WF_NEXTCONDITION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_WF_NEXTCONDITION.xml
+END
+CM_WIKITOKEN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_WIKITOKEN.xml
+END
+C_CYCLESTEP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_CYCLESTEP.xml
+END
+R_ISSUEKNOWN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/R_ISSUEKNOWN.xml
+END
+B_BUYERFUNDS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/B_BUYERFUNDS.xml
+END
+M_EDI.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_EDI.xml
+END
+C_RFQ_TOPICSUBSCRIBER.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_RFQ_TOPICSUBSCRIBER.xml
+END
+GL_DISTRIBUTION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/GL_DISTRIBUTION.xml
+END
+M_BOMALTERNATIVE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_BOMALTERNATIVE.xml
+END
+PA_RATIOELEMENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PA_RATIOELEMENT.xml
+END
+AD_SCHEDULER_PARA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_SCHEDULER_PARA.xml
+END
+C_WITHHOLDING.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_WITHHOLDING.xml
+END
+PP_ORDER_NODE_PRODUCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PP_ORDER_NODE_PRODUCT.xml
+END
+C_CASHLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_CASHLINE.xml
+END
+C_COMMISSIONRUN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_COMMISSIONRUN.xml
+END
+IMP_PROCESSORLOG.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/IMP_PROCESSORLOG.xml
+END
+C_PAYMENTTERM_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_PAYMENTTERM_TRL.xml
+END
+AD_WF_NODE_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_WF_NODE_TRL.xml
+END
+AD_COLOR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_COLOR.xml
+END
+AD_ORG.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_ORG.xml
+END
+C_INVOICESCHEDULE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_INVOICESCHEDULE.xml
+END
+AD_WF_NODE_PARA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_WF_NODE_PARA.xml
+END
+M_RMATYPE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_RMATYPE.xml
+END
+AD_FORM_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_FORM_TRL.xml
+END
+PP_ORDER.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PP_ORDER.xml
+END
+EXP_PROCESSOR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/EXP_PROCESSOR.xml
+END
+T_REPORTSTATEMENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/T_REPORTSTATEMENT.xml
+END
+M_FREIGHT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_FREIGHT.xml
+END
+M_WAREHOUSE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_WAREHOUSE.xml
+END
+AD_ATTRIBUTE_VALUE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_ATTRIBUTE_VALUE.xml
+END
+AD_PROCESS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PROCESS.xml
+END
+AD_WORKBENCHWINDOW.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_WORKBENCHWINDOW.xml
+END
+AD_LDAPPROCESSORLOG.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_LDAPPROCESSORLOG.xml
+END
+AD_TASKINSTANCE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_TASKINSTANCE.xml
+END
+AD_CLIENTSHARE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_CLIENTSHARE.xml
+END
+CM_CONTAINER_ELEMENT_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_CONTAINER_ELEMENT_TRL.xml
+END
+C_BANK.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_BANK.xml
+END
+A_ASSET_CHANGE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_ASSET_CHANGE.xml
+END
+K_INDEX.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/K_INDEX.xml
+END
+M_MATCHINV.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_MATCHINV.xml
+END
+M_LOT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_LOT.xml
+END
+A_ASSET_INFO_OTH.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_ASSET_INFO_OTH.xml
+END
+K_INDEXSTOP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/K_INDEXSTOP.xml
+END
+AD_PACKAGE_EXP_COMMON.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PACKAGE_EXP_COMMON.xml
+END
+ASP_LEVEL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/ASP_LEVEL.xml
+END
+HR_EMPLOYEE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/HR_EMPLOYEE.xml
+END
+AD_SCHEDULERLOG.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_SCHEDULERLOG.xml
+END
+PA_MEASURECALC.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PA_MEASURECALC.xml
+END
+AD_REF_TABLE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_REF_TABLE.xml
+END
+U_POSTERMINAL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/U_POSTERMINAL.xml
+END
+M_DISTRIBUTIONLISTLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_DISTRIBUTIONLISTLINE.xml
+END
+M_INOUTCONFIRM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_INOUTCONFIRM.xml
+END
+C_TAXTYPE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_TAXTYPE.xml
+END
+AD_WF_NODENEXT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_WF_NODENEXT.xml
+END
+C_CYCLE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_CYCLE.xml
+END
+CM_CSTAGETTABLE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_CSTAGETTABLE.xml
+END
+R_CATEGORY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/R_CATEGORY.xml
+END
+R_STANDARDRESPONSE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/R_STANDARDRESPONSE.xml
+END
+K_COMMENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/K_COMMENT.xml
+END
+CM_CONTAINER.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_CONTAINER.xml
+END
+AD_ERROR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_ERROR.xml
+END
+AD_RELATIONTYPE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_RELATIONTYPE.xml
+END
+C_ACCTSCHEMA_DEFAULT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_ACCTSCHEMA_DEFAULT.xml
+END
+C_SUBSCRIPTIONTYPE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_SUBSCRIPTIONTYPE.xml
+END
+M_DISTRIBUTIONLIST.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_DISTRIBUTIONLIST.xml
+END
+AD_REF_LIST_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_REF_LIST_TRL.xml
+END
+AD_REGISTRATION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_REGISTRATION.xml
+END
+R_ISSUEUSER.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/R_ISSUEUSER.xml
+END
+AD_SEQUENCE_AUDIT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_SEQUENCE_AUDIT.xml
+END
+AD_TAB.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_TAB.xml
+END
+A_DEPRECIATION_BUILD.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_DEPRECIATION_BUILD.xml
+END
+C_SUBSCRIPTION_DELIVERY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_SUBSCRIPTION_DELIVERY.xml
+END
+AD_WINDOW_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_WINDOW_TRL.xml
+END
+CM_NEWSCHANNEL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_NEWSCHANNEL.xml
+END
+C_CURRENCY_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_CURRENCY_TRL.xml
+END
+A_DEPRECIATION_ENTRY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_DEPRECIATION_ENTRY.xml
+END
+CM_TEMPLATETABLE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_TEMPLATETABLE.xml
+END
+T_INVENTORYVALUE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/T_INVENTORYVALUE.xml
+END
+C_TAXBASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_TAXBASE.xml
+END
+T_MRP_CRP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/T_MRP_CRP.xml
+END
+C_RFQRESPONSE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_RFQRESPONSE.xml
+END
+A_DEPRECIATION_CONVENTION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_DEPRECIATION_CONVENTION.xml
+END
+AD_TREENODECMM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_TREENODECMM.xml
+END
+EXP_PROCESSOR_TYPE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/EXP_PROCESSOR_TYPE.xml
+END
+C_PAYMENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_PAYMENT.xml
+END
+C_NONBUSINESSDAY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_NONBUSINESSDAY.xml
+END
+ASP_MODULE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/ASP_MODULE.xml
+END
+C_DUNNINGLEVEL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_DUNNINGLEVEL.xml
+END
+PA_MEASURE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PA_MEASURE.xml
+END
+C_ACCTSCHEMA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_ACCTSCHEMA.xml
+END
+AD_PROCESS_ACCESS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PROCESS_ACCESS.xml
+END
+I_CONVERSION_RATE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/I_CONVERSION_RATE.xml
+END
+AD_REPORTVIEW.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_REPORTVIEW.xml
+END
+AD_PRINTLABELLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PRINTLABELLINE.xml
+END
+A_REGISTRATIONPRODUCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_REGISTRATIONPRODUCT.xml
+END
+AD_USERDEF_FIELD.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_USERDEF_FIELD.xml
+END
+AD_WF_PROCESS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_WF_PROCESS.xml
+END
+GL_JOURNALBATCH.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/GL_JOURNALBATCH.xml
+END
+R_STATUS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/db/ddlutils/model/R_STATUS.xml
+END
+M_COST.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_COST.xml
+END
+R_MAILTEXT_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/R_MAILTEXT_TRL.xml
+END
+A_ASSET_SPREAD.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_ASSET_SPREAD.xml
+END
+C_ACCTPROCESSORLOG.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_ACCTPROCESSORLOG.xml
+END
+C_PROJECTTASK.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_PROJECTTASK.xml
+END
+C_GREETING_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_GREETING_TRL.xml
+END
+M_ATTRIBUTESETINSTANCE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_ATTRIBUTESETINSTANCE.xml
+END
+C_TAXCATEGORY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_TAXCATEGORY.xml
+END
+AD_FIELD_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_FIELD_TRL.xml
+END
+CM_CSTAGE_ELEMENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_CSTAGE_ELEMENT.xml
+END
+C_BP_EDI.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_BP_EDI.xml
+END
+C_CASHBOOK.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_CASHBOOK.xml
+END
+PA_REPORTCOLUMN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PA_REPORTCOLUMN.xml
+END
+AD_REPLICATIONTABLE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_REPLICATIONTABLE.xml
+END
+C_JOB.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_JOB.xml
+END
+C_BANKACCOUNTDOC.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_BANKACCOUNTDOC.xml
+END
+CM_ACCESSSTAGE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_ACCESSSTAGE.xml
+END
+HR_CONTRACT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/HR_CONTRACT.xml
+END
+AD_REPLICATIONDOCUMENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_REPLICATIONDOCUMENT.xml
+END
+M_SERNOCTLEXCLUDE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_SERNOCTLEXCLUDE.xml
+END
+CM_TEMPLATE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_TEMPLATE.xml
+END
+AD_DESKTOP_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_DESKTOP_TRL.xml
+END
+AD_TABLE_ACCESS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_TABLE_ACCESS.xml
+END
+HR_LIST.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/HR_LIST.xml
+END
+AD_PRINTFORM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PRINTFORM.xml
+END
+AD_HOUSEKEEPING.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_HOUSEKEEPING.xml
+END
+AD_TREE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_TREE.xml
+END
+AD_TREENODEU4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_TREENODEU4.xml
+END
+AD_REPLICATION_RUN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_REPLICATION_RUN.xml
+END
+AD_TREENODE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_TREENODE.xml
+END
+C_BANKACCOUNT_ACCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_BANKACCOUNT_ACCT.xml
+END
+M_INOUTLINEMA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_INOUTLINEMA.xml
+END
+HR_CONCEPT_ACCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/HR_CONCEPT_ACCT.xml
+END
+PA_ACHIEVEMENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PA_ACHIEVEMENT.xml
+END
+C_RECURRING.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_RECURRING.xml
+END
+PP_WF_NODE_PRODUCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PP_WF_NODE_PRODUCT.xml
+END
+C_ACCTPROCESSOR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_ACCTPROCESSOR.xml
+END
+T_SPOOL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/T_SPOOL.xml
+END
+C_UOM_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_UOM_TRL.xml
+END
+S_RESOURCEASSIGNMENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/model/S_RESOURCEASSIGNMENT.xml
+END
+A_ASSET_INFO_TAX.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_ASSET_INFO_TAX.xml
+END
+R_REQUESTUPDATE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/R_REQUESTUPDATE.xml
+END
+AD_USER_ORGACCESS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_USER_ORGACCESS.xml
+END
+C_CYCLEPHASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_CYCLEPHASE.xml
+END
+HR_YEAR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/HR_YEAR.xml
+END
+AD_ALERTPROCESSOR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_ALERTPROCESSOR.xml
+END
+M_PRICELIST.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_PRICELIST.xml
+END
+M_MOVEMENTLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_MOVEMENTLINE.xml
+END
+C_DOCTYPE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_DOCTYPE.xml
+END
+I_INOUTLINECONFIRM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/I_INOUTLINECONFIRM.xml
+END
+AD_SESSION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_SESSION.xml
+END
+T_REPLENISH.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/T_REPLENISH.xml
+END
+C_COMMISSIONLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_COMMISSIONLINE.xml
+END
+AD_PRIVATE_ACCESS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PRIVATE_ACCESS.xml
+END
+C_PERIODCONTROL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_PERIODCONTROL.xml
+END
+AD_ATTRIBUTE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_ATTRIBUTE.xml
+END
+C_COMMISSIONAMT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_COMMISSIONAMT.xml
+END
+W_MAILMSG.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/W_MAILMSG.xml
+END
+M_OPERATIONRESOURCE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_OPERATIONRESOURCE.xml
+END
+I_MOVEMENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/I_MOVEMENT.xml
+END
+C_CHANNEL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_CHANNEL.xml
+END
+C_BANKSTATEMENTLOADER.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_BANKSTATEMENTLOADER.xml
+END
+EXP_FORMATLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/EXP_FORMATLINE.xml
+END
+CM_ACCESSLISTROLE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_ACCESSLISTROLE.xml
+END
+AD_TREENODECMT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_TREENODECMT.xml
+END
+C_RFQ_TOPIC.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_RFQ_TOPIC.xml
+END
+A_ASSET_DISPOSED.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_ASSET_DISPOSED.xml
+END
+AD_PRINTCOLOR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PRINTCOLOR.xml
+END
+K_CATEGORY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/K_CATEGORY.xml
+END
+AD_REPLICATION_LOG.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_REPLICATION_LOG.xml
+END
+M_EDI_INFO.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_EDI_INFO.xml
+END
+HR_PAYROLLCONCEPT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/HR_PAYROLLCONCEPT.xml
+END
+C_COMMISSIONDETAIL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_COMMISSIONDETAIL.xml
+END
+S_RESOURCE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/S_RESOURCE.xml
+END
+W_ADVERTISEMENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/W_ADVERTISEMENT.xml
+END
+GL_BUDGETCONTROL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/GL_BUDGETCONTROL.xml
+END
+C_PROJECTPHASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_PROJECTPHASE.xml
+END
+M_PROMOTIONREWARD.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_PROMOTIONREWARD.xml
+END
+AD_ARCHIVE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_ARCHIVE.xml
+END
+AD_WINDOW.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_WINDOW.xml
+END
+M_COSTDETAIL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_COSTDETAIL.xml
+END
+PP_ORDER_BOM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PP_ORDER_BOM.xml
+END
+AD_REPLICATION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_REPLICATION.xml
+END
+AD_SYSCONFIG.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_SYSCONFIG.xml
+END
+M_REPLENISH.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_REPLENISH.xml
+END
+M_PROMOTIONDISTRIBUTION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_PROMOTIONDISTRIBUTION.xml
+END
+C_DUNNING.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_DUNNING.xml
+END
+C_PROJECT_ACCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_PROJECT_ACCT.xml
+END
+M_RELATEDPRODUCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_RELATEDPRODUCT.xml
+END
+I_INVOICE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/I_INVOICE.xml
+END
+AD_RULE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_RULE.xml
+END
+C_ORDERTAX.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_ORDERTAX.xml
+END
+PP_COST_COLLECTOR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PP_COST_COLLECTOR.xml
+END
+M_ATTRIBUTEUSE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_ATTRIBUTEUSE.xml
+END
+PA_RATIO.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PA_RATIO.xml
+END
+AD_PACKAGE_IMP_PROC.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PACKAGE_IMP_PROC.xml
+END
+AD_USERMAIL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_USERMAIL.xml
+END
+C_BPARTNER.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_BPARTNER.xml
+END
+AD_FORM_ACCESS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_FORM_ACCESS.xml
+END
+DD_ORDERLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/DD_ORDERLINE.xml
+END
+HR_LISTLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/HR_LISTLINE.xml
+END
+A_ASSET_INFO_FIN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_ASSET_INFO_FIN.xml
+END
+CM_ACCESSCONTAINER.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_ACCESSCONTAINER.xml
+END
+AD_TAB_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_TAB_TRL.xml
+END
+M_TRANSACTIONALLOCATION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_TRANSACTIONALLOCATION.xml
+END
+M_FREIGHTCATEGORY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_FREIGHTCATEGORY.xml
+END
+W_MAILMSG_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/W_MAILMSG_TRL.xml
+END
+T_AGING.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/T_AGING.xml
+END
+M_PRODUCT_ACCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_PRODUCT_ACCT.xml
+END
+AD_TREENODEU3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_TREENODEU3.xml
+END
+C_RFQ_TOPICSUBSCRIBERONLY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_RFQ_TOPICSUBSCRIBERONLY.xml
+END
+I_INVENTORY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/I_INVENTORY.xml
+END
+C_DOCTYPECOUNTER.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_DOCTYPECOUNTER.xml
+END
+PA_HIERARCHY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PA_HIERARCHY.xml
+END
+C_PAYMENTPROCESSOR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_PAYMENTPROCESSOR.xml
+END
+AD_WORKFLOW_ACCESS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_WORKFLOW_ACCESS.xml
+END
+IMP_PROCESSORPARAMETER.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/db/ddlutils/model/IMP_PROCESSORPARAMETER.xml
+END
+M_SUBSTITUTE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_SUBSTITUTE.xml
+END
+M_CHANGEREQUEST.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_CHANGEREQUEST.xml
+END
+C_BP_EMPLOYEE_ACCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_BP_EMPLOYEE_ACCT.xml
+END
+CM_BROADCASTSERVER.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_BROADCASTSERVER.xml
+END
+B_TOPICCATEGORY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/B_TOPICCATEGORY.xml
+END
+B_TOPIC.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/B_TOPIC.xml
+END
+T_TRANSACTION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/T_TRANSACTION.xml
+END
+S_TIMEEXPENSELINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/S_TIMEEXPENSELINE.xml
+END
+AD_USERDEF_TAB.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_USERDEF_TAB.xml
+END
+AD_FIND.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_FIND.xml
+END
+C_RFQRESPONSELINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_RFQRESPONSELINE.xml
+END
+C_CASHBOOK_ACCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_CASHBOOK_ACCT.xml
+END
+C_INVOICETAX.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_INVOICETAX.xml
+END
+C_DUNNINGRUNENTRY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_DUNNINGRUNENTRY.xml
+END
+C_PROJECTISSUE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_PROJECTISSUE.xml
+END
+AD_SEQUENCE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_SEQUENCE.xml
+END
+AD_PRINTGRAPH.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PRINTGRAPH.xml
+END
+AD_TREENODECMC.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_TREENODECMC.xml
+END
+M_LOTCTLEXCLUDE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_LOTCTLEXCLUDE.xml
+END
+I_REPORTLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/I_REPORTLINE.xml
+END
+M_WAREHOUSE_ACCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_WAREHOUSE_ACCT.xml
+END
+M_BOMPRODUCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_BOMPRODUCT.xml
+END
+M_PROMOTIONGROUPLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_PROMOTIONGROUPLINE.xml
+END
+A_REGISTRATIONATTRIBUTE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_REGISTRATIONATTRIBUTE.xml
+END
+AD_LDAPACCESS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_LDAPACCESS.xml
+END
+HR_LISTTYPE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/HR_LISTTYPE.xml
+END
+GL_FUNDRESTRICTION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/GL_FUNDRESTRICTION.xml
+END
+AD_TREENODECMS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_TREENODECMS.xml
+END
+W_CLICKCOUNT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/W_CLICKCOUNT.xml
+END
+CM_CSTAGE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_CSTAGE.xml
+END
+PP_PRODUCT_BOM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PP_PRODUCT_BOM.xml
+END
+C_ELEMENTVALUE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_ELEMENTVALUE.xml
+END
+AD_COLUMN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_COLUMN.xml
+END
+AD_LANGUAGE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_LANGUAGE.xml
+END
+QM_SPECIFICATIONLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/model/QM_SPECIFICATIONLINE.xml
+END
+A_DEPRECIATION_TABLE_DETAIL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_DEPRECIATION_TABLE_DETAIL.xml
+END
+AD_WINDOW_ACCESS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_WINDOW_ACCESS.xml
+END
+M_INOUT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_INOUT.xml
+END
+C_ALLOCATIONHDR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_ALLOCATIONHDR.xml
+END
+W_COUNTERCOUNT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/W_COUNTERCOUNT.xml
+END
+C_RFQRESPONSELINEQTY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_RFQRESPONSELINEQTY.xml
+END
+AD_IMPFORMAT_ROW.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_IMPFORMAT_ROW.xml
+END
+C_CURRENCY_ACCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_CURRENCY_ACCT.xml
+END
+A_ASSET_RETIREMENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_ASSET_RETIREMENT.xml
+END
+AD_IMPFORMAT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_IMPFORMAT.xml
+END
+HR_ATTRIBUTE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/HR_ATTRIBUTE.xml
+END
+M_PRODUCTOPERATION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_PRODUCTOPERATION.xml
+END
+C_ACTIVITY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_ACTIVITY.xml
+END
+M_SERNOCTL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_SERNOCTL.xml
+END
+C_CURRENCY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_CURRENCY.xml
+END
+M_DEMANDDETAIL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_DEMANDDETAIL.xml
+END
+AD_LDAPPROCESSOR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_LDAPPROCESSOR.xml
+END
+C_TAX.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_TAX.xml
+END
+AD_ROLE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_ROLE.xml
+END
+AD_CLIENTINFO.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_CLIENTINFO.xml
+END
+CM_CHATUPDATE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_CHATUPDATE.xml
+END
+AD_SEARCHDEFINITION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_SEARCHDEFINITION.xml
+END
+ASP_CLIENTLEVEL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/ASP_CLIENTLEVEL.xml
+END
+AD_USERBPACCESS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_USERBPACCESS.xml
+END
+AD_MESSAGE_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_MESSAGE_TRL.xml
+END
+C_TAXPOSTAL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_TAXPOSTAL.xml
+END
+AD_LABELPRINTERFUNCTION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_LABELPRINTERFUNCTION.xml
+END
+C_JOBCATEGORY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_JOBCATEGORY.xml
+END
+AD_ALERT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_ALERT.xml
+END
+M_PRODUCT_PO.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_PRODUCT_PO.xml
+END
+AD_USERQUERY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_USERQUERY.xml
+END
+C_RFQ.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_RFQ.xml
+END
+M_PERPETUALINV.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_PERPETUALINV.xml
+END
+AD_WF_PROCESSDATA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_WF_PROCESSDATA.xml
+END
+HR_DEPARTMENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/HR_DEPARTMENT.xml
+END
+R_ISSUESOURCE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/R_ISSUESOURCE.xml
+END
+C_INVOICEBATCH.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_INVOICEBATCH.xml
+END
+CM_TEMPLATE_AD_CAT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_TEMPLATE_AD_CAT.xml
+END
+C_DUNNINGRUNLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_DUNNINGRUNLINE.xml
+END
+C_CASH.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_CASH.xml
+END
+C_CHARGE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_CHARGE.xml
+END
+C_TAXGROUP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_TAXGROUP.xml
+END
+A_DEPRECIATION_TABLE_HEADER.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_DEPRECIATION_TABLE_HEADER.xml
+END
+M_ATTRIBUTESEARCH.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_ATTRIBUTESEARCH.xml
+END
+PP_PRODUCT_BOMLINE_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PP_PRODUCT_BOMLINE_TRL.xml
+END
+C_GREETING.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_GREETING.xml
+END
+I_PRODUCTPLANNING.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/I_PRODUCTPLANNING.xml
+END
+C_YEAR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_YEAR.xml
+END
+AD_TREENODEU2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_TREENODEU2.xml
+END
+R_RESOLUTION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/R_RESOLUTION.xml
+END
+I_PRODUCT_BOM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/I_PRODUCT_BOM.xml
+END
+R_ISSUESYSTEM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/R_ISSUESYSTEM.xml
+END
+M_PRODUCT_BOM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_PRODUCT_BOM.xml
+END
+AD_DESKTOPWORKBENCH.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_DESKTOPWORKBENCH.xml
+END
+AD_WF_ACTIVITYRESULT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_WF_ACTIVITYRESULT.xml
+END
+AD_COLUMN_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_COLUMN_TRL.xml
+END
+PA_REPORT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PA_REPORT.xml
+END
+PA_DASHBOARDCONTENT_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PA_DASHBOARDCONTENT_TRL.xml
+END
+AD_TASK_ACCESS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_TASK_ACCESS.xml
+END
+PA_SLA_CRITERIA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PA_SLA_CRITERIA.xml
+END
+HR_MOVEMENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/HR_MOVEMENT.xml
+END
+M_DISCOUNTSCHEMALINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_DISCOUNTSCHEMALINE.xml
+END
+AD_MENU_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_MENU_TRL.xml
+END
+AD_MESSAGE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_MESSAGE.xml
+END
+I_HR_MOVEMENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/I_HR_MOVEMENT.xml
+END
+PP_ORDER_WORKFLOW.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PP_ORDER_WORKFLOW.xml
+END
+C_VALIDCOMBINATION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_VALIDCOMBINATION.xml
+END
+CM_CHATTYPEUPDATE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_CHATTYPEUPDATE.xml
+END
+C_REVENUERECOGNITION_PLAN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_REVENUERECOGNITION_PLAN.xml
+END
+C_PAYSELECTIONLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_PAYSELECTIONLINE.xml
+END
+M_DISCOUNTSCHEMA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_DISCOUNTSCHEMA.xml
+END
+C_PAYMENTTERM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_PAYMENTTERM.xml
+END
+CM_MEDIADEPLOY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_MEDIADEPLOY.xml
+END
+AD_WF_NODE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_WF_NODE.xml
+END
+PA_COLORSCHEMA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PA_COLORSCHEMA.xml
+END
+AD_ORGINFO.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_ORGINFO.xml
+END
+W_STORE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/W_STORE.xml
+END
+I_PRODUCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/I_PRODUCT.xml
+END
+I_ASSET.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/I_ASSET.xml
+END
+GL_FUND.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/GL_FUND.xml
+END
+M_DISTRIBUTIONRUNLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_DISTRIBUTIONRUNLINE.xml
+END
+M_PRODUCTION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_PRODUCTION.xml
+END
+M_PRODUCTPRICE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_PRODUCTPRICE.xml
+END
+ASP_PROCESS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/ASP_PROCESS.xml
+END
+C_REGION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_REGION.xml
+END
+C_PROJECTISSUEMA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_PROJECTISSUEMA.xml
+END
+PA_DASHBOARDCONTENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PA_DASHBOARDCONTENT.xml
+END
+S_RESOURCEUNAVAILABLE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/model/S_RESOURCEUNAVAILABLE.xml
+END
+AD_PACKAGE_IMP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PACKAGE_IMP.xml
+END
+PA_SLA_GOAL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PA_SLA_GOAL.xml
+END
+C_COUNTRY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_COUNTRY.xml
+END
+AD_MENU.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_MENU.xml
+END
+R_ISSUESTATUS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/R_ISSUESTATUS.xml
+END
+R_REQUEST.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/R_REQUEST.xml
+END
+AD_REF_LIST.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_REF_LIST.xml
+END
+I_FAJOURNAL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/I_FAJOURNAL.xml
+END
+S_EXPENSETYPE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/S_EXPENSETYPE.xml
+END
+M_REQUISITION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_REQUISITION.xml
+END
+C_BANKSTATEMENTLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_BANKSTATEMENTLINE.xml
+END
+PP_MRP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PP_MRP.xml
+END
+AD_REFERENCE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_REFERENCE.xml
+END
+M_PROMOTION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_PROMOTION.xml
+END
+C_INVOICE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_INVOICE.xml
+END
+AD_ALERTPROCESSORLOG.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_ALERTPROCESSORLOG.xml
+END
+C_LANDEDCOST.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_LANDEDCOST.xml
+END
+HR_CONCEPT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/HR_CONCEPT.xml
+END
+AD_REPORTVIEW_COL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_REPORTVIEW_COL.xml
+END
+AD_USERDEF_WIN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_USERDEF_WIN.xml
+END
+K_TOPIC.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/ddlutils/model/K_TOPIC.xml
+END
+I_BANKSTATEMENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/I_BANKSTATEMENT.xml
+END
+K_CATEGORYVALUE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/K_CATEGORYVALUE.xml
+END
+AD_IMAGE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_IMAGE.xml
+END
+C_BP_CUSTOMER_ACCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_BP_CUSTOMER_ACCT.xml
+END
+M_FORECASTLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_FORECASTLINE.xml
+END
+A_ASSET_INFO_LIC.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_ASSET_INFO_LIC.xml
+END
+W_BASKETLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/ddlutils/model/W_BASKETLINE.xml
+END
+A_ASSET_CHANGE_AMT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_ASSET_CHANGE_AMT.xml
+END
+CM_CONTAINERTTABLE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_CONTAINERTTABLE.xml
+END
+AD_PRINTFORMAT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PRINTFORMAT.xml
+END
+AD_WORKFLOW_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_WORKFLOW_TRL.xml
+END
+C_BP_GROUP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_BP_GROUP.xml
+END
+HR_CONCEPT_CATEGORY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/model/HR_CONCEPT_CATEGORY.xml
+END
+I_ELEMENTVALUE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/I_ELEMENTVALUE.xml
+END
+PP_COST_COLLECTORMA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PP_COST_COLLECTORMA.xml
+END
+AD_PINSTANCE_LOG.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PINSTANCE_LOG.xml
+END
+GL_JOURNALLINE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/GL_JOURNALLINE.xml
+END
+AD_ATTACHMENTNOTE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_ATTACHMENTNOTE.xml
+END
+M_PRODUCTIONLINEMA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_PRODUCTIONLINEMA.xml
+END
+S_RESOURCETYPE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/ddlutils/model/S_RESOURCETYPE.xml
+END
+C_SUBACCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_SUBACCT.xml
+END
+CM_ACCESSNEWSCHANNEL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/model/CM_ACCESSNEWSCHANNEL.xml
+END
+AD_TREENODEU1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_TREENODEU1.xml
+END
+AD_ENTITYTYPE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_ENTITYTYPE.xml
+END
+A_REGISTRATIONVALUE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_REGISTRATIONVALUE.xml
+END
+C_CALENDAR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_CALENDAR.xml
+END
+AD_INFOWINDOW.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_INFOWINDOW.xml
+END
+AD_ROLE_ORGACCESS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_ROLE_ORGACCESS.xml
+END
+C_PERIOD.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_PERIOD.xml
+END
+R_CONTACTINTEREST.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/ddlutils/model/R_CONTACTINTEREST.xml
+END
+AD_FIELD.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_FIELD.xml
+END
+C_DUNNINGLEVEL_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_DUNNINGLEVEL_TRL.xml
+END
+C_ELEMENTVALUE_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_ELEMENTVALUE_TRL.xml
+END
+PP_PRODUCT_BOM_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PP_PRODUCT_BOM_TRL.xml
+END
+AD_ELEMENT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_ELEMENT.xml
+END
+T_SELECTION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/T_SELECTION.xml
+END
+M_ATTRIBUTESETEXCLUDE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_ATTRIBUTESETEXCLUDE.xml
+END
+R_ISSUERECOMMENDATION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/model/R_ISSUERECOMMENDATION.xml
+END
+AD_PRINTLABELLINE_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_PRINTLABELLINE_TRL.xml
+END
+C_COUNTRY_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_COUNTRY_TRL.xml
+END
+A_ASSET_ADDITION.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/A_ASSET_ADDITION.xml
+END
+AD_ROLE_INCLUDED.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_ROLE_INCLUDED.xml
+END
+M_INVENTORY.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_INVENTORY.xml
+END
+C_CONVERSIONTYPE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/C_CONVERSIONTYPE.xml
+END
+AD_WORKFLOWPROCESSORLOG.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_WORKFLOWPROCESSORLOG.xml
+END
+HR_PAYROLL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/ddlutils/model/HR_PAYROLL.xml
+END
+AD_COLUMN_ACCESS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_COLUMN_ACCESS.xml
+END
+M_COSTQUEUE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/ddlutils/model/M_COSTQUEUE.xml
+END
+AD_WORKBENCH_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/ddlutils/model/AD_WORKBENCH_TRL.xml
+END
+PP_ORDER_BOMLINE_TRL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/db/ddlutils/model/PP_ORDER_BOMLINE_TRL.xml
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/trunk/postgresql
+END
+003_AD_OrgInfo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/trunk/postgresql/003_AD_OrgInfo.sql
+END
+002_ADMessage.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/trunk/postgresql/002_ADMessage.sql
+END
+007_CashPayment.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/trunk/postgresql/007_CashPayment.sql
+END
+004_AD_Changes for AD_OrgInfo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/trunk/postgresql/004_AD_Changes%20for%20AD_OrgInfo.sql
+END
+005_MissingIDs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/trunk/postgresql/005_MissingIDs.sql
+END
+006_PackSize_MProduct.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/trunk/postgresql/006_PackSize_MProduct.sql
+END

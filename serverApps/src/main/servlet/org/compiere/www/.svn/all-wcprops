@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www
+END
+WChat.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/WChat.java
+END
+WFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/WFilter.java
+END
+WStatusArrayList.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/WStatusArrayList.java
+END
+WLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/WLocation.java
+END
+WFieldUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/WFieldUpdate.java
+END
+DisplayTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/DisplayTable.java
+END
+WReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/WReport.java
+END
+WStart.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/WStart.java
+END
+WZoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/WZoom.java
+END
+WTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/WTest.java
+END
+WStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/WStatus.java
+END
+WWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/WWindow.java
+END
+WebField.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/WebField.java
+END
+WFindAdv.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/WFindAdv.java
+END
+WProcessCtl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/WProcessCtl.java
+END
+Test2.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/Test2.java
+END
+WTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/WTask.java
+END
+WForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/WForm.java
+END
+WAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/WAttachment.java
+END
+WWindowStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/WWindowStatus.java
+END
+WProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/WProcess.java
+END
+WHelp.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/WHelp.java
+END
+WWorkflow.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/WWorkflow.java
+END
+WAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/WAccount.java
+END
+WMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/WMenu.java
+END
+WValuePreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/WValuePreference.java
+END
+WLogin.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/WLogin.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/Test.java
+END
+WLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/WLookup.java
+END
+WError.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/www/WError.java
+END

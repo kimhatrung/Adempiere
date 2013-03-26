@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/serverRoot/src/main/server/org/compiere/ldap
+END
+LdapMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/serverRoot/src/main/server/org/compiere/ldap/LdapMessage.java
+END
+LdapProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/serverRoot/src/main/server/org/compiere/ldap/LdapProcessor.java
+END
+LdapConnectionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/serverRoot/src/main/server/org/compiere/ldap/LdapConnectionHandler.java
+END
+LdapResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/serverRoot/src/main/server/org/compiere/ldap/LdapResult.java
+END

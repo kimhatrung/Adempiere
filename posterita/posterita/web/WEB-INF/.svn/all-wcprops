@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/posterita/posterita/web/WEB-INF
+END
+c.tld
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/posterita/posterita/web/WEB-INF/c.tld
+END
+validator-rules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/posterita/posterita/web/WEB-INF/validator-rules.xml
+END
+posterita.tld
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/posterita/posterita/web/WEB-INF/posterita.tld
+END
+fmt.tld
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/posterita/posterita/web/WEB-INF/fmt.tld
+END
+webStore.tld
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/posterita/posterita/web/WEB-INF/webStore.tld
+END
+struts-logic.tld
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/posterita/posterita/web/WEB-INF/struts-logic.tld
+END
+pos.tld
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/posterita/posterita/web/WEB-INF/pos.tld
+END
+dcs.tld
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/posterita/posterita/web/WEB-INF/dcs.tld
+END
+struts-html.tld
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/posterita/posterita/web/WEB-INF/struts-html.tld
+END
+tiles-config_1_1.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/posterita/posterita/web/WEB-INF/tiles-config_1_1.dtd
+END
+web-app_2_2.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/posterita/posterita/web/WEB-INF/web-app_2_2.dtd
+END
+struts-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/posterita/posterita/web/WEB-INF/struts-config.xml
+END
+web-app_2_3.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/posterita/posterita/web/WEB-INF/web-app_2_3.dtd
+END
+struts-config_1_2.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/posterita/posterita/web/WEB-INF/struts-config_1_2.dtd
+END
+struts-bean.tld
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/posterita/posterita/web/WEB-INF/struts-bean.tld
+END
+struts-tiles.tld
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/posterita/posterita/web/WEB-INF/struts-tiles.tld
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/posterita/posterita/web/WEB-INF/web.xml
+END
+tiles-defs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/posterita/posterita/web/WEB-INF/tiles-defs.xml
+END
+struts-nested.tld
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/posterita/posterita/web/WEB-INF/struts-nested.tld
+END

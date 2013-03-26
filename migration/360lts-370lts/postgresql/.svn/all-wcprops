@@ -1,0 +1,449 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql
+END
+769_FR3102358_ImportBOM.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/769_FR3102358_ImportBOM.sql
+END
+782_763_ScheduleWithRecordID.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/782_763_ScheduleWithRecordID.sql
+END
+768_FR3115078_BOM_for_Resource.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/768_FR3115078_BOM_for_Resource.sql
+END
+743_FixCaptureSequenceBrazil.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/743_FixCaptureSequenceBrazil.sql
+END
+745_placeholder.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/745_placeholder.sql
+END
+744_BF3018013_FixSystemColorWindow.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/744_BF3018013_FixSystemColorWindow.sql
+END
+775_750_BF2904321.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/775_750_BF2904321.sql
+END
+783_764_TranslateZkReportViewer.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/783_764_TranslateZkReportViewer.sql
+END
+748_placeholder.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/748_placeholder.sql
+END
+739_FR3016592_SpecifySelectionColumns.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/739_FR3016592_SpecifySelectionColumns.sql
+END
+761_RF3102358_ImportBOM.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/761_RF3102358_ImportBOM.sql
+END
+780_761_FixClearMessage.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/780_761_FixClearMessage.sql
+END
+803_FR2979756_JavaPOS.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/803_FR2979756_JavaPOS.sql
+END
+805_FK_POS_BF2975308_FR2979756.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/805_FK_POS_BF2975308_FR2979756.sql
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/build.xml
+END
+808_Version.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/808_Version.sql
+END
+797_BF3308611_RequieredToRequired.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/797_BF3308611_RequieredToRequired.sql
+END
+798_BF3308678_FixQtyEntered.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/798_BF3308678_FixQtyEntered.sql
+END
+758_FR2878276_ImportPayroll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/758_FR2878276_ImportPayroll.sql
+END
+751_BF3078288_ChargeMadatoryInPayroll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/751_BF3078288_ChargeMadatoryInPayroll.sql
+END
+745_FR3018857_ImporterInventoryMove.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/745_FR3018857_ImporterInventoryMove.sql
+END
+749_BF3075201_PP_RV_MRP.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/749_BF3075201_PP_RV_MRP.sql
+END
+785_767_FR3016592_SpecifySelectionColumns.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/785_767_FR3016592_SpecifySelectionColumns.sql
+END
+764_BF3105798_FixWrongEntityTypes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/764_BF3105798_FixWrongEntityTypes.sql
+END
+740_FixReleaseNoLength.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/740_FixReleaseNoLength.sql
+END
+753_placeholder.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/753_placeholder.sql
+END
+754_TranslateDashboardTitles.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/754_TranslateDashboardTitles.sql
+END
+755_BF3063575.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/755_BF3063575.sql
+END
+773_748_BF3110938.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/773_748_BF3110938.sql
+END
+738_AddZoomToUsedIn.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/738_AddZoomToUsedIn.sql
+END
+747_FR3051618_ImproveListView.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/747_FR3051618_ImproveListView.sql
+END
+742_BF3010957.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/742_BF3010957.sql
+END
+750_BF3016214_PrintMO.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/750_BF3016214_PrintMO.sql
+END
+741_FR3015882_CopyProduct.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/741_FR3015882_CopyProduct.sql
+END
+784_765_FixZkMessage.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/784_765_FixZkMessage.sql
+END
+765_OpenByDefault.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/765_OpenByDefault.sql
+END
+776_753_FixTypoInDemoData.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/776_753_FixTypoInDemoData.sql
+END
+789_778_FR2052471.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/789_778_FR2052471.sql
+END
+756a_FR3039241_RussianRegions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/756a_FR3039241_RussianRegions.sql
+END
+807_CheckSequence370.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/807_CheckSequence370.sql
+END
+781_762_Fix1913092.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/781_762_Fix1913092.sql
+END
+794_781_FR2851987LogoInPaySelectionCheck.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/794_781_FR2851987LogoInPaySelectionCheck.sql
+END
+793_BF3215137_FixCostCollector.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/793_BF3215137_FixCostCollector.sql
+END
+806_FR_NewSpanishTranslation.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/806_FR_NewSpanishTranslation.sql
+END
+795_782_AddColumnsPaySelectionCheck.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/795_782_AddColumnsPaySelectionCheck.sql
+END
+790_779_FR3159054_2011PeriodsGW.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/790_779_FR3159054_2011PeriodsGW.sql
+END
+792_780_BF2866216_drop_c_allocationline_posted.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/792_780_BF2866216_drop_c_allocationline_posted.sql
+END
+800_BF3387349FixScript780_761.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/800_BF3387349FixScript780_761.sql
+END
+786_772_BF3139066.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/786_772_BF3139066.sql
+END
+802_FR2979756_JavaPOS.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/802_FR2979756_JavaPOS.sql
+END
+801_BFIncludeRV_PP_Order_Workflow.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/801_BFIncludeRV_PP_Order_Workflow.sql
+END
+804_FR2979756_JavaPOS.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/804_FR2979756_JavaPOS.sql
+END
+756b_FR3039241_RussianRegionsFix.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/756b_FR3039241_RussianRegionsFix.sql
+END
+774_749_BF3116131.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/774_749_BF3116131.sql
+END
+767_ZK_RootFolder_postgresql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/767_ZK_RootFolder_postgresql.sql
+END
+772_747_FixAccountNames.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/772_747_FixAccountNames.sql
+END
+799_BF3075201_Synchronize_RV_PP_MRP.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/799_BF3075201_Synchronize_RV_PP_MRP.sql
+END
+796_780_761_FixClearMessage.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/796_780_761_FixClearMessage.sql
+END
+777_756_EnableVendorBreakForSales.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/777_756_EnableVendorBreakForSales.sql
+END
+787_776_103_BF1713137.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/787_776_103_BF1713137.sql
+END
+746_FR3051618_ImproveListView.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/746_FR3051618_ImproveListView.sql
+END
+791_BF3214377_FixFirstOf.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/791_BF3214377_FixFirstOf.sql
+END
+771_FR3148780_CRP.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/771_FR3148780_CRP.sql
+END
+788_777_FR1782412_WrongColumnType.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/788_777_FR1782412_WrongColumnType.sql
+END
+766_FR3090719.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/766_FR3090719.sql
+END
+760_BF3094982_ChangeColumns.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/760_BF3094982_ChangeColumns.sql
+END
+763_BF3105789_Adv_Zoom.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/763_BF3105789_Adv_Zoom.sql
+END
+757_BF3090030_PayrollDictionaryFixes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/757_BF3090030_PayrollDictionaryFixes.sql
+END
+759_FR3091105_adOrgInfoFields.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/759_FR3091105_adOrgInfoFields.sql
+END
+778_757_FR3132033.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/778_757_FR3132033.sql
+END
+779_758_FR3132075.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/779_758_FR3132075.sql
+END
+762_BF3105761_FixOrderLineTaxVT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/762_BF3105761_FixOrderLineTaxVT.sql
+END
+770_BF3137399_DateTimeforParameter.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/770_BF3137399_DateTimeforParameter.sql
+END
+752_BF3078288_FixWorkflowView.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/migration/360lts-370lts/postgresql/752_BF3078288_FixWorkflowView.sql
+END

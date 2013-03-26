@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/base/src/org/eevolution/process
+END
+EnableNativeSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/base/src/org/eevolution/process/EnableNativeSequence.java
+END
+ImportInventoryMove.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/base/src/org/eevolution/process/ImportInventoryMove.java
+END
+ExportFormatGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/base/src/org/eevolution/process/ExportFormatGenerator.java
+END
+BankTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/eevolution/process/BankTransfer.java
+END
+ImportProductBOM.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/base/src/org/eevolution/process/ImportProductBOM.java
+END
+InvoiceCalculateTax.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/base/src/org/eevolution/process/InvoiceCalculateTax.java
+END

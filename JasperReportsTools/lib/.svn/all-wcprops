@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/3.7/!svn/ver/1/JasperReportsTools/lib
+END
+commons-digester-1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/JasperReportsTools/lib/commons-digester-1.7.jar
+END
+commons-beanutils-1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/JasperReportsTools/lib/commons-beanutils-1.7.jar
+END
+iReport.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/JasperReportsTools/lib/iReport.jar
+END
+jasperreports-3.7.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/JasperReportsTools/lib/jasperreports-3.7.3.jar
+END
+jfreechart-1.0.13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/JasperReportsTools/lib/jfreechart-1.0.13.jar
+END

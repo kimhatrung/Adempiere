@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/3.7/!svn/ver/1/JasperReportsWebApp
+END
+RUN_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/JasperReportsWebApp/RUN_build.bat
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/JasperReportsWebApp/build.xml
+END
+RUN_build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/JasperReportsWebApp/RUN_build.sh
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/JasperReportsWebApp/.project
+END
+packaging-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/JasperReportsWebApp/packaging-build.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/JasperReportsWebApp/.classpath
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/trunk/oracle
+END
+003_AD_OrgInfo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/trunk/oracle/003_AD_OrgInfo.sql
+END
+002_ADMessage.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/trunk/oracle/002_ADMessage.sql
+END
+007_CashPayment.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/trunk/oracle/007_CashPayment.sql
+END
+004_AD_Changes for AD_OrgInfo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/trunk/oracle/004_AD_Changes%20for%20AD_OrgInfo.sql
+END
+005_MissingIDs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/trunk/oracle/005_MissingIDs.sql
+END
+006_PackSize_MProduct.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/trunk/oracle/006_PackSize_MProduct.sql
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/1.7.2/postgresql
+END
+001_ADRole.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/1.7.2/postgresql/001_ADRole.sql
+END

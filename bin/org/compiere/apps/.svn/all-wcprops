@@ -1,0 +1,521 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps
+END
+ARequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ARequest.java
+END
+ALoginRes_ms.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_ms.java
+END
+ProcessCtl.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ProcessCtl.java
+END
+ProcessParameterPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ProcessParameterPanel.java
+END
+ALoginRes_ru.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_ru.java
+END
+ADialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ADialog.java
+END
+ALoginRes_de.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_de.java
+END
+ProcessModalDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ProcessModalDialog.java
+END
+AWindowListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/AWindowListener.java
+END
+ASyncProcessBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ASyncProcessBase.java
+END
+ConfirmPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ConfirmPanel.java
+END
+ALoginRes_da.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_da.java
+END
+ALoginRes_fa.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_fa.java
+END
+Help.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/Help.java
+END
+AMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/AMenu.java
+END
+ALoginRes_ja.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_ja.java
+END
+ALoginRes_vi.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_vi.java
+END
+ScriptEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ScriptEditor.java
+END
+TabSwitcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/TabSwitcher.java
+END
+AExport.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/AExport.java
+END
+ALoginRes_fr.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_fr.java
+END
+ALoginRes_it.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_it.java
+END
+PrintScreenPainter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/PrintScreenPainter.java
+END
+ALoginRes_hr.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_hr.java
+END
+WindowMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/WindowMenu.java
+END
+ALoginRes_el.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_el.java
+END
+BeanShellEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/BeanShellEditor.java
+END
+ALayoutCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALayoutCollection.java
+END
+ALogin.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALogin.java
+END
+ATask.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ATask.java
+END
+ALoginRes_ml.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_ml.java
+END
+AArchive.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/AArchive.java
+END
+ALoginRes_sl.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_sl.java
+END
+AApplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/AApplet.java
+END
+Preference.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/Preference.java
+END
+ALoginTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginTest.java
+END
+AChat.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/AChat.java
+END
+ProcessDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ProcessDialog.java
+END
+AMenuStartItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/AMenuStartItem.java
+END
+Waiting.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/Waiting.java
+END
+ALoginRes_bg.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_bg.java
+END
+ALoginRes_no.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_no.java
+END
+ALayoutConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALayoutConstraint.java
+END
+ALoginRes_ca.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_ca.java
+END
+EMailDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/EMailDialog.java
+END
+ALoginRes_ro.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_ro.java
+END
+IProcessParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/IProcessParameter.java
+END
+Script.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/Script.html
+END
+StatusBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/StatusBar.java
+END
+AStart.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/AStart.java
+END
+AKeyboardFocusManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/AKeyboardFocusManager.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/package.html
+END
+SwingWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/SwingWorker.java
+END
+FieldRecordInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/FieldRecordInfo.java
+END
+ALoginRes_ar.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_ar.java
+END
+IStatusBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/IStatusBar.java
+END
+AStart.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/AStart.html
+END
+AZoomAcross.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/AZoomAcross.java
+END
+ADialogDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ADialogDialog.java
+END
+AWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/AWindow.java
+END
+AEnv.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/AEnv.java
+END
+ALoginRes_in.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_in.java
+END
+ALayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALayout.java
+END
+ALoginRes_pt.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_pt.java
+END
+ALoginRes_sv.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_sv.java
+END
+AppsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/AppsAction.java
+END
+ScreenShot.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ScreenShot.java
+END
+ALoginRes_sr.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_sr.java
+END
+ALoginRes_nl.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_nl.java
+END
+APanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/APanel.java
+END
+ALoginRes_pl.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_pl.java
+END
+Attachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/Attachment.java
+END
+AGlassPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/AGlassPane.java
+END
+RecordInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/RecordInfo.java
+END
+AboutBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/AboutBox.java
+END
+WindowManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/WindowManager.java
+END
+ALoginRes_th.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_th.java
+END
+GroovyEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/GroovyEditor.java
+END
+ProcessParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ProcessParameter.java
+END
+AFocusTraversalPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/AFocusTraversalPolicy.java
+END
+ALoginRes.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes.java
+END
+ALoginRes_zh_CN.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_zh_CN.java
+END
+ALoginRes_zh.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_zh.java
+END
+ALoginRes_es.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_es.java
+END
+OnlineHelp.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/OnlineHelp.java
+END
+ALoginRes_hu.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/ALoginRes_hu.java
+END

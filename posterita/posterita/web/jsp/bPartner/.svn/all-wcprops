@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/bPartner
+END
+viewBPartner.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/bPartner/viewBPartner.jsp
+END
+bPartnerDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/bPartner/bPartnerDetails.jsp
+END
+editBPartner.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/bPartner/editBPartner.jsp
+END
+bPartnerCreated.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/bPartner/bPartnerCreated.jsp
+END
+createBPartner.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/bPartner/createBPartner.jsp
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/cache
+END
+ContainerTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/cache/ContainerTree.java
+END
+CO.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/cache/CO.java
+END
+ContainerElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/cache/ContainerElement.java
+END
+Template.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/cache/Template.java
+END
+Chat.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/cache/Chat.java
+END
+XML.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/cache/XML.java
+END
+MediaServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/cache/MediaServer.java
+END
+Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/cache/Service.java
+END
+WebProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/cache/WebProject.java
+END
+Domain.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/cache/Domain.java
+END
+Container.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/webCM/src/main/servlet/org/compiere/cm/cache/Container.java
+END

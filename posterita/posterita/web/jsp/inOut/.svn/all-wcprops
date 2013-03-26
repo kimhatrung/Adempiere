@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/inOut
+END
+viewMinOut.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/inOut/viewMinOut.jsp
+END
+viewReceiptHistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/inOut/viewReceiptHistory.jsp
+END
+viewShipmentHistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/inOut/viewShipmentHistory.jsp
+END
+minOutDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/inOut/minOutDetails.jsp
+END

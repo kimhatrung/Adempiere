@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/JasperReportsWebApp/deploy/WebApp.ear/META-INF
+END
+jboss.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/JasperReportsWebApp/deploy/WebApp.ear/META-INF/jboss.xml
+END
+application.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/JasperReportsWebApp/deploy/WebApp.ear/META-INF/application.xml
+END

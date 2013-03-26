@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form
+END
+VPaySelect.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/VPaySelect.java
+END
+VAttributeGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/VAttributeGrid.java
+END
+VGenPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/VGenPanel.java
+END
+FormFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/FormFrame.java
+END
+Match.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/Match.java
+END
+VMerge.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/VMerge.java
+END
+TrxMaterial.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/TrxMaterial.java
+END
+FormPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/FormPanel.java
+END
+Allocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/Allocation.java
+END
+VTreeMaintenance.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/VTreeMaintenance.java
+END
+VInOutGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/VInOutGen.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/package.html
+END
+VPayPrint.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/VPayPrint.java
+END
+VInvoiceGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/VInvoiceGen.java
+END
+VBOMDrop.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/VBOMDrop.java
+END
+VMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/VMatch.java
+END
+VTrxMaterial.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/VTrxMaterial.java
+END
+VCharge.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/VCharge.java
+END
+VSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/VSetup.java
+END
+InOutGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/InOutGen.java
+END
+PayPrint.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/PayPrint.java
+END
+PaySelect.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/PaySelect.java
+END
+InvoiceGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/InvoiceGen.java
+END
+Archive.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/Archive.java
+END
+Merge.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/Merge.java
+END
+VFileImport.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/VFileImport.java
+END
+VSQLProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/VSQLProcess.java
+END
+VAllocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/VAllocation.java
+END
+TreeMaintenance.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/TreeMaintenance.java
+END
+ArchiveViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/ArchiveViewer.java
+END
+GenForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/GenForm.java
+END
+Charge.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/client/src/org/compiere/apps/form/Charge.java
+END

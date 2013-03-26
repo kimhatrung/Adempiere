@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/base/src/com/akunagroup/uk/postcode
+END
+AddressLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/base/src/com/akunagroup/uk/postcode/AddressLookup.java
+END
+Postcode.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/com/akunagroup/uk/postcode/Postcode.java
+END
+AddressLookupInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/base/src/com/akunagroup/uk/postcode/AddressLookupInterface.java
+END
+AddressInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/base/src/com/akunagroup/uk/postcode/AddressInterface.java
+END

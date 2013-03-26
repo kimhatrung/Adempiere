@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xml
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xml/package.html
+END
+PI.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xml/PI.java
+END
+XML.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xml/XML.java
+END
+XMLDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/tools/src/org/apache/ecs/xml/XMLDocument.java
+END

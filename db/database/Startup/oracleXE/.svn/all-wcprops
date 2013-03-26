@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/db/database/Startup/oracleXE
+END
+AfterImport.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/db/database/Startup/oracleXE/AfterImport.sql
+END
+Stop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/database/Startup/oracleXE/Stop.sql
+END
+Start.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/database/Startup/oracleXE/Start.sql
+END
+Test.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/database/Startup/oracleXE/Test.sql
+END
+BeforeExport.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/db/database/Startup/oracleXE/BeforeExport.sql
+END
+CheckDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/database/Startup/oracleXE/CheckDB.sql
+END
+BackupCold.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/database/Startup/oracleXE/BackupCold.sql
+END
+CreateUser.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/db/database/Startup/oracleXE/CreateUser.sql
+END
+Daily.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/database/Startup/oracleXE/Daily.sql
+END

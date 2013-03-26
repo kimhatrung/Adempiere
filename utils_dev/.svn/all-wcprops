@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/repos/3.7/!svn/ver/1/utils_dev
+END
+RUN_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/utils_dev/RUN_build.bat
+END
+templates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/utils_dev/templates.xml
+END
+RUN_buildIncremental.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/utils_dev/RUN_buildIncremental.sh
+END
+keystore.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/3.7/!svn/ver/1/utils_dev/keystore.txt
+END
+codeFormatter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/utils_dev/codeFormatter.xml
+END
+RUN_buildIncremental.bat
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/utils_dev/RUN_buildIncremental.bat
+END
+RUN_build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/3.7/!svn/ver/1/utils_dev/RUN_build.sh
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/3.7/!svn/ver/1/utils_dev/.project
+END
+RUN_jarsign.bat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/3.7/!svn/ver/1/utils_dev/RUN_jarsign.bat
+END
+RUN_build2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/utils_dev/RUN_build2.sh
+END
+RUN_clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/3.7/!svn/ver/1/utils_dev/RUN_clean.sh
+END
+RUN_install.bat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/3.7/!svn/ver/1/utils_dev/RUN_install.bat
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/3.7/!svn/ver/1/utils_dev/build.properties
+END
+codeTemplates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/utils_dev/codeTemplates.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/3.7/!svn/ver/1/utils_dev/build.xml
+END
+properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/utils_dev/properties.xml
+END
+RUN_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/utils_dev/RUN_install.sh
+END
+RUN_clean.bat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/utils_dev/RUN_clean.bat
+END
+RUN_build2.bat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/utils_dev/RUN_build2.bat
+END

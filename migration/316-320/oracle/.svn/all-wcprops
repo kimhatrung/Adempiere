@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/migration/316-320/oracle
+END
+006_add_ProductCategoryParent.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/migration/316-320/oracle/006_add_ProductCategoryParent.sql
+END
+003_fix_acct_constraints.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/migration/316-320/oracle/003_fix_acct_constraints.sql
+END
+001_add_c_acctschema_isallownegativeposting.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/migration/316-320/oracle/001_add_c_acctschema_isallownegativeposting.sql
+END
+007_country_changes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/316-320/oracle/007_country_changes.sql
+END
+008_2pack_enhancements.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/migration/316-320/oracle/008_2pack_enhancements.sql
+END
+010_add_feature_1708139.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/316-320/oracle/010_add_feature_1708139.sql
+END
+004_fix_bug_1705164.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/316-320/oracle/004_fix_bug_1705164.sql
+END
+012_M_PriceList_Create.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/migration/316-320/oracle/012_M_PriceList_Create.sql
+END
+011_cleaner_bug_1707995.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/316-320/oracle/011_cleaner_bug_1707995.sql
+END
+002_fix_I_Product_X12DE355.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/migration/316-320/oracle/002_fix_I_Product_X12DE355.sql
+END
+013_version32.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/migration/316-320/oracle/013_version32.sql
+END
+009_fix_bug_1707995.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/316-320/oracle/009_fix_bug_1707995.sql
+END
+005_fix_bug_1705537.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/316-320/oracle/005_fix_bug_1705537.sql
+END

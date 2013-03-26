@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/part
+END
+MultiTabPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/part/MultiTabPart.java
+END
+AbstractUIPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/part/AbstractUIPart.java
+END
+UIPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/part/UIPart.java
+END
+ITabOnSelectHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/part/ITabOnSelectHandler.java
+END
+WindowContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/part/WindowContainer.java
+END

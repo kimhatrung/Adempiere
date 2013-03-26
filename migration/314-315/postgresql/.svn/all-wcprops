@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/migration/314-315/postgresql
+END
+004_add_CopyColumnsFromTable_es_MX.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/migration/314-315/postgresql/004_add_CopyColumnsFromTable_es_MX.sql
+END
+008_fix_fk_on_delete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/migration/314-315/postgresql/008_fix_fk_on_delete.sql
+END
+005_update_2pack_classname.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/migration/314-315/postgresql/005_update_2pack_classname.sql
+END
+016_fix_typo_entitytype.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/314-315/postgresql/016_fix_typo_entitytype.sql
+END
+011_AD_Role_add_allow_info_flags.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/migration/314-315/postgresql/011_AD_Role_add_allow_info_flags.sql
+END
+003_add_CopyColumnsFromTable.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/314-315/postgresql/003_add_CopyColumnsFromTable.sql
+END
+010_create_ad_sysconfig.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/314-315/postgresql/010_create_ad_sysconfig.sql
+END
+001_add_message_Charset.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/314-315/postgresql/001_add_message_Charset.sql
+END
+015_version315.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/migration/314-315/postgresql/015_version315.sql
+END
+014_integrate_jasper_printengine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/migration/314-315/postgresql/014_integrate_jasper_printengine.sql
+END
+013_add_RequestEMailProcessor_2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/migration/314-315/postgresql/013_add_RequestEMailProcessor_2.sql
+END
+009_drop_tire_storage.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/migration/314-315/postgresql/009_drop_tire_storage.sql
+END
+006_add_message_Implementation.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/migration/314-315/postgresql/006_add_message_Implementation.sql
+END
+002_add_message_Charset_TRL.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/314-315/postgresql/002_add_message_Charset_TRL.sql
+END
+012_add_RequestEMailProcessor.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/migration/314-315/postgresql/012_add_RequestEMailProcessor.sql
+END
+017_incomplete_sequences.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/314-315/postgresql/017_incomplete_sequences.sql
+END
+007_add_StoreAttachmentsOnFilesystem.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/migration/314-315/postgresql/007_add_StoreAttachmentsOnFilesystem.sql
+END

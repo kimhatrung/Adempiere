@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/base/src/org/compiere/wf
+END
+MWorkflowAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/base/src/org/compiere/wf/MWorkflowAccess.java
+END
+MWFNextCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/base/src/org/compiere/wf/MWFNextCondition.java
+END
+MWorkflow.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/base/src/org/compiere/wf/MWorkflow.java
+END
+MWFActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/base/src/org/compiere/wf/MWFActivity.java
+END
+MWorkflowProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/compiere/wf/MWorkflowProcessor.java
+END
+WFProcessManage.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/base/src/org/compiere/wf/WFProcessManage.java
+END
+WFActivityManage.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/base/src/org/compiere/wf/WFActivityManage.java
+END
+MWFNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/base/src/org/compiere/wf/MWFNode.java
+END
+MWFNodePara.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/base/src/org/compiere/wf/MWFNodePara.java
+END
+MWorkflowProcessorLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/base/src/org/compiere/wf/MWorkflowProcessorLog.java
+END
+MWFEventAudit.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/base/src/org/compiere/wf/MWFEventAudit.java
+END
+MWFResponsible.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/base/src/org/compiere/wf/MWFResponsible.java
+END
+WorkflowMoveToClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/wf/WorkflowMoveToClient.java
+END
+DocWorkflowManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/compiere/wf/DocWorkflowManager.java
+END
+WorkflowValidate.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/base/src/org/compiere/wf/WorkflowValidate.java
+END
+MWFProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/base/src/org/compiere/wf/MWFProcess.java
+END
+MWFBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/wf/MWFBlock.java
+END
+MWFNodeNext.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/base/src/org/compiere/wf/MWFNodeNext.java
+END

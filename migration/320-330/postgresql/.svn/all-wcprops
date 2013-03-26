@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/migration/320-330/postgresql
+END
+014_postcode_lookup.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/320-330/postgresql/014_postcode_lookup.sql
+END
+018_version330.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/migration/320-330/postgresql/018_version330.sql
+END
+024_BF_1564496.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/migration/320-330/postgresql/024_BF_1564496.sql
+END
+021_BF_1754751.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/migration/320-330/postgresql/021_BF_1754751.sql
+END
+001_add_brazilian_states.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/320-330/postgresql/001_add_brazilian_states.sql
+END
+019_RMA_dml.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/320-330/postgresql/019_RMA_dml.sql
+END
+022_BF_1746900.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/migration/320-330/postgresql/022_BF_1746900.sql
+END
+017_update_non_encrypted.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/320-330/postgresql/017_update_non_encrypted.sql
+END
+008_2pack_enhancements_printformat.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/migration/320-330/postgresql/008_2pack_enhancements_printformat.sql
+END
+010_add_printpreview_button.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/320-330/postgresql/010_add_printpreview_button.sql
+END
+009_add_MandatoryLogic.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/migration/320-330/postgresql/009_add_MandatoryLogic.sql
+END
+002_add_feature_1714090.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/320-330/postgresql/002_add_feature_1714090.sql
+END
+016_new_dashboard.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/migration/320-330/postgresql/016_new_dashboard.sql
+END
+020_RMA_Postgresql_ddl.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/migration/320-330/postgresql/020_RMA_Postgresql_ddl.sql
+END
+005_2pack_enhancements_message.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/migration/320-330/postgresql/005_2pack_enhancements_message.sql
+END
+003_make_feature_1714090_optional.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/migration/320-330/postgresql/003_make_feature_1714090_optional.sql
+END
+026_BF_1759181.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/migration/320-330/postgresql/026_BF_1759181.sql
+END
+007_add_StoreArchiveOnFilesystem.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/migration/320-330/postgresql/007_add_StoreArchiveOnFilesystem.sql
+END
+015_postcode_lookup2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/migration/320-330/postgresql/015_postcode_lookup2.sql
+END
+025_Reverse_BF_1739541.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/migration/320-330/postgresql/025_Reverse_BF_1739541.sql
+END
+013_fix_istranslated.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/migration/320-330/postgresql/013_fix_istranslated.sql
+END
+023_Reverse_BF_1740254.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/migration/320-330/postgresql/023_Reverse_BF_1740254.sql
+END

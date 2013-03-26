@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/glassfishfacet/src/org/adempiere/as/glassfish
+END
+AdempiereRealm.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/glassfishfacet/src/org/adempiere/as/glassfish/AdempiereRealm.java
+END
+login.conf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/glassfishfacet/src/org/adempiere/as/glassfish/login.conf
+END
+GlassFish.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/glassfishfacet/src/org/adempiere/as/glassfish/GlassFish.java
+END
+AdempiereLoginModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/glassfishfacet/src/org/adempiere/as/glassfish/AdempiereLoginModule.java
+END

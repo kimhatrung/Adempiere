@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/migration/315-316/oracle
+END
+003_fix_typo_C_Invoice_InvoiceCollectionType.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/migration/315-316/oracle/003_fix_typo_C_Invoice_InvoiceCollectionType.sql
+END
+006_fix_RV_STORAGE.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/migration/315-316/oracle/006_fix_RV_STORAGE.sql
+END
+005_fix_INVOICEOPEN.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/315-316/oracle/005_fix_INVOICEOPEN.sql
+END
+001_allow_silent_processes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/migration/315-316/oracle/001_allow_silent_processes.sql
+END
+008_version316.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/migration/315-316/oracle/008_version316.sql
+END
+004_fix_typo_spanish_es_MX.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/migration/315-316/oracle/004_fix_typo_spanish_es_MX.sql
+END
+007_fix_size_window_business_partner.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/migration/315-316/oracle/007_fix_size_window_business_partner.sql
+END
+002_fix_language_key.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/migration/315-316/oracle/002_fix_language_key.sql
+END

@@ -1,0 +1,1403 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos
+END
+createOrUpdateProduct.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/createOrUpdateProduct.jsp
+END
+printPOSOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/printPOSOrder.jsp
+END
+editRoleOrgAccess.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/editRoleOrgAccess.jsp
+END
+shoppingCart.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/shoppingCart.jsp
+END
+posReport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/posReport.jsp
+END
+completedGoodsReceiveNote.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/completedGoodsReceiveNote.jsp
+END
+grnShoppingCart.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/grnShoppingCart.jsp
+END
+viewPOSCustomerCart.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewPOSCustomerCart.jsp
+END
+viewStockSalesReport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewStockSalesReport.jsp
+END
+customSalesReport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/customSalesReport.jsp
+END
+stockAdjustments.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/stockAdjustments.jsp
+END
+createPOSOrderWithoutAdvance.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/createPOSOrderWithoutAdvance.jsp
+END
+viewCommissionDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewCommissionDetails.jsp
+END
+updatedProduct.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/updatedProduct.jsp
+END
+viewVendorDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewVendorDetails.jsp
+END
+debtor.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/debtor.jsp
+END
+createCreditOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/createCreditOrder.jsp
+END
+listCashBooks.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/listCashBooks.jsp
+END
+settlePayment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/settlePayment.jsp
+END
+invokeCreditOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/invokeCreditOrder.jsp
+END
+priceCheck.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/priceCheck.jsp
+END
+goodsReceiveNote.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/goodsReceiveNote.jsp
+END
+cashSummaryDate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/cashSummaryDate.jsp
+END
+editTax.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/editTax.jsp
+END
+partialPOSOrderShoppingCart.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/partialPOSOrderShoppingCart.jsp
+END
+initViewPOSInfo2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/initViewPOSInfo2.jsp
+END
+initViewSalesAnalysisReport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/initViewSalesAnalysisReport.jsp
+END
+customSalesByPeriodReport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/customSalesByPeriodReport.jsp
+END
+customSlowMovingItemReport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/customSlowMovingItemReport.jsp
+END
+viewProductCart.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewProductCart.jsp
+END
+createdCashPayment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/createdCashPayment.jsp
+END
+reportFilter.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/reportFilter.jsp
+END
+getCreditOrderDiscDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/getCreditOrderDiscDetails.jsp
+END
+viewAllTax.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewAllTax.jsp
+END
+dunningLettersPrinted.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/dunningLettersPrinted.jsp
+END
+productBarcodeCart.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/productBarcodeCart.jsp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/index.jsp
+END
+editattribute.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/editattribute.jsp
+END
+listPOSUsers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/listPOSUsers.jsp
+END
+viewBPartnerTrxDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewBPartnerTrxDetails.jsp
+END
+productDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/productDetails.jsp
+END
+closeCashBook.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/closeCashBook.jsp
+END
+viewWebstorePayment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewWebstorePayment.jsp
+END
+initMinItem.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/initMinItem.jsp
+END
+viewCurrency.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewCurrency.jsp
+END
+createMultipleIAPnvoicePayment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/createMultipleIAPnvoicePayment.jsp
+END
+viewAllPOSProductsForUpdate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewAllPOSProductsForUpdate.jsp
+END
+advancedOrderScreen.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/advancedOrderScreen.jsp
+END
+viewPOSUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewPOSUser.jsp
+END
+createAPPayment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/createAPPayment.jsp
+END
+viewInventoryHistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewInventoryHistory.jsp
+END
+viewMinSoldItems.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewMinSoldItems.jsp
+END
+draftedGoodsReceiveNote.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/draftedGoodsReceiveNote.jsp
+END
+createPartialPOSOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/createPartialPOSOrder.jsp
+END
+completePOSOrder3.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/completePOSOrder3.jsp
+END
+viewPaymentDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewPaymentDetails.jsp
+END
+postingSuccess.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/postingSuccess.jsp
+END
+viewPaymentAllocation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewPaymentAllocation.jsp
+END
+createPOSGarmentProducts.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/createPOSGarmentProducts.jsp
+END
+invokePartialPOSOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/invokePartialPOSOrder.jsp
+END
+createMultipleInvoicePayment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/createMultipleInvoicePayment.jsp
+END
+initMaxItem.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/initMaxItem.jsp
+END
+editPOSCustomer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/editPOSCustomer.jsp
+END
+adjustCashBook.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/adjustCashBook.jsp
+END
+settleAPPayment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/settleAPPayment.jsp
+END
+inventoryImportErrors.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/inventoryImportErrors.jsp
+END
+completedGoodsReturnNote.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/completedGoodsReturnNote.jsp
+END
+viewPOSCustomer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewPOSCustomer.jsp
+END
+goodsReturnShoppingCart.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/goodsReturnShoppingCart.jsp
+END
+wstoreviewattributevalues.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/wstoreviewattributevalues.jsp
+END
+creditOrderPayment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/creditOrderPayment.jsp
+END
+editVendor.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/editVendor.jsp
+END
+viewDocumentPDF.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewDocumentPDF.jsp
+END
+viewPOSHistory_displaytag.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewPOSHistory_displaytag.jsp
+END
+viewDraftedOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewDraftedOrder.jsp
+END
+posLogin.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/posLogin.jsp
+END
+productDetailsError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/productDetailsError.jsp
+END
+editBulkProductPrice.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/editBulkProductPrice.jsp
+END
+createPaymentTerm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/createPaymentTerm.jsp
+END
+draftedPOSOrder2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/draftedPOSOrder2.jsp
+END
+viewattributevalues.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewattributevalues.jsp
+END
+listTerminals.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/listTerminals.jsp
+END
+updateCurrency.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/updateCurrency.jsp
+END
+cashLineDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/cashLineDetails.jsp
+END
+orderHeader.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/orderHeader.jsp
+END
+webDocumentHeader.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/webDocumentHeader.jsp
+END
+draftedPOSShoppingCart.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/draftedPOSShoppingCart.jsp
+END
+createPOSOrder3.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/createPOSOrder3.jsp
+END
+debtorHistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/debtorHistory.jsp
+END
+cashBookAdjustmentCompleted.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/cashBookAdjustmentCompleted.jsp
+END
+getCustomerReturnFormPOSOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/getCustomerReturnFormPOSOrder.jsp
+END
+viewCompletedGoodsReceiveNote.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewCompletedGoodsReceiveNote.jsp
+END
+priceList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/priceList.jsp
+END
+posReport1.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/posReport1.jsp
+END
+listPriceLists.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/listPriceLists.jsp
+END
+adjustInventory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/adjustInventory.jsp
+END
+viewMaxSoldItems.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewMaxSoldItems.jsp
+END
+cashDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/cashDetails.jsp
+END
+searchPOSProducts.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/searchPOSProducts.jsp
+END
+initViewStockMovement.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/initViewStockMovement.jsp
+END
+getCurrentTillAmount.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/getCurrentTillAmount.jsp
+END
+searchVendor.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/searchVendor.jsp
+END
+viewStockEnquiry.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewStockEnquiry.jsp
+END
+draftedCustomerReturnOrder2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/draftedCustomerReturnOrder2.jsp
+END
+custRetShoppingCart.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/custRetShoppingCart.jsp
+END
+draftedGoodsReturnNote.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/draftedGoodsReturnNote.jsp
+END
+viewDebtors.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewDebtors.jsp
+END
+importBlackList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/importBlackList.jsp
+END
+downloadUploadCSVfile.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/downloadUploadCSVfile.jsp
+END
+getPOSPaymentDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/getPOSPaymentDetails.jsp
+END
+posShoppingCart.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/posShoppingCart.jsp
+END
+viewPOSHistoryForAll.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewPOSHistoryForAll.jsp
+END
+viewPOSBPartnerForDunning.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewPOSBPartnerForDunning.jsp
+END
+viewPartialPOSOrderHistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewPartialPOSOrderHistory.jsp
+END
+draftedCustomerReturnOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/draftedCustomerReturnOrder.jsp
+END
+viewPayment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewPayment.jsp
+END
+viewMinOut.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewMinOut.jsp
+END
+createBlackListCheque.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/createBlackListCheque.jsp
+END
+posShoppingCartFirstPage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/posShoppingCartFirstPage.jsp
+END
+createPOSUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/createPOSUser.jsp
+END
+completePOSShoppingCart.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/completePOSShoppingCart.jsp
+END
+importCustomer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/importCustomer.jsp
+END
+editPaymentTerm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/editPaymentTerm.jsp
+END
+viewOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewOrder.jsp
+END
+listCurrencies.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/listCurrencies.jsp
+END
+viewProductsSalesInfo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewProductsSalesInfo.jsp
+END
+viewCreditors.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewCreditors.jsp
+END
+viewCompletedGoodsReturnNote.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewCompletedGoodsReturnNote.jsp
+END
+completePOSOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/completePOSOrder.jsp
+END
+draftedCreditOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/draftedCreditOrder.jsp
+END
+viewAllPaymentTerm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewAllPaymentTerm.jsp
+END
+productsUpdated.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/productsUpdated.jsp
+END
+createProductForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/createProductForm.jsp
+END
+goodsReturnNote.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/goodsReturnNote.jsp
+END
+viewBlackListCheques.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewBlackListCheques.jsp
+END
+viewCompletedCustomerReturnOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewCompletedCustomerReturnOrder.jsp
+END
+viewRole.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewRole.jsp
+END
+editpriceList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/editpriceList.jsp
+END
+choosePOS.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/choosePOS.jsp
+END
+viewPOSInfo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewPOSInfo.jsp
+END
+completePOSOrderWA.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/completePOSOrderWA.jsp
+END
+listRoles.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/listRoles.jsp
+END
+createOrUpdatePriceList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/createOrUpdatePriceList.jsp
+END
+generateCommission.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/generateCommission.jsp
+END
+viewProductSalesDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewProductSalesDetails.jsp
+END
+viewStockMovement.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewStockMovement.jsp
+END
+customerReturnOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/customerReturnOrder.jsp
+END
+creditScreen.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/creditScreen.jsp
+END
+getPartialPOSPaymentDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/getPartialPOSPaymentDetails.jsp
+END
+orderDetailsPerProduct.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/orderDetailsPerProduct.jsp
+END
+adjustStock.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/adjustStock.jsp
+END
+chooseFastMovingItemReport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/chooseFastMovingItemReport.jsp
+END
+wstoreeditattribute.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/wstoreeditattribute.jsp
+END
+viewProductCartForUpdate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewProductCartForUpdate.jsp
+END
+customStockMovementReport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/customStockMovementReport.jsp
+END
+posPINLogin.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/posPINLogin.jsp
+END
+adjustedStock.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/adjustedStock.jsp
+END
+customReportTable.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/customReportTable.jsp
+END
+posSubMenu.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/posSubMenu.jsp
+END
+getPOSPaymentDetails_1.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/getPOSPaymentDetails_1.jsp
+END
+viewCompletedCreditOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewCompletedCreditOrder.jsp
+END
+viewAPPaymentAllocation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewAPPaymentAllocation.jsp
+END
+editBlackListCheque.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/editBlackListCheque.jsp
+END
+createMultipleAPInvoicePayment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/createMultipleAPInvoicePayment.jsp
+END
+editPOSUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/editPOSUser.jsp
+END
+getPOSCustomers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/getPOSCustomers.jsp
+END
+creditorHistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/creditorHistory.jsp
+END
+getPOSPaymentDetails2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/getPOSPaymentDetails2.jsp
+END
+testShoppingCart.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/testShoppingCart.jsp
+END
+orderScreen.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/orderScreen.jsp
+END
+draftedPartialPOSOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/draftedPartialPOSOrder.jsp
+END
+allBlackListCheque.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/allBlackListCheque.jsp
+END
+completePOSOrder2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/completePOSOrder2.jsp
+END
+salesReport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/salesReport.jsp
+END
+viewPOSBPartnerInfo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewPOSBPartnerInfo.jsp
+END
+createVendor.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/createVendor.jsp
+END
+importPOSStock.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/importPOSStock.jsp
+END
+retShoppingCart.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/retShoppingCart.jsp
+END
+createPayment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/createPayment.jsp
+END
+createOrUpdateProduct2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/createOrUpdateProduct2.jsp
+END
+cashSummaryInc.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/cashSummaryInc.jsp
+END
+genericReport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/genericReport.jsp
+END
+createdProducts.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/createdProducts.jsp
+END
+viewCommission.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewCommission.jsp
+END
+customerReturnOrder3.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/customerReturnOrder3.jsp
+END
+importPOSProducts.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/importPOSProducts.jsp
+END
+viewPOSProducts.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewPOSProducts.jsp
+END
+ViewAllPosVendors.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/ViewAllPosVendors.jsp
+END
+cashSummary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/cashSummary.jsp
+END
+completedCustomerReturnOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/completedCustomerReturnOrder.jsp
+END
+goodsReceiveShoppingCart.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/goodsReceiveShoppingCart.jsp
+END
+createPOSOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/createPOSOrder.jsp
+END
+customerReturnShoppingCart.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/customerReturnShoppingCart.jsp
+END
+filter.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/filter.jsp
+END
+viewCompletePOSOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewCompletePOSOrder.jsp
+END
+draftedPOSOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/draftedPOSOrder.jsp
+END
+viewAllPOSProducts.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewAllPOSProducts.jsp
+END
+viewStockTransfer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewStockTransfer.jsp
+END
+createPOSOrder2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/createPOSOrder2.jsp
+END
+terminal.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/terminal.jsp
+END
+viewPOSProduct.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewPOSProduct.jsp
+END
+searchPOSGarmentAttributes.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/searchPOSGarmentAttributes.jsp
+END
+customerDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/customerDetails.jsp
+END
+customPOSInfoReport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/customPOSInfoReport.jsp
+END
+completedCreditOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/completedCreditOrder.jsp
+END
+choosePOSInfo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/choosePOSInfo.jsp
+END
+posPassword.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/posPassword.jsp
+END
+createTax.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/createTax.jsp
+END
+detailedSalesReport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/detailedSalesReport.jsp
+END
+closePOSTill.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/closePOSTill.jsp
+END
+AllPOSCustomer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/AllPOSCustomer.jsp
+END
+createRole.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/createRole.jsp
+END
+reportCalendar.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/reportCalendar.jsp
+END
+monthlySalesReport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/monthlySalesReport.jsp
+END
+viewPreferences.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewPreferences.jsp
+END
+draftedCustomerReturnOrder3.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/draftedCustomerReturnOrder3.jsp
+END
+viewDocumentHistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewDocumentHistory.jsp
+END
+createPOSProduct.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/createPOSProduct.jsp
+END
+getPOSStock.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/getPOSStock.jsp
+END
+createCreditOrder2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/createCreditOrder2.jsp
+END
+viewBestSellingItems.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewBestSellingItems.jsp
+END
+viewBarcode.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewBarcode.jsp
+END
+creditOrderShoppingCart.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/creditOrderShoppingCart.jsp
+END
+closedPOSTill.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/closedPOSTill.jsp
+END
+viewPOSOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewPOSOrder.jsp
+END
+viewCompletedPOSOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewCompletedPOSOrder.jsp
+END
+editRole.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/editRole.jsp
+END
+customFastMovingItemReport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/customFastMovingItemReport.jsp
+END
+updatePOSProduct.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/updatePOSProduct.jsp
+END
+draftedposOrderWA.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/draftedposOrderWA.jsp
+END
+viewPOSHistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/viewPOSHistory.jsp
+END
+saveVendor.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/saveVendor.jsp
+END
+searchCustomer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/pos/searchCustomer.jsp
+END

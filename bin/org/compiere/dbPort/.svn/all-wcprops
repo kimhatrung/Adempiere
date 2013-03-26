@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/base/src/org/compiere/dbPort
+END
+Convert_PostgreSQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/compiere/dbPort/Convert_PostgreSQL.java
+END
+JdbcTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/dbPort/JdbcTest.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/base/src/org/compiere/dbPort/package.html
+END
+ConvertMap_MySQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/dbPort/ConvertMap_MySQL.java
+END
+PostgresConvertTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/base/src/org/compiere/dbPort/PostgresConvertTest.java
+END
+ConvertDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/compiere/dbPort/ConvertDialog.java
+END
+Convert_SQL92.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/compiere/dbPort/Convert_SQL92.java
+END
+Join.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/dbPort/Join.java
+END
+ConvertMap_PostgreSQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/base/src/org/compiere/dbPort/ConvertMap_PostgreSQL.java
+END
+Convert_Oracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/compiere/dbPort/Convert_Oracle.java
+END
+Convert_MySQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/compiere/dbPort/Convert_MySQL.java
+END
+JdbcTestPG.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/base/src/org/compiere/dbPort/JdbcTestPG.java
+END
+Convert.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/base/src/org/compiere/dbPort/Convert.java
+END
+Convert_PostgreSQLTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/base/src/org/compiere/dbPort/Convert_PostgreSQLTest.java
+END

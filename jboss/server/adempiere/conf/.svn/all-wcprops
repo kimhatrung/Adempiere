@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/conf
+END
+jboss-serviceTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/conf/jboss-serviceTemplate.xml
+END
+standardjboss.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/conf/standardjboss.xml
+END
+jboss-minimal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/conf/jboss-minimal.xml
+END
+standardjbosscmp-jdbc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/conf/standardjbosscmp-jdbc.xml
+END
+jndi.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/conf/jndi.properties
+END
+login-configTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/conf/login-configTemplate.xml
+END
+jbossjta-properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/conf/jbossjta-properties.xml
+END
+jboss-log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/conf/jboss-log4j.xml
+END

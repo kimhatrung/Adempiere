@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/extend/src/test/functional/inventory
+END
+MMScenario.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/extend/src/test/functional/inventory/MMScenario.java
+END
+InventoryUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/extend/src/test/functional/inventory/InventoryUtil.java
+END
+InventoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/extend/src/test/functional/inventory/InventoryTest.java
+END
+MMDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/extend/src/test/functional/inventory/MMDocument.java
+END
+CSVFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/extend/src/test/functional/inventory/CSVFactory.java
+END

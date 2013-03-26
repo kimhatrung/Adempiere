@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/administration
+END
+CustomerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/administration/CustomerManager.java
+END
+BarcodeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/administration/BarcodeManager.java
+END
+UserRoleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/administration/UserRoleManager.java
+END
+ImportCustomerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/administration/ImportCustomerManager.java
+END
+WarehouseManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/administration/WarehouseManager.java
+END
+BPartnerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/administration/BPartnerManager.java
+END
+PriceListManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/administration/PriceListManager.java
+END
+VendorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/administration/VendorManager.java
+END
+CheckSequenceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/administration/CheckSequenceManager.java
+END
+UserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/administration/UserManager.java
+END
+CommissionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/administration/CommissionManager.java
+END
+TaxManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/administration/TaxManager.java
+END
+ProductImageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/administration/ProductImageManager.java
+END
+ProductAttributeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/administration/ProductAttributeManager.java
+END
+ProductManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/administration/ProductManager.java
+END
+DunningManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/administration/DunningManager.java
+END
+RoleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/administration/RoleManager.java
+END
+BlackListedManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/businesslogic/administration/BlackListedManager.java
+END

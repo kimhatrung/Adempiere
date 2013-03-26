@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/3.7/!svn/ver/1/base/src/org/compiere
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/base/src/org/compiere/package.html
+END
+license.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/base/src/org/compiere/license.html
+END
+MigrateData.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/MigrateData.java
+END
+Adempiere.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/base/src/org/compiere/Adempiere.java
+END
+Adempiere.properties
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/Adempiere.properties
+END
+Base.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/base/src/org/compiere/Base.java
+END

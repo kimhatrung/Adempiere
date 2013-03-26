@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/1.6(AD340)/oracle
+END
+002_ad_message.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/1.6(AD340)/oracle/002_ad_message.sql
+END
+003_C_Currency.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/1.6(AD340)/oracle/003_C_Currency.sql
+END
+001_ad_Changes for C_Currency.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/1.6(AD340)/oracle/001_ad_Changes%20for%20C_Currency.sql
+END

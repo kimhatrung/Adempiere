@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/serverRoot/src/main/ejb/org/compiere/session
+END
+ServerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/serverRoot/src/main/ejb/org/compiere/session/ServerBean.java
+END
+StatusBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/serverRoot/src/main/ejb/org/compiere/session/StatusBean.java
+END

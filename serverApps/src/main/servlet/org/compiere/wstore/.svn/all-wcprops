@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore
+END
+ProductCategoryListTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/ProductCategoryListTag.java
+END
+ExpenseServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/ExpenseServlet.java
+END
+PriceListProduct.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/PriceListProduct.java
+END
+RfQServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/RfQServlet.java
+END
+PriceList.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/PriceList.java
+END
+JSPEnv.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/JSPEnv.java
+END
+RequestOrderRefTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/RequestOrderRefTag.java
+END
+CheckOutServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/CheckOutServlet.java
+END
+adempiere.tld
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/adempiere.tld
+END
+SearchServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/SearchServlet.java
+END
+LoginServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/LoginServlet.java
+END
+SingleItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/SingleItem.java
+END
+WebOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/WebOrder.java
+END
+StoreFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/StoreFilter.java
+END
+IssueReportServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/IssueReportServlet.java
+END
+InvoiceServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/InvoiceServlet.java
+END
+InfoServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/InfoServlet.java
+END
+ProductServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/ProductServlet.java
+END
+AssetServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/AssetServlet.java
+END
+NoteServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/NoteServlet.java
+END
+RequestTypeTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/RequestTypeTag.java
+END
+LocationServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/LocationServlet.java
+END
+WebBasketLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/WebBasketLine.java
+END
+RegistrationServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/RegistrationServlet.java
+END
+EMailServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/EMailServlet.java
+END
+Click.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/Click.java
+END
+WorkflowServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/WorkflowServlet.java
+END
+LocationTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/LocationTag.java
+END
+AdvertisementServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/AdvertisementServlet.java
+END
+BasketServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/BasketServlet.java
+END
+PaymentServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/PaymentServlet.java
+END
+UpdateServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/UpdateServlet.java
+END
+Counter.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/Counter.java
+END
+WorkflowTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/WorkflowTag.java
+END
+WebBasket.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/WebBasket.java
+END
+CheckOutLinkTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/CheckOutLinkTag.java
+END
+LoginLinkTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/LoginLinkTag.java
+END
+OrderServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/OrderServlet.java
+END
+RequestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/RequestServlet.java
+END
+PriceListTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/PriceListTag.java
+END
+MessageTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/MessageTag.java
+END
+InfoLinkTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/serverApps/src/main/servlet/org/compiere/wstore/InfoLinkTag.java
+END

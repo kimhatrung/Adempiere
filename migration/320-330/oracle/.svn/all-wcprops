@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/migration/320-330/oracle
+END
+014_postcode_lookup.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/320-330/oracle/014_postcode_lookup.sql
+END
+018_version330.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/migration/320-330/oracle/018_version330.sql
+END
+024_BF_1564496.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/migration/320-330/oracle/024_BF_1564496.sql
+END
+021_BF_1754751.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/migration/320-330/oracle/021_BF_1754751.sql
+END
+001_add_brazilian_states.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/migration/320-330/oracle/001_add_brazilian_states.sql
+END
+019_RMA_dml.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/migration/320-330/oracle/019_RMA_dml.sql
+END
+022_BF_1746900.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/migration/320-330/oracle/022_BF_1746900.sql
+END
+017_update_non_encrypted.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/migration/320-330/oracle/017_update_non_encrypted.sql
+END
+008_2pack_enhancements_printformat.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/migration/320-330/oracle/008_2pack_enhancements_printformat.sql
+END
+010_add_printpreview_button.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/320-330/oracle/010_add_printpreview_button.sql
+END
+009_add_MandatoryLogic.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/migration/320-330/oracle/009_add_MandatoryLogic.sql
+END
+002_add_feature_1714090.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/320-330/oracle/002_add_feature_1714090.sql
+END
+016_new_dashboard.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/migration/320-330/oracle/016_new_dashboard.sql
+END
+004_java_process_official.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/migration/320-330/oracle/004_java_process_official.sql
+END
+005_2pack_enhancements_message.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/migration/320-330/oracle/005_2pack_enhancements_message.sql
+END
+003_make_feature_1714090_optional.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/migration/320-330/oracle/003_make_feature_1714090_optional.sql
+END
+026_BF_1759181.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/migration/320-330/oracle/026_BF_1759181.sql
+END
+007_add_StoreArchiveOnFilesystem.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/320-330/oracle/007_add_StoreArchiveOnFilesystem.sql
+END
+015_postcode_lookup2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/migration/320-330/oracle/015_postcode_lookup2.sql
+END
+025_Reverse_BF_1739541.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/migration/320-330/oracle/025_Reverse_BF_1739541.sql
+END
+006_BF_1721252_xe.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/migration/320-330/oracle/006_BF_1721252_xe.sql
+END
+020_RMA_Oracle_ddl.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/migration/320-330/oracle/020_RMA_Oracle_ddl.sql
+END
+013_fix_istranslated.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/migration/320-330/oracle/013_fix_istranslated.sql
+END
+023_Reverse_BF_1740254.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/migration/320-330/oracle/023_Reverse_BF_1740254.sql
+END

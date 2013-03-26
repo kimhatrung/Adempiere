@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/3.7/!svn/ver/1/db/database/Access
+END
+Context_Body.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/database/Access/Context_Body.sql
+END
+Context_Test.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/database/Access/Context_Test.sql
+END
+Privileges.sql
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/database/Access/Privileges.sql
+END
+CreateContext.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/db/database/Access/CreateContext.sql
+END
+Policy_Add.sql
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/database/Access/Policy_Add.sql
+END
+context_header.plb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/database/Access/context_header.plb
+END
+Wrap.sql
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/db/database/Access/Wrap.sql
+END
+context_body.plb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/database/Access/context_body.plb
+END
+access.bat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/database/Access/access.bat
+END
+Policy_Drop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/database/Access/Policy_Drop.sql
+END
+Context_Header.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/database/Access/Context_Header.sql
+END
+Context_List.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/database/Access/Context_List.sql
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/3.7/!svn/ver/1/db/database/Create
+END
+Temporary.sql
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/database/Create/Temporary.sql
+END
+Sequences.sql
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/database/Create/Sequences.sql
+END
+Adempiere.sql
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/database/Create/Adempiere.sql
+END
+Views.sql
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/db/database/Create/Views.sql
+END

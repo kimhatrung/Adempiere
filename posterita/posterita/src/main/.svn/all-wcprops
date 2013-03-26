@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main
+END
+MessageResources_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/MessageResources_BR.properties
+END
+MessageResources.properties
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/MessageResources.properties
+END
+CreateCustomerEmailTemplate.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/CreateCustomerEmailTemplate.properties
+END
+Factory.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/Factory.properties
+END
+posterita.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/posterita.properties
+END
+displaytag.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/displaytag.properties
+END
+ApproveOrderEmailTemplate.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/ApproveOrderEmailTemplate.properties
+END
+CreateOrderEmailTemplate.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/CreateOrderEmailTemplate.properties
+END
+ShipmentDispatchedEmailTemplate.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/ShipmentDispatchedEmailTemplate.properties
+END
+MessageResources_SPA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/MessageResources_SPA.properties
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/serverApps/.settings
+END
+com.genuitec.jboss.ide.eclipse.xdoclet.run.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/serverApps/.settings/com.genuitec.jboss.ide.eclipse.xdoclet.run.prefs
+END
+org.eclipse.jdt.ui.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/serverApps/.settings/org.eclipse.jdt.ui.prefs
+END
+org.eclipse.ltk.core.refactoring.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/serverApps/.settings/org.eclipse.ltk.core.refactoring.prefs
+END

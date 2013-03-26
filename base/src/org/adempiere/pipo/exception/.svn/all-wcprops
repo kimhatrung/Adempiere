@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/exception
+END
+DatabaseAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/exception/DatabaseAccessException.java
+END
+NonUniqueIDLookupException.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/exception/NonUniqueIDLookupException.java
+END
+POSaveFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/exception/POSaveFailedException.java
+END

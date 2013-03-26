@@ -1,0 +1,521 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle
+END
+141_BF1938348FixMenuToBOM.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/141_BF1938348FixMenuToBOM.sql
+END
+158_BF1939034_ADPInstancePara_P_String.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/158_BF1939034_ADPInstancePara_P_String.sql
+END
+153_BF1949804_BrokenReportMultiLevelBOM.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/153_BF1949804_BrokenReportMultiLevelBOM.sql
+END
+171_1977523_FixColumnLost.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/171_1977523_FixColumnLost.sql
+END
+179_Bomqtyordered.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/179_Bomqtyordered.sql
+END
+113_ReplicationFunctionality.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/113_ReplicationFunctionality.sql
+END
+178_BomqtyreservedASI.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/178_BomqtyreservedASI.sql
+END
+045_2packreference.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/045_2packreference.sql
+END
+173_InvoiceOpenToDate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/173_InvoiceOpenToDate.sql
+END
+165_libero_foreign_keys.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/165_libero_foreign_keys.sql
+END
+151_BF1962000_fixed_workflow.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/151_BF1962000_fixed_workflow.sql
+END
+181_Bomqtyreserved.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/181_Bomqtyreserved.sql
+END
+133_ExportFormatFromWindow.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/133_ExportFormatFromWindow.sql
+END
+157_FR1963487_ExportImportXML.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/157_FR1963487_ExportImportXML.sql
+END
+143_FR1948157Reverde_ID.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/143_FR1948157Reverde_ID.sql
+END
+144_BF1939115.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/144_BF1939115.sql
+END
+138_FR1932692VendorProductNo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/138_FR1932692VendorProductNo.sql
+END
+147_BF1939895.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/147_BF1939895.sql
+END
+129_HR_Payroll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/129_HR_Payroll.sql
+END
+067_FR1871641.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/067_FR1871641.sql
+END
+182_Bomqtyonhand.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/182_Bomqtyonhand.sql
+END
+091_NetworkDistribution.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/091_NetworkDistribution.sql
+END
+145_BF1959933.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/145_BF1959933.sql
+END
+156_BF1939035_ADRule_Script.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/156_BF1939035_ADRule_Script.sql
+END
+168_bom_migrate_ora.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/168_bom_migrate_ora.sql
+END
+124_FixReturnMaterial.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/124_FixReturnMaterial.sql
+END
+052_liberovalidator.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/052_liberovalidator.sql
+END
+064_BF_1866214.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/064_BF_1866214.sql
+END
+073_FR_1876160.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/073_FR_1876160.sql
+END
+079_fixedworkflow.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/079_fixedworkflow.sql
+END
+071_BF_1875696.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/071_BF_1875696.sql
+END
+147a_create_missing_foreign_keys.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/147a_create_missing_foreign_keys.sql
+END
+114_NewEventModelValidator.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/114_NewEventModelValidator.sql
+END
+147_create_missing_foreign_keys.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/147_create_missing_foreign_keys.sql
+END
+174_InvoicepaidToDate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/174_InvoicepaidToDate.sql
+END
+150_BF1959534.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/150_BF1959534.sql
+END
+162_FR1972559_Addition_to_OrderBatch.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/162_FR1972559_Addition_to_OrderBatch.sql
+END
+184_Bompricelist.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/184_Bompricelist.sql
+END
+166_BF_1866214_cont064.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/166_BF_1866214_cont064.sql
+END
+172_moreforeignkeys.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/172_moreforeignkeys.sql
+END
+163_BF1974314_FixEntityTypes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/163_BF1974314_FixEntityTypes.sql
+END
+161_FR1966760_DRP_Implementation.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/161_FR1966760_DRP_Implementation.sql
+END
+053_liberofixentitytype.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/053_liberofixentitytype.sql
+END
+116_WorkflowRepliction.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/116_WorkflowRepliction.sql
+END
+051_libero_fix.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/051_libero_fix.sql
+END
+140_FB1935325HRProcess.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/140_FB1935325HRProcess.sql
+END
+115_FixEntityType.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/115_FixEntityType.sql
+END
+167_create_nextidfunc.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/167_create_nextidfunc.sql
+END
+123_ReSizeScriptRule.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/123_ReSizeScriptRule.sql
+END
+160_FR1966328_Info_MRP_CRP.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/160_FR1966328_Info_MRP_CRP.sql
+END
+108_FR1905568SafetyStock.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/108_FR1905568SafetyStock.sql
+END
+148-BF_1953753.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/148-BF_1953753.sql
+END
+109_FixedMRPParameter.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/109_FixedMRPParameter.sql
+END
+122_FixTaxGridMode.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/122_FixTaxGridMode.sql
+END
+152_BF1962074_Improve_BOM.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/152_BF1962074_Improve_BOM.sql
+END
+175_BomqtyavailableASI.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/175_BomqtyavailableASI.sql
+END
+139_FR1933937AginToDate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/139_FR1933937AginToDate.sql
+END
+155_BF1949804_PrintBom.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/155_BF1949804_PrintBom.sql
+END
+054_bommigrationtolibero.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/054_bommigrationtolibero.sql
+END
+068_FR1871403.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/068_FR1871403.sql
+END
+058_BF_1854531.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/058_BF_1854531.sql
+END
+146_BF_1951222.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/146_BF_1951222.sql
+END
+154_BF1962125_entitytype.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/154_BF1962125_entitytype.sql
+END
+187_fixedAssetsForeignKeys.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/187_fixedAssetsForeignKeys.sql
+END
+136_version350.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/136_version350.sql
+END
+176_BomqtyonhandASI.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/176_BomqtyonhandASI.sql
+END
+180_Bompricestd.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/180_Bompricestd.sql
+END
+059_BF_1864306.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/059_BF_1864306.sql
+END
+093_AddFieldND.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/093_AddFieldND.sql
+END
+169_fix_wrong_reference.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/169_fix_wrong_reference.sql
+END
+094_AddPP_Order_BOMLineMA.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/094_AddPP_Order_BOMLineMA.sql
+END
+134_ExportFormatAsProcess.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/134_ExportFormatAsProcess.sql
+END
+164_BF1974314_UnifyDicts_or.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/164_BF1974314_UnifyDicts_or.sql
+END
+142_FR1933872ASI.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/142_FR1933872ASI.sql
+END
+186_fixedAssetsIntegration.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/186_fixedAssetsIntegration.sql
+END
+177_BomqtyorderedASI.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/177_BomqtyorderedASI.sql
+END
+070_FR1875623.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/070_FR1875623.sql
+END
+095_AddRV_PP_Product_BOMLine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/095_AddRV_PP_Product_BOMLine.sql
+END
+047_libero_migration_script.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/047_libero_migration_script.sql
+END
+170_version351a.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/170_version351a.sql
+END
+137_BF1928296FieldDefaultValue.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/137_BF1928296FieldDefaultValue.sql
+END
+132_FixPermissionReplication.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/132_FixPermissionReplication.sql
+END
+149_FR1913029.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/149_FR1913029.sql
+END
+111_GlobalTaxManagement.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/111_GlobalTaxManagement.sql
+END
+159_FR1965571_GeneralDataPlannig.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/159_FR1965571_GeneralDataPlannig.sql
+END
+183_Bompricelimit.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/340s-351a/oracle/183_Bompricelimit.sql
+END

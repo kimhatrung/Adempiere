@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/repos/3.7/!svn/ver/1/tools/lib
+END
+postgresql.jar
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/tools/lib/postgresql.jar
+END
+jsp-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/3.7/!svn/ver/1/tools/lib/jsp-api.jar
+END
+payflow.jar
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/3.7/!svn/ver/1/tools/lib/payflow.jar
+END
+script-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/tools/lib/script-api.jar
+END
+miglayout-3.7.1-swing.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/tools/lib/miglayout-3.7.1-swing.jar
+END
+bsh-engine.jar
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/tools/lib/bsh-engine.jar
+END
+commons-collections-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/tools/lib/commons-collections-3.1.jar
+END
+jpayment.jar
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/3.7/!svn/ver/1/tools/lib/jpayment.jar
+END
+SoftwareLicenses.xls
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/tools/lib/SoftwareLicenses.xls
+END
+copyLibraries.bat
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/tools/lib/copyLibraries.bat
+END
+cglib.jar
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/3.7/!svn/ver/1/tools/lib/cglib.jar
+END
+groovy-engine.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/tools/lib/groovy-engine.jar
+END
+looks-2.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/3.7/!svn/ver/1/tools/lib/looks-2.0.4.jar
+END
+jython.jar
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/tools/lib/jython.jar
+END
+jfreechart-1.0.13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/tools/lib/jfreechart-1.0.13.jar
+END
+jgraph.jar
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/tools/lib/jgraph.jar
+END
+commons-net-1.4.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/tools/lib/commons-net-1.4.0.jar
+END
+c3p0-0.9.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/3.7/!svn/ver/1/tools/lib/c3p0-0.9.1.2.jar
+END
+swingx-1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/tools/lib/swingx-1.6.jar
+END
+ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/3.7/!svn/ver/1/tools/lib/ant.jar
+END
+iText-2.1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/3.7/!svn/ver/1/tools/lib/iText-2.1.7.jar
+END
+ant-contrib-1.0b1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/tools/lib/ant-contrib-1.0b1.jar
+END
+wizard.jar
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/tools/lib/wizard.jar
+END
+libraries.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/tools/lib/libraries.txt
+END
+junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/3.7/!svn/ver/1/tools/lib/junit.jar
+END
+cron4j-2.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/3.7/!svn/ver/1/tools/lib/cron4j-2.2.1.jar
+END
+commons-codec.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/tools/lib/commons-codec.jar
+END
+bsh-2.0b5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/tools/lib/bsh-2.0b5.jar
+END
+mysql-connector-java-5.1.13-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/tools/lib/mysql-connector-java-5.1.13-bin.jar
+END
+mail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/3.7/!svn/ver/1/tools/lib/mail.jar
+END
+jcommon-1.0.16.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/tools/lib/jcommon-1.0.16.jar
+END
+log4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/3.7/!svn/ver/1/tools/lib/log4j.jar
+END
+c3p0-oracle-thin-extras-0.9.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/tools/lib/c3p0-oracle-thin-extras-0.9.1.2.jar
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/tools/lib/commons-logging.jar
+END
+barbecue-1.5-beta1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/tools/lib/barbecue-1.5-beta1.jar
+END
+standard.jar
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/3.7/!svn/ver/1/tools/lib/standard.jar
+END
+jstl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/3.7/!svn/ver/1/tools/lib/jstl.jar
+END
+javaee.jar
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/tools/lib/javaee.jar
+END
+Verisign.jar
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/3.7/!svn/ver/1/tools/lib/Verisign.jar
+END
+poi-3.5-FINAL-20090928.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/tools/lib/poi-3.5-FINAL-20090928.jar
+END
+xjavadoc-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/3.7/!svn/ver/1/tools/lib/xjavadoc-1.1.jar
+END
+ant-launcher.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/3.7/!svn/ver/1/tools/lib/ant-launcher.jar
+END
+jnlp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/3.7/!svn/ver/1/tools/lib/jnlp.jar
+END
+ojdbc6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/tools/lib/ojdbc6.jar
+END
+xercesImpl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/tools/lib/xercesImpl.jar
+END
+jython-engine.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/tools/lib/jython-engine.jar
+END
+activemq-core-5.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/tools/lib/activemq-core-5.0.0.jar
+END
+xml-apis.jar
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/3.7/!svn/ver/1/tools/lib/xml-apis.jar
+END
+groovy-all-1.5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/tools/lib/groovy-all-1.5.1.jar
+END
+jpedal.jar
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/tools/lib/jpedal.jar
+END
+ant-commons-net.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/tools/lib/ant-commons-net.jar
+END
+logkit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/tools/lib/logkit.jar
+END
+servlet-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/3.7/!svn/ver/1/tools/lib/servlet-api.jar
+END

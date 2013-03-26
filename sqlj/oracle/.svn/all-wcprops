@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/repos/3.7/!svn/ver/1/sqlj/oracle
+END
+RUN_sqlj.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/sqlj/oracle/RUN_sqlj.sh
+END
+create.bat
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/3.7/!svn/ver/1/sqlj/oracle/create.bat
+END
+RUN_sqlj.bat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/sqlj/oracle/RUN_sqlj.bat
+END
+create.sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/3.7/!svn/ver/1/sqlj/oracle/create.sh
+END
+createSQLJ.sql
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/3.7/!svn/ver/1/sqlj/oracle/createSQLJ.sql
+END

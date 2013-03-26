@@ -1,0 +1,1415 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql
+END
+420_001_BF2583992_Enable_Validator.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/420_001_BF2583992_Enable_Validator.sql
+END
+444_BF2714831_InvoiceopenToDate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/444_BF2714831_InvoiceopenToDate.sql
+END
+402_FR2529059_FR2529050_ActionNotice.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/402_FR2529059_FR2529050_ActionNotice.sql
+END
+385_FR2493107_NewDefaultAccountGarden.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/385_FR2493107_NewDefaultAccountGarden.sql
+END
+469_FR2793721.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/469_FR2793721.sql
+END
+476_FR2794732_PostFromUnposted.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/476_FR2794732_PostFromUnposted.sql
+END
+551_FR2847669_2Pack_ModelValidator.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/551_FR2847669_2Pack_ModelValidator.sql
+END
+467_BF2793403.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/467_BF2793403.sql
+END
+418_BF2583992.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/418_BF2583992.sql
+END
+378_BF2490831.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/378_BF2490831.sql
+END
+398_currencyround.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/398_currencyround.sql
+END
+376_BF2482688_GardenPeriod2009.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/376_BF2482688_GardenPeriod2009.sql
+END
+470_BF2596202_FormatPrint.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/470_BF2596202_FormatPrint.sql
+END
+528_1986751_INSTR.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/528_1986751_INSTR.sql
+END
+414_reserved_by_libero.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/414_reserved_by_libero.sql
+END
+564_FR2847305.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/564_FR2847305.sql
+END
+446_Reserved_by_Libero.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/446_Reserved_by_Libero.sql
+END
+491_BF2807230_FixFormat.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/491_BF2807230_FixFormat.sql
+END
+532_BF2839975.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/532_BF2839975.sql
+END
+524_BF2834795.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/524_BF2834795.sql
+END
+400_FR2523861_Value_column_in_U_POSTerminal.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/400_FR2523861_Value_column_in_U_POSTerminal.sql
+END
+446_BF2725539_RV_DD_OrderDetail.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/446_BF2725539_RV_DD_OrderDetail.sql
+END
+426_012_FR2708912_ConceptAsReference.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/426_012_FR2708912_ConceptAsReference.sql
+END
+523_payroll_dict_minor_fix.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/523_payroll_dict_minor_fix.sql
+END
+431_BF2655587_AgingOrg.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/431_BF2655587_AgingOrg.sql
+END
+515_FR1709307_JP_prefecture.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/515_FR1709307_JP_prefecture.sql
+END
+426_017_FR2725301_WindowRearranged.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/426_017_FR2725301_WindowRearranged.sql
+END
+482_BF2804321_InvoiceOpen.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/482_BF2804321_InvoiceOpen.sql
+END
+534_BF2794268_Dupe_order_lines.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/534_BF2794268_Dupe_order_lines.sql
+END
+536_BF2836887_NotWellFormedXML.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/536_BF2836887_NotWellFormedXML.sql
+END
+533_FR2840458_CreditCheck.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/533_FR2840458_CreditCheck.sql
+END
+485_FR2803994.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/485_FR2803994.sql
+END
+550_BF2840359_PricePrecision.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/550_BF2840359_PricePrecision.sql
+END
+539_BF2840047_HR_Job_HR_Department_ID.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/539_BF2840047_HR_Job_HR_Department_ID.sql
+END
+571_FR1756793_RMA.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/571_FR1756793_RMA.sql
+END
+514_FR2830806_IsAllowLogging.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/514_FR2830806_IsAllowLogging.sql
+END
+450_ReplicationExampleData.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/450_ReplicationExampleData.sql
+END
+567_FR2857197POTaxExempt.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/567_FR2857197POTaxExempt.sql
+END
+494_FR2812708_Window_MRP_Notice_all.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/494_FR2812708_Window_MRP_Notice_all.sql
+END
+507_FR2771474_C_Charge_Trl.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/507_FR2771474_C_Charge_Trl.sql
+END
+556_BF2848431.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/556_BF2848431.sql
+END
+576_SyncDataOracleSeedWithPG.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/576_SyncDataOracleSeedWithPG.sql
+END
+426_003_BF2612129.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/426_003_BF2612129.sql
+END
+417_FR2582181.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/417_FR2582181.sql
+END
+548_FR2846894_AD_Message_Value_size.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/548_FR2846894_AD_Message_Value_size.sql
+END
+408_FR2544889_FrozenUnFrozenCost.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/408_FR2544889_FrozenUnFrozenCost.sql
+END
+448_FR2771474C_Charge_Trl.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/448_FR2771474C_Charge_Trl.sql
+END
+407_BF2530003_CostingMethod.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/407_BF2530003_CostingMethod.sql
+END
+426_013_FR2708929_SeqNoInHR_ConceptTable.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/426_013_FR2708929_SeqNoInHR_ConceptTable.sql
+END
+447_BF2768731.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/447_BF2768731.sql
+END
+449_StabilizeReplication.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/449_StabilizeReplication.sql
+END
+426_008_Fix_BOM_Costs_Report.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/426_008_Fix_BOM_Costs_Report.sql
+END
+501_BF2820886.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/501_BF2820886.sql
+END
+520_BF2834402_PartnerCategory.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/520_BF2834402_PartnerCategory.sql
+END
+545_FR2604515_UOMConversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/545_FR2604515_UOMConversion.sql
+END
+459_BF2757978.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/459_BF2757978.sql
+END
+517_FR2793242_FactAcctSummary.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/517_FR2793242_FactAcctSummary.sql
+END
+504_BF2821679.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/504_BF2821679.sql
+END
+419_BF2563594.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/419_BF2563594.sql
+END
+470_BF2596202_ADViews.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/470_BF2596202_ADViews.sql
+END
+558_FR2851987Logo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/558_FR2851987Logo.sql
+END
+577_version.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/577_version.sql
+END
+499_FR2819356.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/499_FR2819356.sql
+END
+563_BF2852104_DupElem.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/563_BF2852104_DupElem.sql
+END
+549_Delete_duplicate_AD_User_ID_element.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/549_Delete_duplicate_AD_User_ID_element.sql
+END
+575_SyncOracleSeedWithPG.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/575_SyncOracleSeedWithPG.sql
+END
+440_FR2690930_ImportPriceList_GWSample.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/440_FR2690930_ImportPriceList_GWSample.sql
+END
+373_BF2478283.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/373_BF2478283.sql
+END
+386_FR2493138_AccountProductGarden.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/386_FR2493138_AccountProductGarden.sql
+END
+518_Add_Two_JP_Prefectures.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/518_Add_Two_JP_Prefectures.sql
+END
+479_BF2801372.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/479_BF2801372.sql
+END
+531_BF2839974.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/531_BF2839974.sql
+END
+555_BF2848421.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/555_BF2848421.sql
+END
+426_011_BF2685975.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/426_011_BF2685975.sql
+END
+381_FR2492472-2492472.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/381_FR2492472-2492472.sql
+END
+490_BF2806709.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/490_BF2806709.sql
+END
+426_009_BF2666056.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/426_009_BF2666056.sql
+END
+387_FR2493137_NewCostElementToGarden.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/387_FR2493137_NewCostElementToGarden.sql
+END
+466_FR2791026_AddUniqueIndex.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/466_FR2791026_AddUniqueIndex.sql
+END
+388_FR2494851_Roll-UpToPatioSet.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/388_FR2494851_Roll-UpToPatioSet.sql
+END
+426_007_BF2664599.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/426_007_BF2664599.sql
+END
+393_FR_2501713_MakeToKit.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/393_FR_2501713_MakeToKit.sql
+END
+512_BF2830154_currencyConvert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/512_BF2830154_currencyConvert.sql
+END
+426_004_Fix_MO_Cost_Tab.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/426_004_Fix_MO_Cost_Tab.sql
+END
+437_FR2651812_ProductPriceVendorBreak.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/437_FR2651812_ProductPriceVendorBreak.sql
+END
+405_BF2539976.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/405_BF2539976.sql
+END
+436_MissingSysConfigKeys.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/436_MissingSysConfigKeys.sql
+END
+406_BF2530003_DefaultToYield.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/406_BF2530003_DefaultToYield.sql
+END
+525_BF2835006_CommitWarning.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/525_BF2835006_CommitWarning.sql
+END
+454_FR2761420_SearchDefinitionSamples.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/454_FR2761420_SearchDefinitionSamples.sql
+END
+426_014_FR2708929_Fix.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/426_014_FR2708929_Fix.sql
+END
+422_FR2074658_LimitChargesByDocType_HR.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/422_FR2074658_LimitChargesByDocType_HR.sql
+END
+414_002_BF2534860_FixLineNoDO.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/414_002_BF2534860_FixLineNoDO.sql
+END
+559_FR2851987LogoInHeaderViews.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/559_FR2851987LogoInHeaderViews.sql
+END
+462_FR2788074.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/462_FR2788074.sql
+END
+498_FR2818821_CopyReportAndProcess.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/498_FR2818821_CopyReportAndProcess.sql
+END
+569_FR2857690_MyProfile.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/569_FR2857690_MyProfile.sql
+END
+394_FR2504885_CostBOMMultiLevel.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/394_FR2504885_CostBOMMultiLevel.sql
+END
+439_FR2690930_ImportPriceList_Menu.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/439_FR2690930_ImportPriceList_Menu.sql
+END
+397_FR2504885_CostBOMMultiLevel.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/397_FR2504885_CostBOMMultiLevel.sql
+END
+384_BF2493122_FloorStockDescription.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/384_BF2493122_FloorStockDescription.sql
+END
+484_FR2804606.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/484_FR2804606.sql
+END
+452_FR2778207_zoom_target.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/452_FR2778207_zoom_target.sql
+END
+472_FR2793674.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/472_FR2793674.sql
+END
+425_BF2606044.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/425_BF2606044.sql
+END
+475_BF2799353.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/475_BF2799353.sql
+END
+578_FR1756793_RMA.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/578_FR1756793_RMA.sql
+END
+477_BF2801625_MRP160.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/477_BF2801625_MRP160.sql
+END
+560_BF2852048.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/560_BF2852048.sql
+END
+451_FR_BOMWF_Translation.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/451_FR_BOMWF_Translation.sql
+END
+424_FR2598506InitialClientSetupProcess.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/424_FR2598506InitialClientSetupProcess.sql
+END
+435_BF2688939_typos.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/435_BF2688939_typos.sql
+END
+391_C_Currency_Rate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/391_C_Currency_Rate.sql
+END
+460_BF2783862.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/460_BF2783862.sql
+END
+541_BF2844666.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/541_BF2844666.sql
+END
+505_BF2823254.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/505_BF2823254.sql
+END
+496_FR2006255_configurable_period_creation.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/496_FR2006255_configurable_period_creation.sql
+END
+383_FR2493092_CurrentPriceLowerLevel.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/383_FR2493092_CurrentPriceLowerLevel.sql
+END
+389_FR2496527.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/389_FR2496527.sql
+END
+481_BF2804190.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/481_BF2804190.sql
+END
+426_018_BF2750434_Hide_Libero_Accounts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/426_018_BF2750434_Hide_Libero_Accounts.sql
+END
+540_FR2844074_RequisitionPOCreate_more_fields.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/540_FR2844074_RequisitionPOCreate_more_fields.sql
+END
+579_enableLiberoValidator.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/579_enableLiberoValidator.sql
+END
+483_FR2803341.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/483_FR2803341.sql
+END
+465_BF2779181_PackIn_ImportDetail.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/465_BF2779181_PackIn_ImportDetail.sql
+END
+392_FR_ShowCostCollectior.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/392_FR_ShowCostCollectior.sql
+END
+438_FR2690930_ImportPriceList.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/438_FR2690930_ImportPriceList.sql
+END
+428_BF1658905.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/428_BF1658905.sql
+END
+546_BF2846831_ActiveUOMConversions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/546_BF2846831_ActiveUOMConversions.sql
+END
+473_FR1756793.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/473_FR1756793.sql
+END
+426_015_FR2711495_PP_Cost_Collector_ID.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/426_015_FR2711495_PP_Cost_Collector_ID.sql
+END
+495_BF2817870.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/495_BF2817870.sql
+END
+374_fixPosteritaEntityTypes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/374_fixPosteritaEntityTypes.sql
+END
+382_FR2492503_New_Field_To_Account_MO.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/382_FR2492503_New_Field_To_Account_MO.sql
+END
+463_BF1985481_Messages.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/463_BF1985481_Messages.sql
+END
+544_FR1768749_ProductLocatedAt.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/544_FR1768749_ProductLocatedAt.sql
+END
+390_BF2497770.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/390_BF2497770.sql
+END
+510_FR2828826.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/510_FR2828826.sql
+END
+410_Fix_ProductPlanning_window.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/410_Fix_ProductPlanning_window.sql
+END
+414_003_BF22027432_DOView.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/414_003_BF22027432_DOView.sql
+END
+492_BF2807618.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/492_BF2807618.sql
+END
+568_BF2852100DeletePP_Order_Head_v.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/568_BF2852100DeletePP_Order_Head_v.sql
+END
+399_BF2490897_fixASP.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/399_BF2490897_fixASP.sql
+END
+420_reserved_by_libero.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/420_reserved_by_libero.sql
+END
+566_FR1756793_RMA.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/566_FR1756793_RMA.sql
+END
+456_FR2783860.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/456_FR2783860.sql
+END
+427_Drop_ship_missing_trl.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/427_Drop_ship_missing_trl.sql
+END
+426_005_FR2571538_UnitsCycles.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/426_005_FR2571538_UnitsCycles.sql
+END
+565_BF2856311.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/565_BF2856311.sql
+END
+421_FR2074658_LimitChargesByDocType.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/421_FR2074658_LimitChargesByDocType.sql
+END
+455_FR2761420_SearchDefinition.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/455_FR2761420_SearchDefinition.sql
+END
+470_reserved_by_libero.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/470_reserved_by_libero.sql
+END
+552_FR2847694_2Pack_EntityType.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/552_FR2847694_2Pack_EntityType.sql
+END
+554_BF2847737.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/554_BF2847737.sql
+END
+412_BF2531025.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/412_BF2531025.sql
+END
+413_BF2567104.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/413_BF2567104.sql
+END
+493_FR2723091.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/493_FR2723091.sql
+END
+423_BF2583992.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/423_BF2583992.sql
+END
+396_FR2508401_AccountOutsideP.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/396_FR2508401_AccountOutsideP.sql
+END
+458_BF2783862.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/458_BF2783862.sql
+END
+429_BF2539813.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/429_BF2539813.sql
+END
+380_BF2492444-2492437_RF2492429-2492433.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/380_BF2492444-2492437_RF2492429-2492433.sql
+END
+478_BF2801634_MRP999.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/478_BF2801634_MRP999.sql
+END
+426_010_BF2668133_Inactivate_Old_Processes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/426_010_BF2668133_Inactivate_Old_Processes.sql
+END
+371_FR2457781.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/371_FR2457781.sql
+END
+522_payroll_spanish.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/522_payroll_spanish.sql
+END
+415_BF2530223_FixDocTypePO.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/415_BF2530223_FixDocTypePO.sql
+END
+461_BF2787097_BPartner_Exceptions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/461_BF2787097_BPartner_Exceptions.sql
+END
+537_BF2842063_getList.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/537_BF2842063_getList.sql
+END
+468_MissingSequences.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/468_MissingSequences.sql
+END
+506_FR2819356.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/506_FR2819356.sql
+END
+426_016_FR2725301_Rule_Engine_IsRegistered.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/426_016_FR2725301_Rule_Engine_IsRegistered.sql
+END
+471_BF2795251_QtyInvoiced_field_updatable.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/471_BF2795251_QtyInvoiced_field_updatable.sql
+END
+395_BF2505658_FixActionWFNode.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/395_BF2505658_FixActionWFNode.sql
+END
+529_BF2837300_InvoiceCompleted.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/529_BF2837300_InvoiceCompleted.sql
+END
+430_BF2609604.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/430_BF2609604.sql
+END
+572_FR2857807.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/572_FR2857807.sql
+END
+372_round.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/372_round.sql
+END
+486_BF2804702.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/486_BF2804702.sql
+END
+401_BF2526697.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/401_BF2526697.sql
+END
+543_BF2833929_OrganizationType.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/543_BF2833929_OrganizationType.sql
+END
+509_BF2828321.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/509_BF2828321.sql
+END
+526_BF2038848_Order_Policy_Column.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/526_BF2038848_Order_Policy_Column.sql
+END
+573_FR2857289ClientAcctProc.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/573_FR2857289ClientAcctProc.sql
+END
+489_BF2806709.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/489_BF2806709.sql
+END
+445_BF2721746.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/445_BF2721746.sql
+END
+538_BF2843522.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/538_BF2843522.sql
+END
+375_Delete_DocType_No_Used.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/375_Delete_DocType_No_Used.sql
+END
+527_BF2797787.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/527_BF2797787.sql
+END
+497_FR2819356.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/497_FR2819356.sql
+END
+470_BF2596202_Views.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/470_BF2596202_Views.sql
+END
+519_BF2832312_EncryptedReadOnlyLogic.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/519_BF2832312_EncryptedReadOnlyLogic.sql
+END
+379_FR1883270_NextIdByYear.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/379_FR1883270_NextIdByYear.sql
+END
+503_FR2723091.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/503_FR2723091.sql
+END
+416_BF2550029.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/416_BF2550029.sql
+END
+474_FR1756793.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/474_FR1756793.sql
+END
+562_559_FR2851987LogoInDictionaryViews.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/562_559_FR2851987LogoInDictionaryViews.sql
+END
+426_006_BF2633082.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/426_006_BF2633082.sql
+END
+516_FR2831174_UpdateFieldGroup.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/516_FR2831174_UpdateFieldGroup.sql
+END
+432_M_INOUT_LINE_VT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/432_M_INOUT_LINE_VT.sql
+END
+404_BF2530189_ActivityControl.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/404_BF2530189_ActivityControl.sql
+END
+530_2839967_IsInPayroll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/530_2839967_IsInPayroll.sql
+END
+480_BF2791095.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/480_BF2791095.sql
+END
+542_BF2845487_SubscriptionType.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/542_BF2845487_SubscriptionType.sql
+END
+553_BF2847730.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/553_BF2847730.sql
+END
+557_FR1786994.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/557_FR1786994.sql
+END
+487_HideNonWorkReplication.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/487_HideNonWorkReplication.sql
+END
+457_FR2783860.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/457_FR2783860.sql
+END
+500_BF2820596.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/500_BF2820596.sql
+END
+453_FR2761420_SearchDefinition.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/453_FR2761420_SearchDefinition.sql
+END
+502_FR2820912.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/502_FR2820912.sql
+END
+521_BF2833789.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/521_BF2833789.sql
+END
+426_002_FixCostCollector_Callouts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/426_002_FixCostCollector_Callouts.sql
+END
+464_BF2789319.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/464_BF2789319.sql
+END
+403_FR2520591_CalendarToOrg.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/403_FR2520591_CalendarToOrg.sql
+END
+434_BF2685973.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/434_BF2685973.sql
+END
+443_BF2714803_InvoicepaidToDate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/443_BF2714803_InvoicepaidToDate.sql
+END
+426_001_BF2606690CostCollectorMA.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/426_001_BF2606690CostCollectorMA.sql
+END
+442_BF2710889_PaymentTermDueDate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/442_BF2710889_PaymentTermDueDate.sql
+END
+488_RF2804811_Co_Product.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/488_RF2804811_Co_Product.sql
+END
+377_BF2219332_misspelling.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/377_BF2219332_misspelling.sql
+END
+441_BF2710889_Add_Months.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/441_BF2710889_Add_Months.sql
+END
+513_FR2830755_ReOrgMenuItems.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/513_FR2830755_ReOrgMenuItems.sql
+END
+570_FR2857707UOMType.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/570_FR2857707UOMType.sql
+END
+511_FR2828878.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/511_FR2828878.sql
+END
+426_reservedforlibero.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/426_reservedforlibero.sql
+END
+535_FR2841841_RequisitionImprovements.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/535_FR2841841_RequisitionImprovements.sql
+END
+409_BF2542949_PayrollConstraints.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/409_BF2542949_PayrollConstraints.sql
+END
+508_FR2815134.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/508_FR2815134.sql
+END
+561_BF2852068.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/561_BF2852068.sql
+END
+547_BF2847157_Include_Tab_ID.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/547_BF2847157_Include_Tab_ID.sql
+END
+433_FR2685367_GLDistribution_CreateReversal.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/433_FR2685367_GLDistribution_CreateReversal.sql
+END
+574_BF1879029.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/574_BF1879029.sql
+END
+414_001_BF2568616_Yield_UnitsByCycles.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/414_001_BF2568616_Yield_UnitsByCycles.sql
+END
+411-2Pack_1976008_reverted.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/353a-354a/postgresql/411-2Pack_1976008_reverted.sql
+END

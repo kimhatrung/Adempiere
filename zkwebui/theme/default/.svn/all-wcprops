@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/3.7/!svn/ver/1/zkwebui/theme/default
+END
+vendor-logo.zul
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/zkwebui/theme/default/vendor-logo.zul
+END
+login-info.zul
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/zkwebui/theme/default/login-info.zul
+END
+version-info.zul
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/zkwebui/theme/default/version-info.zul
+END
+login-links.zul
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/zkwebui/theme/default/login-links.zul
+END
+login-left.zul
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/zkwebui/theme/default/login-left.zul
+END

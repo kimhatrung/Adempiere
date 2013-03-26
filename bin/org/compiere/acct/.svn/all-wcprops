@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/3.7/!svn/ver/1/base/src/org/compiere/acct
+END
+DocLine_Bank.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/base/src/org/compiere/acct/DocLine_Bank.java
+END
+Doc_AllocationHdr.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/compiere/acct/Doc_AllocationHdr.java
+END
+Fact.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/base/src/org/compiere/acct/Fact.java
+END
+DocLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/base/src/org/compiere/acct/DocLine.java
+END
+Doc_BankStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/compiere/acct/Doc_BankStatement.java
+END
+Doc_GLJournal.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/base/src/org/compiere/acct/Doc_GLJournal.java
+END
+Doc_Order.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/base/src/org/compiere/acct/Doc_Order.java
+END
+Doc_ProjectIssue.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/compiere/acct/Doc_ProjectIssue.java
+END
+DocLine_Cash.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/base/src/org/compiere/acct/DocLine_Cash.java
+END
+Doc_Invoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/base/src/org/compiere/acct/Doc_Invoice.java
+END
+Doc_InOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/base/src/org/compiere/acct/Doc_InOut.java
+END
+Doc_Production.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/base/src/org/compiere/acct/Doc_Production.java
+END
+FactLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/base/src/org/compiere/acct/FactLine.java
+END
+Doc_Payment.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/base/src/org/compiere/acct/Doc_Payment.java
+END
+Doc_MatchPO.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/base/src/org/compiere/acct/Doc_MatchPO.java
+END
+ProductInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/base/src/org/compiere/acct/ProductInfo.java
+END
+Doc_Cash.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/base/src/org/compiere/acct/Doc_Cash.java
+END
+Doc.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/base/src/org/compiere/acct/Doc.java
+END
+Doc_Movement.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/base/src/org/compiere/acct/Doc_Movement.java
+END
+Doc_Requisition.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/compiere/acct/Doc_Requisition.java
+END
+Doc_Inventory.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/base/src/org/compiere/acct/Doc_Inventory.java
+END
+DocTax.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/base/src/org/compiere/acct/DocTax.java
+END
+DocLine_Allocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/acct/DocLine_Allocation.java
+END
+Doc_MatchInv.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/base/src/org/compiere/acct/Doc_MatchInv.java
+END
+Matcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/base/src/org/compiere/acct/Matcher.java
+END

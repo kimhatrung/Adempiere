@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/serverRoot/src/main/servlet/org/compiere/web
+END
+StatusInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/serverRoot/src/main/servlet/org/compiere/web/StatusInfo.java
+END
+AdempiereMonitorFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/serverRoot/src/main/servlet/org/compiere/web/AdempiereMonitorFilter.java
+END
+AdempiereMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/serverRoot/src/main/servlet/org/compiere/web/AdempiereMonitor.java
+END
+ServerStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/serverRoot/src/main/servlet/org/compiere/web/ServerStatus.java
+END

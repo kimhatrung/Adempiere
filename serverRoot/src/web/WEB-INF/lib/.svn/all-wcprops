@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/serverRoot/src/web/WEB-INF/lib
+END
+jardiff.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/serverRoot/src/web/WEB-INF/lib/jardiff.jar
+END
+jnlp-servlet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/serverRoot/src/web/WEB-INF/lib/jnlp-servlet.jar
+END

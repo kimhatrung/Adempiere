@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/migration/314-315/oracle
+END
+005_add_CopyColumnsFromTable_es_MX.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/migration/314-315/oracle/005_add_CopyColumnsFromTable_es_MX.sql
+END
+006_update_2pack_classname.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/migration/314-315/oracle/006_update_2pack_classname.sql
+END
+010_drop_tire_storage.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/migration/314-315/oracle/010_drop_tire_storage.sql
+END
+012_AD_Role_add_allow_info_flags.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/314-315/oracle/012_AD_Role_add_allow_info_flags.sql
+END
+017_fix_typo_entitytype.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/314-315/oracle/017_fix_typo_entitytype.sql
+END
+001_patch_processes_oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/migration/314-315/oracle/001_patch_processes_oracle.sql
+END
+004_add_CopyColumnsFromTable.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/314-315/oracle/004_add_CopyColumnsFromTable.sql
+END
+011_create_ad_sysconfig.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/314-315/oracle/011_create_ad_sysconfig.sql
+END
+002_add_message_Charset.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/314-315/oracle/002_add_message_Charset.sql
+END
+016_version315.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/migration/314-315/oracle/016_version315.sql
+END
+015_integrate_jasper_printengine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/314-315/oracle/015_integrate_jasper_printengine.sql
+END
+014_add_RequestEMailProcessor_2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/314-315/oracle/014_add_RequestEMailProcessor_2.sql
+END
+008_add_message_Implementation.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/migration/314-315/oracle/008_add_message_Implementation.sql
+END
+007_ProductAttribute.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/migration/314-315/oracle/007_ProductAttribute.sql
+END
+018_incomplete_sequences.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/migration/314-315/oracle/018_incomplete_sequences.sql
+END
+003_add_message_Charset_TRL.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/314-315/oracle/003_add_message_Charset_TRL.sql
+END
+013_add_RequestEMailProcessor.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/migration/314-315/oracle/013_add_RequestEMailProcessor.sql
+END
+009_add_StoreAttachmentsOnFilesystem.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/migration/314-315/oracle/009_add_StoreAttachmentsOnFilesystem.sql
+END

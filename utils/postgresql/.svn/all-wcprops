@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/repos/3.7/!svn/ver/1/utils/postgresql
+END
+DBExport.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/utils/postgresql/DBExport.sh
+END
+Start.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/3.7/!svn/ver/1/utils/postgresql/Start.sh
+END
+Stop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/utils/postgresql/Stop.sh
+END
+Test.sql
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/3.7/!svn/ver/1/utils/postgresql/Test.sql
+END
+DBRestore.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/utils/postgresql/DBRestore.sh
+END
+ImportAdempiere.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/utils/postgresql/ImportAdempiere.sh
+END
+PostMigration.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/utils/postgresql/PostMigration.sh
+END
+ImportAdempiere.bat
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/utils/postgresql/ImportAdempiere.bat
+END
+01_add_missing_translations.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/utils/postgresql/01_add_missing_translations.sql
+END
+DBRestore.bat
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/utils/postgresql/DBRestore.bat
+END
+Start.bat
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/3.7/!svn/ver/1/utils/postgresql/Start.bat
+END
+Stop.bat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/3.7/!svn/ver/1/utils/postgresql/Stop.bat
+END
+DBExport.bat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/utils/postgresql/DBExport.bat
+END
+ExportReference.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/utils/postgresql/ExportReference.sh
+END

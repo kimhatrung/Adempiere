@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/ejb3.deployer
+END
+jboss-annotations-ejb3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/ejb3.deployer/jboss-annotations-ejb3.jar
+END
+jboss-ejb3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/ejb3.deployer/jboss-ejb3.jar
+END

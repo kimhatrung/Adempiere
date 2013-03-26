@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/repos/3.7/!svn/ver/1/tools/.settings
+END
+org.eclipse.wst.common.project.facet.core.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/tools/.settings/org.eclipse.wst.common.project.facet.core.xml
+END
+org.eclipse.wst.common.component
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/tools/.settings/org.eclipse.wst.common.component
+END
+com.genuitec.jboss.ide.eclipse.xdoclet.run.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/tools/.settings/com.genuitec.jboss.ide.eclipse.xdoclet.run.prefs
+END
+org.eclipse.jdt.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/tools/.settings/org.eclipse.jdt.core.prefs
+END
+org.eclipse.jdt.ui.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/tools/.settings/org.eclipse.jdt.ui.prefs
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/client/src/org/compiere/minigrid
+END
+IDColumnEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/client/src/org/compiere/minigrid/IDColumnEditor.java
+END
+IMiniTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/client/src/org/compiere/minigrid/IMiniTable.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/client/src/org/compiere/minigrid/package.html
+END
+ROCellEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/client/src/org/compiere/minigrid/ROCellEditor.java
+END
+CheckRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/client/src/org/compiere/minigrid/CheckRenderer.java
+END
+MiniTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/client/src/org/compiere/minigrid/MiniTable.java
+END
+MiniCellEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/client/src/org/compiere/minigrid/MiniCellEditor.java
+END
+IDColumnRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/client/src/org/compiere/minigrid/IDColumnRenderer.java
+END
+ColumnInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/client/src/org/compiere/minigrid/ColumnInfo.java
+END
+IDColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/client/src/org/compiere/minigrid/IDColumn.java
+END

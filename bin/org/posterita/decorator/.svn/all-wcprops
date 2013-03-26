@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/decorator
+END
+HistoryRtfExportWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/decorator/HistoryRtfExportWrapper.java
+END
+HistoryWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/decorator/HistoryWrapper.java
+END
+HistoryCsvExportWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/decorator/HistoryCsvExportWrapper.java
+END
+InventoryMoveHistoryWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/decorator/InventoryMoveHistoryWrapper.java
+END
+InventoryHistoryWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/decorator/InventoryHistoryWrapper.java
+END
+PaymentDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/decorator/PaymentDecorator.java
+END
+HistoryPdfExportWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/decorator/HistoryPdfExportWrapper.java
+END

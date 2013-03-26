@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/materialmovement
+END
+viewMMovement.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/materialmovement/viewMMovement.jsp
+END
+viewMMovementLines.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/materialmovement/viewMMovementLines.jsp
+END
+viewMoveConfirm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/materialmovement/viewMoveConfirm.jsp
+END
+viewMoveLinesHistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/materialmovement/viewMoveLinesHistory.jsp
+END
+viewMMovementHistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/materialmovement/viewMMovementHistory.jsp
+END
+viewStockList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/materialmovement/viewStockList.jsp
+END
+viewStock.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/materialmovement/viewStock.jsp
+END
+viewMoveConfirmLines.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/materialmovement/viewMoveConfirmLines.jsp
+END

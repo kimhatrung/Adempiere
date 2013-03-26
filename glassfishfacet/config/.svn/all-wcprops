@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/3.7/!svn/ver/1/glassfishfacet/config
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/glassfishfacet/config/readme.txt
+END
+sun-application.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/glassfishfacet/config/sun-application.xml
+END
+login.conf
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/glassfishfacet/config/login.conf
+END
+domain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/glassfishfacet/config/domain.xml
+END

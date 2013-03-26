@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/1.0-1.5%20(AD331b)/oracle
+END
+001_ad_changes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/1.0-1.5%20(AD331b)/oracle/001_ad_changes.sql
+END
+002_ad_message.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/1.0-1.5%20(AD331b)/oracle/002_ad_message.sql
+END
+003_m_pricelist.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/posterita/commons/Migration/1.0-1.5%20(AD331b)/oracle/003_m_pricelist.sql
+END

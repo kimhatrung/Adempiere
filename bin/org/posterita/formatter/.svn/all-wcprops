@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/formatter
+END
+LongFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/formatter/LongFormatter.java
+END
+SimpleCalendarDateFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/formatter/SimpleCalendarDateFormatter.java
+END
+IntegerFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/formatter/IntegerFormatter.java
+END
+Formatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/formatter/Formatter.java
+END
+DefaultFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/formatter/DefaultFormatter.java
+END
+JulianDateFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/formatter/JulianDateFormatter.java
+END
+BigDecimalArrayFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/formatter/BigDecimalArrayFormatter.java
+END
+BooleanFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/formatter/BooleanFormatter.java
+END
+StringArrayFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/formatter/StringArrayFormatter.java
+END
+PriceFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/formatter/PriceFormatter.java
+END
+ReflectionFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/formatter/ReflectionFormatter.java
+END
+PrintFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/formatter/PrintFormatter.java
+END
+TimeFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/formatter/TimeFormatter.java
+END
+BooleanArrayFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/formatter/BooleanArrayFormatter.java
+END
+BigDecimalFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/formatter/BigDecimalFormatter.java
+END
+StringFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/formatter/StringFormatter.java
+END
+DoubleFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/formatter/DoubleFormatter.java
+END
+ArrayListFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/3.7/!svn/ver/1/posterita/posterita/src/main/org/posterita/formatter/ArrayListFormatter.java
+END

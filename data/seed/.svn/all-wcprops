@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/repos/3.7/!svn/ver/1/data/seed
+END
+init.ora
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/3.7/!svn/ver/1/data/seed/init.ora
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/data/seed/readme.txt
+END
+Adempiere.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/data/seed/Adempiere.jar
+END
+listener.ora
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/3.7/!svn/ver/1/data/seed/listener.ora
+END
+cman.ora
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/3.7/!svn/ver/1/data/seed/cman.ora
+END
+sqlnet.ora
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/data/seed/sqlnet.ora
+END
+tnsnames.ora
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/3.7/!svn/ver/1/data/seed/tnsnames.ora
+END
+Adempiere_pg.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/3.7/!svn/ver/1/data/seed/Adempiere_pg.jar
+END

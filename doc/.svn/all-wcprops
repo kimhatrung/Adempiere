@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/repos/3.7/!svn/ver/1/doc
+END
+documentation.bat
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/3.7/!svn/ver/1/doc/documentation.bat
+END
+test_accounting.xls
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/doc/test_accounting.xls
+END
+uiAdempiereDefaults.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/3.7/!svn/ver/1/doc/uiAdempiereDefaults.txt
+END
+RaiseApplicationError.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/doc/RaiseApplicationError.txt
+END
+uiMetalDefaults.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/doc/uiMetalDefaults.txt
+END
+test_commission.xls
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/doc/test_commission.xls
+END
+DemoOutline.doc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/3.7/!svn/ver/1/doc/DemoOutline.doc
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/repos/3.7/!svn/ver/1/doc/.project
+END
+RUN_doc.bat
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/repos/3.7/!svn/ver/1/doc/RUN_doc.bat
+END
+DocStatus.txt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/3.7/!svn/ver/1/doc/DocStatus.txt
+END
+hints.txt
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/repos/3.7/!svn/ver/1/doc/hints.txt
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/repos/3.7/!svn/ver/1/doc/.classpath
+END
+packages.txt
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/repos/3.7/!svn/ver/1/doc/packages.txt
+END

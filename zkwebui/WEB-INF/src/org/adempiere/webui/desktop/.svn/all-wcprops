@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/desktop
+END
+TabbedDesktop.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/desktop/TabbedDesktop.java
+END
+NavBarDesktop.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/desktop/NavBarDesktop.java
+END
+DefaultDesktop.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/desktop/DefaultDesktop.java
+END
+NavBar2Desktop.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/desktop/NavBar2Desktop.java
+END
+AbstractDesktop.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/desktop/AbstractDesktop.java
+END
+IDesktop.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/desktop/IDesktop.java
+END

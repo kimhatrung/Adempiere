@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle
+END
+041_FR1814291.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/041_FR1814291.sql
+END
+031_FR_1823186.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/031_FR_1823186.sql
+END
+014_PosteritaDML_ORA.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/014_PosteritaDML_ORA.sql
+END
+008_BF_1672847.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/008_BF_1672847.sql
+END
+028_FR_1799601.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/028_FR_1799601.sql
+END
+013_PosteritaDLL_ORA.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/013_PosteritaDLL_ORA.sql
+END
+032_Rejected_Incomplete_C1648920_EnhancedDocNum.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/032_Rejected_Incomplete_C1648920_EnhancedDocNum.sql
+END
+019_EntityTypeLength.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/019_EntityTypeLength.sql
+END
+001_BF_1760922.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/001_BF_1760922.sql
+END
+012_BR_1794352.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/012_BR_1794352.sql
+END
+018_SaveUserQueryMessage.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/018_SaveUserQueryMessage.sql
+END
+011_FR_1789836.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/011_FR_1789836.sql
+END
+040_FR1840016.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/040_FR1840016.sql
+END
+036_FR1675372.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/036_FR1675372.sql
+END
+033_centralized_id_sysconfig.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/033_centralized_id_sysconfig.sql
+END
+025_OverUnderAmtMessage.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/025_OverUnderAmtMessage.sql
+END
+017_SaveUserQuery.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/017_SaveUserQuery.sql
+END
+023_BF_1812362.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/023_BF_1812362.sql
+END
+042_fix_typo_in_help.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/042_fix_typo_in_help.sql
+END
+004_BF_1746366.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/004_BF_1746366.sql
+END
+035_BF_1828688.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/035_BF_1828688.sql
+END
+034_message_logmigrationscript.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/034_message_logmigrationscript.sql
+END
+029_FR_1804068.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/029_FR_1804068.sql
+END
+009_FR_1788114.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/009_FR_1788114.sql
+END
+003_BF_1763523.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/003_BF_1763523.sql
+END
+007_BF_1774758.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/007_BF_1774758.sql
+END
+043_version331.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/043_version331.sql
+END
+002_FR_1757535.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/002_FR_1757535.sql
+END
+024_BF_1760922.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/024_BF_1760922.sql
+END
+039_FR_1782412.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/039_FR_1782412.sql
+END
+037_AdditionalProductInfo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/037_AdditionalProductInfo.sql
+END
+005_FR_1754879.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/005_FR_1754879.sql
+END
+015_PosteritaDML2_ORA.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/015_PosteritaDML2_ORA.sql
+END
+022_FR_1732786.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/022_FR_1732786.sql
+END
+038_AD_ModelValidatorPatch.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/038_AD_ModelValidatorPatch.sql
+END
+016_GridCollapseDetail.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/016_GridCollapseDetail.sql
+END
+021_rejected.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/021_rejected.sql
+END
+006_C1648920_EnhancedDocNum.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/006_C1648920_EnhancedDocNum.sql
+END
+020_AD_ModelValidator.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/020_AD_ModelValidator.sql
+END
+010_BF1788185.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/010_BF1788185.sql
+END
+027_fix_typo_es.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/027_fix_typo_es.sql
+END
+044_BF_1824260.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/044_BF_1824260.sql
+END
+030_BF_1824260.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/030_BF_1824260.sql
+END
+026_disable_ldap_processor.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/migration/330-331b/oracle/026_disable_ldap_processor.sql
+END

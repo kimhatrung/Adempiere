@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/3.7/!svn/ver/1/base/src/org/compiere/sla
+END
+DeliveryAccuracy.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/compiere/sla/DeliveryAccuracy.java
+END
+SLAMeasureProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/compiere/sla/SLAMeasureProcess.java
+END
+SLACriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/sla/SLACriteria.java
+END
+SLAGoalProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/base/src/org/compiere/sla/SLAGoalProcess.java
+END

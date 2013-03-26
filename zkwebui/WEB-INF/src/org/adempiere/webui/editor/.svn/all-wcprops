@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/editor
+END
+WPAttributeEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WPAttributeEditor.java
+END
+WNumberEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WNumberEditor.java
+END
+WLocatorEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WLocatorEditor.java
+END
+WSearchEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WSearchEditor.java
+END
+WFilenameEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WFilenameEditor.java
+END
+WebEditorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WebEditorFactory.java
+END
+WFileDirectoryEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WFileDirectoryEditor.java
+END
+WEditorPopupMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WEditorPopupMenu.java
+END
+WUrlEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WUrlEditor.java
+END
+WBinaryEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WBinaryEditor.java
+END
+WEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WEditor.java
+END
+WTableDirEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WTableDirEditor.java
+END
+IZoomableEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/editor/IZoomableEditor.java
+END
+WAccountEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WAccountEditor.java
+END
+WUnknownEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WUnknownEditor.java
+END
+WPasswordEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WPasswordEditor.java
+END
+WDatetimeEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WDatetimeEditor.java
+END
+WYesNoEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WYesNoEditor.java
+END
+WLocationEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WLocationEditor.java
+END
+WButtonEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WButtonEditor.java
+END
+WStringEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WStringEditor.java
+END
+WDateEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WDateEditor.java
+END
+WAssignmentEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WAssignmentEditor.java
+END
+WImageEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WImageEditor.java
+END
+WTimeEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/editor/WTimeEditor.java
+END

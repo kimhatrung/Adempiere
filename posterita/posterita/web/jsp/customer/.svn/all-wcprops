@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/customer
+END
+existingPOSCustomers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/customer/existingPOSCustomers.jsp
+END
+savePOSCustomer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/customer/savePOSCustomer.jsp
+END
+createPOSCustomer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/posterita/posterita/web/jsp/customer/createPOSCustomer.jsp
+END

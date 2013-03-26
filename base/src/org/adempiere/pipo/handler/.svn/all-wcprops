@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler
+END
+SQLStatementElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/SQLStatementElementHandler.java
+END
+WorkflowElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/WorkflowElementHandler.java
+END
+EntityTypeElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/EntityTypeElementHandler.java
+END
+ReportViewElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/ReportViewElementHandler.java
+END
+ImpFormatRowElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/ImpFormatRowElementHandler.java
+END
+PrintFormatItemElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/PrintFormatItemElementHandler.java
+END
+CommonTranslationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/CommonTranslationHandler.java
+END
+ColumnElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/ColumnElementHandler.java
+END
+ProcessAccessElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/ProcessAccessElementHandler.java
+END
+ProcessElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/ProcessElementHandler.java
+END
+ProcessParaElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/ProcessParaElementHandler.java
+END
+TableElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/TableElementHandler.java
+END
+ModelValidatorElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/ModelValidatorElementHandler.java
+END
+FormAccessElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/FormAccessElementHandler.java
+END
+FieldGroupElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/FieldGroupElementHandler.java
+END
+FormElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/FormElementHandler.java
+END
+PrintFormatElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/PrintFormatElementHandler.java
+END
+DynValRuleElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/DynValRuleElementHandler.java
+END
+AdElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/AdElementHandler.java
+END
+ImpFormatElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/ImpFormatElementHandler.java
+END
+DistFileElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/DistFileElementHandler.java
+END
+UserRoleElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/UserRoleElementHandler.java
+END
+WorkflowNodeElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/WorkflowNodeElementHandler.java
+END
+MenuElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/MenuElementHandler.java
+END
+PrintPaperElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/PrintPaperElementHandler.java
+END
+PreferenceElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/PreferenceElementHandler.java
+END
+CodeSnipitElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/CodeSnipitElementHandler.java
+END
+OrgRoleElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/OrgRoleElementHandler.java
+END
+FieldElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/FieldElementHandler.java
+END
+RoleElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/RoleElementHandler.java
+END
+TabElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/TabElementHandler.java
+END
+WindowAccessElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/WindowAccessElementHandler.java
+END
+WorkflowNodeNextElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/WorkflowNodeNextElementHandler.java
+END
+WindowElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/WindowElementHandler.java
+END
+ReferenceElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/ReferenceElementHandler.java
+END
+DataElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/DataElementHandler.java
+END
+ReferenceListElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/ReferenceListElementHandler.java
+END
+TaskAccessElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/TaskAccessElementHandler.java
+END
+ReportViewColElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/ReportViewColElementHandler.java
+END
+MessageElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/MessageElementHandler.java
+END
+WorkflowNodeNextConditionElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/WorkflowNodeNextConditionElementHandler.java
+END
+TaskElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/TaskElementHandler.java
+END
+ReferenceTableElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/ReferenceTableElementHandler.java
+END
+WorkflowAccessElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/base/src/org/adempiere/pipo/handler/WorkflowAccessElementHandler.java
+END

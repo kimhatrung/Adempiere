@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/3.7/!svn/ver/1/migration/313-314
+END
+014_add_jasper_dictionary_es.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/migration/313-314/014_add_jasper_dictionary_es.sql
+END
+007_version314.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/migration/313-314/007_version314.sql
+END
+009_insert_gardenworld_2007.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/migration/313-314/009_insert_gardenworld_2007.sql
+END
+006_fix_2pack_pk_name.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/migration/313-314/006_fix_2pack_pk_name.sql
+END
+005_fix_error_message_escalate_request_es.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/migration/313-314/005_fix_error_message_escalate_request_es.sql
+END
+012_add_jasper_dictionary.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/migration/313-314/012_add_jasper_dictionary.sql
+END
+001_fix_error_ExpenseSummary_message_es.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/migration/313-314/001_fix_error_ExpenseSummary_message_es.sql
+END
+004_fix_bad_year_dictionary.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/migration/313-314/004_fix_bad_year_dictionary.sql
+END
+015_Recreate_M_PriceList_Create.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/migration/313-314/015_Recreate_M_PriceList_Create.sql
+END
+010_add_treebar_menu_to_system.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/migration/313-314/010_add_treebar_menu_to_system.sql
+END
+016_Recreate_C_Currency_Rate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/migration/313-314/016_Recreate_C_Currency_Rate.sql
+END
+011_set_autoperiod_accouting_gardenworld.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/migration/313-314/011_set_autoperiod_accouting_gardenworld.sql
+END
+008_fix_problem_2pack_name_seqno.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/migration/313-314/008_fix_problem_2pack_name_seqno.sql
+END
+003_fix_error_message_notif_request_es.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/migration/313-314/003_fix_error_message_notif_request_es.sql
+END
+002_fix_error_Expensesnotreimbursed_window_es.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/migration/313-314/002_fix_error_Expensesnotreimbursed_window_es.sql
+END
+013_increase_defaultvalue_length_processpara.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/3.7/!svn/ver/1/migration/313-314/013_increase_defaultvalue_length_processpara.sql
+END

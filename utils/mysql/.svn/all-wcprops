@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/repos/3.7/!svn/ver/1/utils/mysql
+END
+DBExport.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/utils/mysql/DBExport.sh
+END
+Start.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/utils/mysql/Start.sh
+END
+Stop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/3.7/!svn/ver/1/utils/mysql/Stop.sh
+END
+Test.sql
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/utils/mysql/Test.sql
+END
+DBRestore.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/utils/mysql/DBRestore.sh
+END
+ImportAdempiere.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/utils/mysql/ImportAdempiere.sh
+END
+PostMigration.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/utils/mysql/PostMigration.sh
+END
+ImportAdempiere.bat
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/utils/mysql/ImportAdempiere.bat
+END
+01_add_missing_translations.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/utils/mysql/01_add_missing_translations.sql
+END
+DBRestore.bat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/3.7/!svn/ver/1/utils/mysql/DBRestore.bat
+END
+Start.bat
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/3.7/!svn/ver/1/utils/mysql/Start.bat
+END
+Stop.bat
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/utils/mysql/Stop.bat
+END
+DBExport.bat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/utils/mysql/DBExport.bat
+END
+ExportReference.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/utils/mysql/ExportReference.sh
+END

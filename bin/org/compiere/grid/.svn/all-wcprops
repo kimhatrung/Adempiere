@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid
+END
+VTableExcelAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/VTableExcelAdapter.java
+END
+VPayment.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/VPayment.java
+END
+ICreateFrom.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/ICreateFrom.java
+END
+VCreateFromFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/VCreateFromFactory.java
+END
+VPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/VPanel.java
+END
+VOnlyCurrentDays.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/VOnlyCurrentDays.java
+END
+VTabbedPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/VTabbedPane.java
+END
+VCreateFromShipmentUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/VCreateFromShipmentUI.java
+END
+CreateFromStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/CreateFromStatement.java
+END
+GridSynchronizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/GridSynchronizer.java
+END
+VCreateFromStatementUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/VCreateFromStatementUI.java
+END
+CreateFromInvoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/CreateFromInvoice.java
+END
+CreateFrom.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/CreateFrom.java
+END
+VCreateFromInvoiceUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/VCreateFromInvoiceUI.java
+END
+VCreateFromDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/VCreateFromDialog.java
+END
+GridController.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/GridController.java
+END
+VSortTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/VSortTab.java
+END
+CreateFromShipment.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/CreateFromShipment.java
+END
+CreateFromRMA.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/CreateFromRMA.java
+END
+VCreateFromRMAUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/VCreateFromRMAUI.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/package.html
+END
+RecordAccessDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/RecordAccessDialog.java
+END
+VTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/VTable.java
+END
+XLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/XLookup.java
+END
+APanelTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/client/src/org/compiere/grid/APanelTab.java
+END

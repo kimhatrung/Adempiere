@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/graph
+END
+WPAPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/graph/WPAPanel.java
+END
+WPerformanceDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/graph/WPerformanceDetail.java
+END
+WGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/graph/WGraph.java
+END
+WPerformanceIndicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/graph/WPerformanceIndicator.java
+END
+WViewPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/zkwebui/WEB-INF/src/org/adempiere/webui/apps/graph/WViewPI.java
+END

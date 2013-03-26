@@ -1,0 +1,971 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process
+END
+CopyFromOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/CopyFromOrder.java
+END
+ImportGLJournal.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ImportGLJournal.java
+END
+TabCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/TabCopy.java
+END
+InvoicePayScheduleValidate.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/InvoicePayScheduleValidate.java
+END
+InOutCreateInvoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/InOutCreateInvoice.java
+END
+SequenceCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/SequenceCheck.java
+END
+M_Product_BOM_Check.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/M_Product_BOM_Check.java
+END
+CopyReportProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/CopyReportProcess.java
+END
+OrderBatchProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/OrderBatchProcess.java
+END
+InvoiceBatchProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/InvoiceBatchProcess.java
+END
+DocumentEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/DocumentEngine.java
+END
+NoteDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/NoteDelete.java
+END
+TransactionXRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/TransactionXRef.java
+END
+PaymentOnline.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/PaymentOnline.java
+END
+YearCreatePeriods.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/YearCreatePeriods.java
+END
+RfQCreate.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/RfQCreate.java
+END
+BankStatementPayment.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/BankStatementPayment.java
+END
+StateEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/StateEngine.java
+END
+DocumentTypeVerify.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/DocumentTypeVerify.java
+END
+ProcessCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ProcessCall.java
+END
+IssueReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/IssueReport.java
+END
+OrgOwnership.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/OrgOwnership.java
+END
+ImportProduct.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ImportProduct.java
+END
+StorageCleanup.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/StorageCleanup.java
+END
+RfQResponseInvite.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/RfQResponseInvite.java
+END
+RoleAccessUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/RoleAccessUpdate.java
+END
+CommissionCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/CommissionCopy.java
+END
+PosKeyGenerate.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/PosKeyGenerate.java
+END
+SvrProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/SvrProcess.java
+END
+ProjectClose.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ProjectClose.java
+END
+DistributionVerify.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/DistributionVerify.java
+END
+InvoiceWriteOff.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/InvoiceWriteOff.java
+END
+CopyColumnsFromTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/CopyColumnsFromTable.java
+END
+CopyOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/CopyOrder.java
+END
+LandedCostDistribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/LandedCostDistribute.java
+END
+BOMValidate.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/BOMValidate.java
+END
+ProjectGenPO.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ProjectGenPO.java
+END
+ProductCategoryAcctCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ProductCategoryAcctCopy.java
+END
+InfoWindowValidate.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/InfoWindowValidate.java
+END
+ExpenseSOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ExpenseSOrder.java
+END
+BPartnerOrgUnLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/BPartnerOrgUnLink.java
+END
+ImportBankStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ImportBankStatement.java
+END
+LoadBankStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/LoadBankStatement.java
+END
+ProcessInfoParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ProcessInfoParameter.java
+END
+ImportBPartner.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ImportBPartner.java
+END
+DocActionTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/DocActionTemplate.java
+END
+ProcessInfoLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ProcessInfoLog.java
+END
+ExpenseAPInvoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ExpenseAPInvoice.java
+END
+AdempiereService.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/AdempiereService.java
+END
+InvoiceCreateInOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/InvoiceCreateInOut.java
+END
+ProjectPhaseGenOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ProjectPhaseGenOrder.java
+END
+CommissionCalc.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/CommissionCalc.java
+END
+RequestInvoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/RequestInvoice.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/package.html
+END
+InOutCreateConfirm.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/InOutCreateConfirm.java
+END
+CopyFromProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/CopyFromProject.java
+END
+ColumnEncryption.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ColumnEncryption.java
+END
+BPartnerOrgLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/BPartnerOrgLink.java
+END
+RequisitionPOCreate.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/RequisitionPOCreate.java
+END
+ProductUOMConvert.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ProductUOMConvert.java
+END
+CacheReset.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/CacheReset.java
+END
+RequestReOpen.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/RequestReOpen.java
+END
+TaxDeclarationCreate.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/TaxDeclarationCreate.java
+END
+RfQResponseRank.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/RfQResponseRank.java
+END
+ImportOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ImportOrder.java
+END
+PaySelectionCreateCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/PaySelectionCreateCheck.java
+END
+DistributionRun.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/DistributionRun.java
+END
+M_PriceList_Create.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/M_PriceList_Create.java
+END
+UserPassword.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/UserPassword.java
+END
+TranslationDocSync.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/TranslationDocSync.java
+END
+ImportPayment.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ImportPayment.java
+END
+BankStatementMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/BankStatementMatcher.java
+END
+ProcessInfoUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ProcessInfoUtil.java
+END
+BPartnerValidate.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/BPartnerValidate.java
+END
+ProjectLinePricing.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ProjectLinePricing.java
+END
+M_Production_Run.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/M_Production_Run.java
+END
+RfQCreateSO.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/RfQCreateSO.java
+END
+RemoteMergeDataVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/RemoteMergeDataVO.java
+END
+ReplicationRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ReplicationRemote.java
+END
+KIndexRerun.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/KIndexRerun.java
+END
+FactAcctReset.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/FactAcctReset.java
+END
+ImportDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ImportDelete.java
+END
+AllocationReset.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/AllocationReset.java
+END
+MatchPODelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/MatchPODelete.java
+END
+ImportReportLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ImportReportLine.java
+END
+SendMailText.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/SendMailText.java
+END
+CopyRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/CopyRole.java
+END
+RemoteUpdateVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/RemoteUpdateVO.java
+END
+OrderRePrice.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/OrderRePrice.java
+END
+InvoiceNGL.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/InvoiceNGL.java
+END
+AcctSchemaDefaultCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/AcctSchemaDefaultCopy.java
+END
+DistributionCreate.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/DistributionCreate.java
+END
+ReplicationLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ReplicationLocal.java
+END
+RfQResponseCComplete.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/RfQResponseCComplete.java
+END
+ReportColumnSet_Copy.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ReportColumnSet_Copy.java
+END
+ImportInventory.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ImportInventory.java
+END
+RemoteSetupVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/RemoteSetupVO.java
+END
+InventoryCountCreate.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/InventoryCountCreate.java
+END
+DocAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/DocAction.java
+END
+DiscountSchemaReSeq.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/DiscountSchemaReSeq.java
+END
+TabCreateFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/TabCreateFields.java
+END
+CostCreate.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/CostCreate.java
+END
+ImportAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ImportAccount.java
+END
+ImportInvoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ImportInvoice.java
+END
+PaymentTermValidate.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/PaymentTermValidate.java
+END
+DocOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/DocOptions.java
+END
+ProjectSetType.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ProjectSetType.java
+END
+EntityTypeRegister.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/EntityTypeRegister.java
+END
+InvoicePrint.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/InvoicePrint.java
+END
+InOutGenerate.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/InOutGenerate.java
+END
+Recurring.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/Recurring.java
+END
+DunningPrint.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/DunningPrint.java
+END
+M_Product_CostingUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/M_Product_CostingUpdate.java
+END
+ChangeLogProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ChangeLogProcess.java
+END
+RfQClose.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/RfQClose.java
+END
+ReportLineSet_Copy.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ReportLineSet_Copy.java
+END
+ReplenishReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ReplenishReport.java
+END
+RfQCreatePO.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/RfQCreatePO.java
+END
+OrderOpen.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/OrderOpen.java
+END
+ProjectGenOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ProjectGenOrder.java
+END
+DunningRunCreate.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/DunningRunCreate.java
+END
+RegisterSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/RegisterSystem.java
+END
+ColumnSync.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ColumnSync.java
+END
+ServerProcessCtl.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ServerProcessCtl.java
+END
+PeriodControlStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/PeriodControlStatus.java
+END
+EMailTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/EMailTest.java
+END
+CopyFromInvoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/CopyFromInvoice.java
+END
+PaySelectionCreateFrom.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/PaySelectionCreateFrom.java
+END
+FactAcctSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/FactAcctSummary.java
+END
+WindowCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/WindowCopy.java
+END
+ClientProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ClientProcess.java
+END
+SynchronizeTerminology.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/SynchronizeTerminology.java
+END
+PackageCreate.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/PackageCreate.java
+END
+ProcessInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ProcessInfo.java
+END
+ImportInOutConfirm.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ImportInOutConfirm.java
+END
+AcctSchemaCopyAcct.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/AcctSchemaCopyAcct.java
+END
+T_InventoryValue_Create.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/T_InventoryValue_Create.java
+END
+BPGroupAcctCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/BPGroupAcctCopy.java
+END
+AdempiereServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/AdempiereServer.java
+END
+MatchInvDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/MatchInvDelete.java
+END
+InventoryValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/InventoryValue.java
+END
+CommissionAPInvoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/CommissionAPInvoice.java
+END
+AllocationAuto.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/AllocationAuto.java
+END
+RfQCopyLines.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/RfQCopyLines.java
+END
+OrderPOCreate.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/OrderPOCreate.java
+END
+RequestEMailProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/RequestEMailProcessor.java
+END
+SystemValidate.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/SystemValidate.java
+END
+AssetDelivery.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/AssetDelivery.java
+END
+InvoiceGenerate.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/InvoiceGenerate.java
+END
+DocTypeCounterValidate.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/DocTypeCounterValidate.java
+END
+ProjectIssue.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ProjectIssue.java
+END
+AD_PrintPaper_Default.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/AD_PrintPaper_Default.java
+END
+Aging.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/Aging.java
+END
+InventoryCountUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/InventoryCountUpdate.java
+END
+ImportConversionRate.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/ImportConversionRate.java
+END
+CopyProduct.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/CopyProduct.java
+END
+CopyFromJournal.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/CopyFromJournal.java
+END
+CostUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/CostUpdate.java
+END
+TreeMaintenance.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/TreeMaintenance.java
+END
+PeriodStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/PeriodStatus.java
+END
+TableCreateColumns.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/3.7/!svn/ver/1/base/src/org/compiere/process/TableCreateColumns.java
+END

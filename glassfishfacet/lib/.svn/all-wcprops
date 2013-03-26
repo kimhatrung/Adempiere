@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/3.7/!svn/ver/1/glassfishfacet/lib
+END
+appserv-rt.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/glassfishfacet/lib/appserv-rt.jar
+END
+appserv-admin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/3.7/!svn/ver/1/glassfishfacet/lib/appserv-admin.jar
+END
+appserv-ext.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/glassfishfacet/lib/appserv-ext.jar
+END
+appserv-deployment-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/glassfishfacet/lib/appserv-deployment-client.jar
+END

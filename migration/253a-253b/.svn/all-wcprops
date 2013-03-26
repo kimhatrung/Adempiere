@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/3.7/!svn/ver/1/migration/253a-253b
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/migration/253a-253b/readme.txt
+END
+migration-structure.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/3.7/!svn/ver/1/migration/253a-253b/migration-structure.sql
+END
+migration-replace-views.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/3.7/!svn/ver/1/migration/253a-253b/migration-replace-views.sql
+END
+old_migration_missing.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/3.7/!svn/ver/1/migration/253a-253b/old_migration_missing.sql
+END
+migration-newLines.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/3.7/!svn/ver/1/migration/253a-253b/migration-newLines.sql
+END
+migration-updateElements.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/migration/253a-253b/migration-updateElements.sql
+END

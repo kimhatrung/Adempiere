@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/jboss-web.deployer
+END
+jbossweb-extras.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/jboss-web.deployer/jbossweb-extras.jar
+END
+jbossweb-service.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/jboss-web.deployer/jbossweb-service.jar
+END
+serverTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/jboss-web.deployer/serverTemplate.xml
+END
+context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/jboss-web.deployer/context.xml
+END
+jbossweb.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/jboss-web.deployer/jbossweb.jar
+END
+jasper-jdt.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/jboss-web.deployer/jasper-jdt.jar
+END
+jstl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/3.7/!svn/ver/1/jboss/server/adempiere/deploy/jboss-web.deployer/jstl.jar
+END

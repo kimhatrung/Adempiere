@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/3.7/!svn/ver/1/db/database/Startup/db2
+END
+AfterImport.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/database/Startup/db2/AfterImport.sql
+END
+Stop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/database/Startup/db2/Stop.sql
+END
+Start.sql
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/database/Startup/db2/Start.sql
+END
+Test.sql
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/database/Startup/db2/Test.sql
+END
+BeforeExport.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/3.7/!svn/ver/1/db/database/Startup/db2/BeforeExport.sql
+END
+CheckDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/database/Startup/db2/CheckDB.sql
+END
+BackupCold.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/database/Startup/db2/BackupCold.sql
+END
+CreateUser.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/3.7/!svn/ver/1/db/database/Startup/db2/CreateUser.sql
+END
+Daily.sql
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/database/Startup/db2/Daily.sql
+END

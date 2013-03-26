@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/repos/3.7/!svn/ver/1/utils/oracle
+END
+Stop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/3.7/!svn/ver/1/utils/oracle/Stop.sh
+END
+Start.sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/3.7/!svn/ver/1/utils/oracle/Start.sh
+END
+DBExportFull.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/3.7/!svn/ver/1/utils/oracle/DBExportFull.sh
+END
+DBExportFull.bat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/utils/oracle/DBExportFull.bat
+END
+Stop.bat
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/3.7/!svn/ver/1/utils/oracle/Stop.bat
+END
+Start.bat
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/3.7/!svn/ver/1/utils/oracle/Start.bat
+END
+ExportReference.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/utils/oracle/ExportReference.sh
+END
+ImportReference.bat
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/utils/oracle/ImportReference.bat
+END
+DBExport.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/3.7/!svn/ver/1/utils/oracle/DBExport.sh
+END
+DBRestore.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/3.7/!svn/ver/1/utils/oracle/DBRestore.sh
+END
+ImportAdempiere.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/utils/oracle/ImportAdempiere.sh
+END
+PostMigration.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/utils/oracle/PostMigration.sh
+END
+ImportAdempiere.bat
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/utils/oracle/ImportAdempiere.bat
+END
+01_add_missing_Translations.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/3.7/!svn/ver/1/utils/oracle/01_add_missing_Translations.sql
+END
+DBRestore.bat
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/3.7/!svn/ver/1/utils/oracle/DBRestore.bat
+END
+DBExport.bat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/3.7/!svn/ver/1/utils/oracle/DBExport.bat
+END
+ImportReference.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/utils/oracle/ImportReference.sh
+END

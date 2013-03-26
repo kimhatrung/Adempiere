@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/3.7/!svn/ver/1/db/maintain/Other
+END
+DocStatusAction.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/3.7/!svn/ver/1/db/maintain/Other/DocStatusAction.sql
+END
+Java.sql
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/3.7/!svn/ver/1/db/maintain/Other/Java.sql
+END
+Apps_Tuning.sql
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/maintain/Other/Apps_Tuning.sql
+END
+Import_Overwrites.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/maintain/Other/Import_Overwrites.sql
+END
+dbms_job.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/db/maintain/Other/dbms_job.sql
+END
+Fix_CashBook.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/maintain/Other/Fix_CashBook.sql
+END
+UpdateWith2Tables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/3.7/!svn/ver/1/db/maintain/Other/UpdateWith2Tables.sql
+END
+Java_Drop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/maintain/Other/Java_Drop.sql
+END
+Monitor_Index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/3.7/!svn/ver/1/db/maintain/Other/Monitor_Index.sql
+END
+UpdateFK.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/3.7/!svn/ver/1/db/maintain/Other/UpdateFK.sql
+END
+Performance.sql
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/maintain/Other/Performance.sql
+END
+RenameTable.sql
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/maintain/Other/RenameTable.sql
+END
+RenameColumn.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/3.7/!svn/ver/1/db/maintain/Other/RenameColumn.sql
+END
+History.sql
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/maintain/Other/History.sql
+END
+UserErrors.sql
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/3.7/!svn/ver/1/db/maintain/Other/UserErrors.sql
+END
+Java_List.sql
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/3.7/!svn/ver/1/db/maintain/Other/Java_List.sql
+END
+cursors.sql
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/3.7/!svn/ver/1/db/maintain/Other/cursors.sql
+END
+C_Order_Ovr.sql
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/3.7/!svn/ver/1/db/maintain/Other/C_Order_Ovr.sql
+END
